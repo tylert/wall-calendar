@@ -1,3 +1,3 @@
 [submodule "pub"]
 	path = pub
-	url = git@github.com:tylert/wall-calendar-core.git
+	url = https://github.com/tylert/wall-calendar-core.git
