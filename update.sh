@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+make GEN_LANG=en
+make GEN_LANG=fr
+
 # XXX FIXME XXX Do this with the makefile instead
 
 if [ -f build/junior_en.pdf ]; then
@@ -17,3 +20,5 @@ fi
 if [ -f build/letter_2016_fr.pdf ]; then
   mv build/letter_2016_fr.pdf letter_2016_fr.pdf
 fi
+
+make clean
