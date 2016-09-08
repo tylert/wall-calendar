@@ -1,7 +1,6 @@
 wall-calendar
 =============
 
-::
+To build everything::
 
-    make GEN_LANG=en
-    make GEN_LANG=fr
+    ./update.sh

@@ -1,24 +1,24 @@
 #!/usr/bin/env bash
 
+YEAR=$(date +%Y)
+
 make GEN_LANG=en
 make GEN_LANG=fr
 
-# XXX FIXME XXX Do this with the makefile instead
-
 if [ -f build/junior_en.pdf ]; then
-  mv build/junior_en.pdf junior_2016_en.pdf
+  mv build/junior_en.pdf junior_en.pdf
 fi
 
 if [ -f build/junior_fr.pdf ]; then
-  mv build/junior_fr.pdf junior_2016_fr.pdf
+  mv build/junior_fr.pdf junior_fr.pdf
 fi
 
-if [ -f build/letter_2016_en.pdf ]; then
-  mv build/letter_2016_en.pdf letter_2016_en.pdf
+if [ -f build/letter_${YEAR}_en.pdf ]; then
+  mv build/letter_${YEAR}_en.pdf letter_en.pdf
 fi
 
-if [ -f build/letter_2016_fr.pdf ]; then
-  mv build/letter_2016_fr.pdf letter_2016_fr.pdf
+if [ -f build/letter_${YEAR}_fr.pdf ]; then
+  mv build/letter_${YEAR}_fr.pdf letter_fr.pdf
 fi
 
 make clean
