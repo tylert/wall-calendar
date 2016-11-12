@@ -1116,12 +1116,12 @@ stream
 <?adobe-xap-filters esc="CRLF"?>
 <x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='XMP toolkit 2.9.1-13, framework 1.6'>
 <rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:iX='http://ns.adobe.com/iX/1.0/'>
-<rdf:Description rdf:about='uuid:b6884745-daea-11f1-0000-fea2570a253b' xmlns:pdf='http://ns.adobe.com/pdf/1.3/' pdf:Producer='GPL Ghostscript 9.06'/>
-<rdf:Description rdf:about='uuid:b6884745-daea-11f1-0000-fea2570a253b' xmlns:xmp='http://ns.adobe.com/xap/1.0/'><xmp:ModifyDate>2016-11-04T16:35:03-04:00</xmp:ModifyDate>
-<xmp:CreateDate>2016-11-04T16:35:03-04:00</xmp:CreateDate>
+<rdf:Description rdf:about='uuid:f244ac8c-e126-11f1-0000-1619b1fa1ab3' xmlns:pdf='http://ns.adobe.com/pdf/1.3/' pdf:Producer='GPL Ghostscript 9.06'/>
+<rdf:Description rdf:about='uuid:f244ac8c-e126-11f1-0000-1619b1fa1ab3' xmlns:xmp='http://ns.adobe.com/xap/1.0/'><xmp:ModifyDate>2016-11-12T14:01:20-05:00</xmp:ModifyDate>
+<xmp:CreateDate>2016-11-12T14:01:20-05:00</xmp:CreateDate>
 <xmp:CreatorTool>GPL Ghostscript 906 (ps2write)</xmp:CreatorTool></rdf:Description>
-<rdf:Description rdf:about='uuid:b6884745-daea-11f1-0000-fea2570a253b' xmlns:xapMM='http://ns.adobe.com/xap/1.0/mm/' xapMM:DocumentID='uuid:b6884745-daea-11f1-0000-fea2570a253b'/>
-<rdf:Description rdf:about='uuid:b6884745-daea-11f1-0000-fea2570a253b' xmlns:dc='http://purl.org/dc/elements/1.1/' dc:format='application/pdf'><dc:title><rdf:Alt><rdf:li xml:lang='x-default'>Untitled</rdf:li></rdf:Alt></dc:title></rdf:Description>
+<rdf:Description rdf:about='uuid:f244ac8c-e126-11f1-0000-1619b1fa1ab3' xmlns:xapMM='http://ns.adobe.com/xap/1.0/mm/' xapMM:DocumentID='uuid:f244ac8c-e126-11f1-0000-1619b1fa1ab3'/>
+<rdf:Description rdf:about='uuid:f244ac8c-e126-11f1-0000-1619b1fa1ab3' xmlns:dc='http://purl.org/dc/elements/1.1/' dc:format='application/pdf'><dc:title><rdf:Alt><rdf:li xml:lang='x-default'>Untitled</rdf:li></rdf:Alt></dc:title></rdf:Description>
 </rdf:RDF>
 </x:xmpmeta>
                                                                         
@@ -6147,7 +6147,7 @@ endobj
 endobj 
 76 0 obj 
 <<
-/Length 7421
+/Length 7483
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -6266,6 +6266,7 @@ q
 (Jour du Souvenir )Tj
 10.8 TL
 (Jour de l'Armistice \(NL\) )'
+(Jour de l'Armistice \(UK\) )'
 (Jour des anciens )'
 9 TL
 (combattants \(US\) )'
@@ -6322,6 +6323,7 @@ q
 (Jour du Souvenir )Tj
 10.8 TL
 (Jour de l'Armistice \(NL\) )'
+(Jour de l'Armistice \(UK\) )'
 (Jour des anciens )'
 9 TL
 (combattants \(US\) )'
@@ -6589,8 +6591,8 @@ endstream
 endobj 
 81 0 obj 
 <<
-/ModDate (D:20161104163503-04'00')
-/CreationDate (D:20161104163503-04'00')
+/ModDate (D:20161112140120-05'00')
+/CreationDate (D:20161112140120-05'00')
 /Creator (GPL Ghostscript 906 \(ps2write\))
 /Producer (GPL Ghostscript 9.06)
 >>
@@ -6677,15 +6679,15 @@ endobj xref
 0000048324 00000 n 
 0000048276 00000 n 
 0000048414 00000 n 
-0000128565 00000 n 
+0000128627 00000 n 
 trailer
 
 <<
 /Info 81 0 R
-/ID [<a5b765ddde96707536dfaa0ec5abae24> <a5b765ddde96707536dfaa0ec5abae24>]
+/ID [<a581af06e886d83fc2839d8d45df9b3a> <a581af06e886d83fc2839d8d45df9b3a>]
 /Root 26 0 R
 /Size 82
 >>
 startxref
-128740
+128802
 %%EOF
