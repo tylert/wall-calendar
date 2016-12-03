@@ -3,4 +3,4 @@ wall-calendar
 
 To build everything::
 
-    ./update.sh
+    DATE=2017-01-01 ./update.sh
