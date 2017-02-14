@@ -1099,12 +1099,12 @@ stream
 <?adobe-xap-filters esc="CRLF"?>
 <x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='XMP toolkit 2.9.1-13, framework 1.6'>
 <rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:iX='http://ns.adobe.com/iX/1.0/'>
-<rdf:Description rdf:about='uuid:1006c51c-25bc-11f2-0000-8d721436b1a6' xmlns:pdf='http://ns.adobe.com/pdf/1.3/' pdf:Producer='GPL Ghostscript 9.20'/>
-<rdf:Description rdf:about='uuid:1006c51c-25bc-11f2-0000-8d721436b1a6' xmlns:xmp='http://ns.adobe.com/xap/1.0/'><xmp:ModifyDate>2017-02-07T20:40:04-05:00</xmp:ModifyDate>
-<xmp:CreateDate>2017-02-07T20:40:04-05:00</xmp:CreateDate>
+<rdf:Description rdf:about='uuid:35e7306e-2b2a-11f2-0000-79bddb05470e' xmlns:pdf='http://ns.adobe.com/pdf/1.3/' pdf:Producer='GPL Ghostscript 9.20'/>
+<rdf:Description rdf:about='uuid:35e7306e-2b2a-11f2-0000-79bddb05470e' xmlns:xmp='http://ns.adobe.com/xap/1.0/'><xmp:ModifyDate>2017-02-14T18:31:08-05:00</xmp:ModifyDate>
+<xmp:CreateDate>2017-02-14T18:31:08-05:00</xmp:CreateDate>
 <xmp:CreatorTool>GPL Ghostscript 920 (ps2write)</xmp:CreatorTool></rdf:Description>
-<rdf:Description rdf:about='uuid:1006c51c-25bc-11f2-0000-8d721436b1a6' xmlns:xapMM='http://ns.adobe.com/xap/1.0/mm/' xapMM:DocumentID='uuid:1006c51c-25bc-11f2-0000-8d721436b1a6'/>
-<rdf:Description rdf:about='uuid:1006c51c-25bc-11f2-0000-8d721436b1a6' xmlns:dc='http://purl.org/dc/elements/1.1/' dc:format='application/pdf'><dc:title><rdf:Alt><rdf:li xml:lang='x-default'>Untitled</rdf:li></rdf:Alt></dc:title></rdf:Description>
+<rdf:Description rdf:about='uuid:35e7306e-2b2a-11f2-0000-79bddb05470e' xmlns:xapMM='http://ns.adobe.com/xap/1.0/mm/' xapMM:DocumentID='uuid:35e7306e-2b2a-11f2-0000-79bddb05470e'/>
+<rdf:Description rdf:about='uuid:35e7306e-2b2a-11f2-0000-79bddb05470e' xmlns:dc='http://purl.org/dc/elements/1.1/' dc:format='application/pdf'><dc:title><rdf:Alt><rdf:li xml:lang='x-default'>Untitled</rdf:li></rdf:Alt></dc:title></rdf:Description>
 </rdf:RDF>
 </x:xmpmeta>
                                                                         
@@ -1800,7 +1800,7 @@ endobj
 endobj 
 46 0 obj 
 <<
-/Length 8144
+/Length 8166
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -2172,7 +2172,7 @@ q
 (25)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Jour d'Anzac )Tj
+(Jour d'Anzac \(AU, NZ\) )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
 [(26)-12995.2(27)-12995.2(28)-12995.1(29)]TJ
@@ -2217,7 +2217,7 @@ q
 (25)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Jour d'Anzac )Tj
+(Jour d'Anzac \(AU, NZ\) )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
 [(26)-12995.2(27)-12995.2(28)-12995.1(29)]TJ
@@ -3062,16 +3062,16 @@ q
 [(22)-12995.2(23)-12995.1(24)]TJ
 /R8 7.2 Tf
 120.377 -7.2 Td
-(Nativité de saint )Tj
-(Jean-Baptiste )'
+(Fête nationale des )Tj
+(Québecois )'
 10.8 TL
 (Fête de la )'
 9 TL
 (Saint-Jean-Baptiste )'
 10.8 TL
-(Fête nationale des )'
+(Nativité de saint )'
 9 TL
-(Québecois )'
+(Jean-Baptiste )'
 10.8 TL
 (18:00-20:59+1 Field Day )'
 ET
@@ -3130,16 +3130,16 @@ q
 [(22)-12995.2(23)-12995.1(24)]TJ
 /R8 7.2 Tf
 120.377 -7.2 Td
-(Nativité de saint )Tj
-(Jean-Baptiste )'
+(Fête nationale des )Tj
+(Québecois )'
 10.8 TL
 (Fête de la )'
 9 TL
 (Saint-Jean-Baptiste )'
 10.8 TL
-(Fête nationale des )'
+(Nativité de saint )'
 9 TL
-(Québecois )'
+(Jean-Baptiste )'
 10.8 TL
 (18:00-20:59+1 Field Day )'
 ET
@@ -4070,7 +4070,7 @@ endobj
 endobj 
 61 0 obj 
 <<
-/Length 7433
+/Length 7541
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -4118,9 +4118,13 @@ q
 -86.7684 -7.2 Td
 (Jour de la marine )Tj
 9 TL
-(marchande \(UK, NZ\) )'
+(marchande \(CA\) )'
+10.8 TL
+(Jour de la marine )'
+9 TL
+(marchande \(NZ, UK\) )'
 /R9 7.2 Tf
-188.34 16.2 Td
+188.34 36 Td
 (4)Tj
 /R8 7.2 Tf
 -86.7684 -7.2 Td
@@ -4172,9 +4176,13 @@ q
 -86.7684 -7.2 Td
 (Jour de la marine )Tj
 9 TL
-(marchande \(UK, NZ\) )'
+(marchande \(CA\) )'
+10.8 TL
+(Jour de la marine )'
+9 TL
+(marchande \(NZ, UK\) )'
 /R9 7.2 Tf
-188.34 16.2 Td
+188.34 36 Td
 (4)Tj
 /R8 7.2 Tf
 -86.7684 -7.2 Td
@@ -4957,7 +4965,7 @@ endobj
 endobj 
 67 0 obj 
 <<
-/Length 7851
+/Length 7779
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -5009,10 +5017,7 @@ q
 [(3)-13551.1(4)]TJ
 /R8 7.2 Tf
 14.8031 -7.2 Td
-(Nuit de feu de joie \(UK\) )Tj
-10.8 TL
-(21:00-02:59+2 )'
-9 TL
+(21:00-02:59+2 )Tj
 (Sweepstakes CW de )'
 (novembre ARRL )'
 ET
@@ -5051,10 +5056,7 @@ q
 [(3)-13551.1(4)]TJ
 /R8 7.2 Tf
 14.8031 -7.2 Td
-(Nuit de feu de joie \(UK\) )Tj
-10.8 TL
-(21:00-02:59+2 )'
-9 TL
+(21:00-02:59+2 )Tj
 (Sweepstakes CW de )'
 (novembre ARRL )'
 ET
@@ -5092,10 +5094,11 @@ q
 (Jour du Souvenir )Tj
 10.8 TL
 (Jour de l'Armistice \(NL\) )'
-(Jour de l'Armistice \(UK\) )'
 (Jour des anciens )'
 9 TL
 (combattants \(US\) )'
+10.8 TL
+(Jour de l'Armistice \(UK\) )'
 ET
 Q
 2668.14 7497.9 m
@@ -5149,10 +5152,11 @@ q
 (Jour du Souvenir )Tj
 10.8 TL
 (Jour de l'Armistice \(NL\) )'
-(Jour de l'Armistice \(UK\) )'
 (Jour des anciens )'
 9 TL
 (combattants \(US\) )'
+10.8 TL
+(Jour de l'Armistice \(UK\) )'
 ET
 Q
 2668.14 7497.9 m
@@ -6791,8 +6795,8 @@ endstream
 endobj 
 81 0 obj 
 <<
-/ModDate (D:20170207204004-05'00')
-/CreationDate (D:20170207204004-05'00')
+/ModDate (D:20170214183108-05'00')
+/CreationDate (D:20170214183108-05'00')
 /Creator (GPL Ghostscript 920 \(ps2write\))
 /Producer (GPL Ghostscript 9.20)
 >>
@@ -6845,49 +6849,49 @@ endobj xref
 0000048502 00000 n 
 0000048548 00000 n 
 0000048583 00000 n 
-0000056783 00000 n 
-0000056829 00000 n 
-0000056864 00000 n 
-0000064261 00000 n 
-0000064307 00000 n 
-0000064342 00000 n 
-0000072656 00000 n 
-0000072702 00000 n 
-0000072737 00000 n 
-0000079781 00000 n 
-0000079827 00000 n 
-0000079862 00000 n 
-0000086130 00000 n 
-0000086176 00000 n 
-0000086211 00000 n 
-0000093700 00000 n 
-0000093746 00000 n 
-0000093781 00000 n 
-0000100995 00000 n 
-0000101041 00000 n 
-0000101076 00000 n 
-0000108983 00000 n 
-0000109029 00000 n 
-0000109064 00000 n 
-0000116577 00000 n 
-0000116623 00000 n 
-0000116658 00000 n 
-0000123831 00000 n 
-0000123877 00000 n 
-0000123912 00000 n 
+0000056805 00000 n 
+0000056851 00000 n 
+0000056886 00000 n 
+0000064283 00000 n 
+0000064329 00000 n 
+0000064364 00000 n 
+0000072678 00000 n 
+0000072724 00000 n 
+0000072759 00000 n 
+0000079803 00000 n 
+0000079849 00000 n 
+0000079884 00000 n 
+0000086152 00000 n 
+0000086198 00000 n 
+0000086233 00000 n 
+0000093830 00000 n 
+0000093876 00000 n 
+0000093911 00000 n 
+0000101125 00000 n 
+0000101171 00000 n 
+0000101206 00000 n 
+0000109041 00000 n 
+0000109087 00000 n 
+0000109122 00000 n 
+0000116635 00000 n 
+0000116681 00000 n 
+0000116716 00000 n 
+0000123889 00000 n 
+0000123935 00000 n 
+0000123970 00000 n 
 0000048417 00000 n 
 0000048151 00000 n 
 0000048103 00000 n 
 0000048241 00000 n 
-0000131507 00000 n 
+0000131565 00000 n 
 trailer
 
 <<
 /Info 81 0 R
-/ID [<a6d06ba8fc758778f1bcd1d5f0fab58e> <a6d06ba8fc758778f1bcd1d5f0fab58e>]
+/ID [<879990f6930c751c0ab01157f30281be> <879990f6930c751c0ab01157f30281be>]
 /Root 26 0 R
 /Size 82
 >>
 startxref
-131682
+131740
 %%EOF

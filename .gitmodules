@@ -1,3 +1,4 @@
 [submodule "pub"]
 	path = pub
 	url = https://github.com/tylert/wall-calendar-core.git
+	branch = master
