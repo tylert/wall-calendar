@@ -1099,12 +1099,12 @@ stream
 <?adobe-xap-filters esc="CRLF"?>
 <x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='XMP toolkit 2.9.1-13, framework 1.6'>
 <rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:iX='http://ns.adobe.com/iX/1.0/'>
-<rdf:Description rdf:about='uuid:35e7306e-2b2a-11f2-0000-79bddb05470e' xmlns:pdf='http://ns.adobe.com/pdf/1.3/' pdf:Producer='GPL Ghostscript 9.20'/>
-<rdf:Description rdf:about='uuid:35e7306e-2b2a-11f2-0000-79bddb05470e' xmlns:xmp='http://ns.adobe.com/xap/1.0/'><xmp:ModifyDate>2017-02-14T18:31:08-05:00</xmp:ModifyDate>
-<xmp:CreateDate>2017-02-14T18:31:08-05:00</xmp:CreateDate>
+<rdf:Description rdf:about='uuid:21149844-2b3e-11f2-0000-c9f3a61a9e36' xmlns:pdf='http://ns.adobe.com/pdf/1.3/' pdf:Producer='GPL Ghostscript 9.20'/>
+<rdf:Description rdf:about='uuid:21149844-2b3e-11f2-0000-c9f3a61a9e36' xmlns:xmp='http://ns.adobe.com/xap/1.0/'><xmp:ModifyDate>2017-02-14T20:53:43-05:00</xmp:ModifyDate>
+<xmp:CreateDate>2017-02-14T20:53:43-05:00</xmp:CreateDate>
 <xmp:CreatorTool>GPL Ghostscript 920 (ps2write)</xmp:CreatorTool></rdf:Description>
-<rdf:Description rdf:about='uuid:35e7306e-2b2a-11f2-0000-79bddb05470e' xmlns:xapMM='http://ns.adobe.com/xap/1.0/mm/' xapMM:DocumentID='uuid:35e7306e-2b2a-11f2-0000-79bddb05470e'/>
-<rdf:Description rdf:about='uuid:35e7306e-2b2a-11f2-0000-79bddb05470e' xmlns:dc='http://purl.org/dc/elements/1.1/' dc:format='application/pdf'><dc:title><rdf:Alt><rdf:li xml:lang='x-default'>Untitled</rdf:li></rdf:Alt></dc:title></rdf:Description>
+<rdf:Description rdf:about='uuid:21149844-2b3e-11f2-0000-c9f3a61a9e36' xmlns:xapMM='http://ns.adobe.com/xap/1.0/mm/' xapMM:DocumentID='uuid:21149844-2b3e-11f2-0000-c9f3a61a9e36'/>
+<rdf:Description rdf:about='uuid:21149844-2b3e-11f2-0000-c9f3a61a9e36' xmlns:dc='http://purl.org/dc/elements/1.1/' dc:format='application/pdf'><dc:title><rdf:Alt><rdf:li xml:lang='x-default'>Untitled</rdf:li></rdf:Alt></dc:title></rdf:Description>
 </rdf:RDF>
 </x:xmpmeta>
                                                                         
@@ -1372,7 +1372,7 @@ endobj
 endobj 
 43 0 obj 
 <<
-/Length 6654
+/Length 5768
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -1411,16 +1411,9 @@ q
 (Fête de la Saint-David \(UK\) )Tj
 10.8 TL
 (Mercredi des Cendres )'
-(19:30-21:00 Meeting de )'
-9 TL
-(OARC exécutif )'
 /R9 7.2 Tf
-188.34 37.8 Td
+188.34 18 Td
 [(2)-13551.1(3)-13551.1(4)]TJ
-/R8 7.2 Tf
-116.374 -7.2 Td
-(00:00-23:59+1 Concours )Tj
-(DX international SSB )'
 ET
 Q
 1635.27 7497.9 m
@@ -1431,20 +1424,7 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 176.127 130.958 Tm
-[(5)-13551.2(6)-13551.2(7)-13551.2(8)]TJ
-/R8 7.2 Tf
-217.946 -7.2 Td
-(19:30-22:00 Meeting de )Tj
-9 TL
-(OARC )'
-/R9 7.2 Tf
-188.34 16.2 Td
-[(9)-12995.2(10)-12995.1(11)]TJ
-/R8 7.2 Tf
-116.374 -7.2 Td
-(10:00-10:00+1 80e )Tj
-(Concours CW BERU )'
-(Commonwealth RSGB )'
+[(5)-13551.2(6)-13551.2(7)-13551.2(8)-13551.1(9)-12995.2(10)-12995.1(11)]TJ
 ET
 Q
 2668.14 7497.9 m
@@ -1473,20 +1453,7 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 176.127 130.958 Tm
-[(5)-13551.2(6)-13551.2(7)-13551.2(8)]TJ
-/R8 7.2 Tf
-217.946 -7.2 Td
-(19:30-22:00 Meeting de )Tj
-9 TL
-(OARC )'
-/R9 7.2 Tf
-188.34 16.2 Td
-[(9)-12995.2(10)-12995.1(11)]TJ
-/R8 7.2 Tf
-116.374 -7.2 Td
-(10:00-10:00+1 80e )Tj
-(Concours CW BERU )'
-(Commonwealth RSGB )'
+[(5)-13551.2(6)-13551.2(7)-13551.2(8)-13551.1(9)-12995.2(10)-12995.1(11)]TJ
 ET
 Q
 2668.14 7497.9 m
@@ -1513,16 +1480,9 @@ q
 (Jour du Commonwealth )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
-[(14)-12995.2(15)]TJ
+[(14)-12995.2(15)-12995.2(16)-12995.2(17)]TJ
 /R8 7.2 Tf
-18.8059 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-(OVMRC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-[(16)-12995.2(17)]TJ
-/R8 7.2 Tf
-18.8062 -7.2 Td
+221.949 -7.2 Td
 (Fête de la Saint-Patrick )Tj
 /R9 7.2 Tf
 184.336 7.2 Td
@@ -1567,16 +1527,9 @@ q
 (Jour du Commonwealth )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
-[(14)-12995.2(15)]TJ
+[(14)-12995.2(15)-12995.2(16)-12995.2(17)]TJ
 /R8 7.2 Tf
-18.8059 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-(OVMRC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-[(16)-12995.2(17)]TJ
-/R8 7.2 Tf
-18.8062 -7.2 Td
+221.949 -7.2 Td
 (Fête de la Saint-Patrick )Tj
 /R9 7.2 Tf
 184.336 7.2 Td
@@ -1599,20 +1552,12 @@ q
 (Fête de la Saint-Patrick )'
 9 TL
 (\(NL\) )'
-10.8 TL
-(19:00-21:00 Meeting de )'
-9 TL
-(WCARC )'
 /R9 7.2 Tf
-184.337 46.8 Td
+184.337 27 Td
 [(21)-12995.2(22)-12995.2(23)-12995.2(24)-12995.1(25)]TJ
 /R8 7.2 Tf
 323.52 -7.2 Td
 (Annonciation )Tj
-10.8 TL
-(00:00-23:59+1 )'
-9 TL
-(*CQ-WW-WPX-SSB* )'
 ET
 Q
 4733.88 7497.9 m
@@ -1649,20 +1594,12 @@ q
 (Fête de la Saint-Patrick )'
 9 TL
 (\(NL\) )'
-10.8 TL
-(19:00-21:00 Meeting de )'
-9 TL
-(WCARC )'
 /R9 7.2 Tf
-184.337 46.8 Td
+184.337 27 Td
 [(21)-12995.2(22)-12995.2(23)-12995.2(24)-12995.1(25)]TJ
 /R8 7.2 Tf
 323.52 -7.2 Td
 (Annonciation )Tj
-10.8 TL
-(00:00-23:59+1 )'
-9 TL
-(*CQ-WW-WPX-SSB* )'
 ET
 Q
 4733.88 7497.9 m
@@ -1777,7 +1714,7 @@ endobj
 80 0 obj 
 <<
 /Type /Encoding
-/Differences [45 /minus 174 /registered 226 /acircumflex 232 /egrave /eacute /ecircumflex /edieresis 244 /ocircumflex 251 /ucircumflex]
+/Differences [45 /minus 226 /acircumflex 232 /egrave /eacute /ecircumflex /edieresis 244 /ocircumflex 251 /ucircumflex]
 >>
 endobj 
 77 0 obj 
@@ -1800,7 +1737,7 @@ endobj
 endobj 
 46 0 obj 
 <<
-/Length 8166
+/Length 7074
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -1846,17 +1783,9 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 158.913 130.958 Tm
-[(2)-13551.2(3)-13551.2(4)-13551.2(5)]TJ
+[(2)-13551.2(3)-13551.2(4)-13551.2(5)-13551.1(6)]TJ
 /R8 7.2 Tf
-217.946 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-9 TL
-(OARC exécutif )'
-/R9 7.2 Tf
-188.34 16.2 Td
-(6)Tj
-/R8 7.2 Tf
--86.7684 -7.2 Td
+319.518 -7.2 Td
 (Jour du tartan )Tj
 /R9 7.2 Tf
 188.339 7.2 Td
@@ -1889,17 +1818,9 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 158.913 130.958 Tm
-[(2)-13551.2(3)-13551.2(4)-13551.2(5)]TJ
+[(2)-13551.2(3)-13551.2(4)-13551.2(5)-13551.1(6)]TJ
 /R8 7.2 Tf
-217.946 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-9 TL
-(OARC exécutif )'
-/R9 7.2 Tf
-188.34 16.2 Td
-(6)Tj
-/R8 7.2 Tf
--86.7684 -7.2 Td
+319.518 -7.2 Td
 (Jour du tartan )Tj
 /R9 7.2 Tf
 188.339 7.2 Td
@@ -1928,32 +1849,19 @@ q
 (Début de Pâque des Juifs )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
-(12)Tj
+[(12)-12995.2(13)]TJ
 /R8 7.2 Tf
--82.7652 -7.2 Td
-(19:30-22:00 Meeting de )Tj
-9 TL
-(OARC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-(13)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
+18.8062 -7.2 Td
 (Jeudi saint )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
 (14)Tj
 /R8 7.2 Tf
--82.7652 -7.2 Td
+-82.7648 -7.2 Td
 (Vendredi saint )Tj
 /R9 7.2 Tf
 184.336 7.2 Td
 (15)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
-(18:00-05:00+1 20e )Tj
-(Concours Ontario QSO )'
-(Party 1e partie )'
 ET
 Q
 3184.58 7497.9 m
@@ -1992,32 +1900,19 @@ q
 (Début de Pâque des Juifs )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
-(12)Tj
+[(12)-12995.2(13)]TJ
 /R8 7.2 Tf
--82.7652 -7.2 Td
-(19:30-22:00 Meeting de )Tj
-9 TL
-(OARC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-(13)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
+18.8062 -7.2 Td
 (Jeudi saint )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
 (14)Tj
 /R8 7.2 Tf
--82.7652 -7.2 Td
+-82.7648 -7.2 Td
 (Vendredi saint )Tj
 /R9 7.2 Tf
 184.336 7.2 Td
 (15)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
-(18:00-05:00+1 20e )Tj
-(Concours Ontario QSO )'
-(Party 1e partie )'
 ET
 Q
 3184.58 7497.9 m
@@ -2032,16 +1927,8 @@ q
 /R8 7.2 Tf
 -82.7652 -7.2 Td
 (Le dimanche de Pâques )Tj
-10.8 TL
-(12:00-18:00 20e Concours )'
-9 TL
-(Ontario QSO Party 2e partie )'
-10.8 TL
-(18:00-23:59 Rookie )'
-9 TL
-(Roundup SSB ARRL )'
 /R9 7.2 Tf
-184.337 46.8 Td
+184.337 7.2 Td
 (17)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
@@ -2052,22 +1939,13 @@ q
 /R8 7.2 Tf
 -82.7652 -7.2 Td
 (Fin de Pâque des Juifs )Tj
-10.8 TL
-(Journée de la radio amateur )'
 /R9 7.2 Tf
-184.337 18 Td
-(19)Tj
+184.337 7.2 Td
+[(19)-12995.2(20)-12995.2(21)]TJ
 /R8 7.2 Tf
--82.7648 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-9 TL
-(OVMRC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-[(20)-12995.2(21)]TJ
-/R8 7.2 Tf
-18.8062 -7.2 Td
+120.378 -7.2 Td
 (Anniversaire de la reine )Tj
+9 TL
 (\(UK\) )'
 /R9 7.2 Tf
 184.336 16.2 Td
@@ -2104,16 +1982,8 @@ q
 /R8 7.2 Tf
 -82.7652 -7.2 Td
 (Le dimanche de Pâques )Tj
-10.8 TL
-(12:00-18:00 20e Concours )'
-9 TL
-(Ontario QSO Party 2e partie )'
-10.8 TL
-(18:00-23:59 Rookie )'
-9 TL
-(Roundup SSB ARRL )'
 /R9 7.2 Tf
-184.337 46.8 Td
+184.337 7.2 Td
 (17)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
@@ -2124,22 +1994,13 @@ q
 /R8 7.2 Tf
 -82.7652 -7.2 Td
 (Fin de Pâque des Juifs )Tj
-10.8 TL
-(Journée de la radio amateur )'
 /R9 7.2 Tf
-184.337 18 Td
-(19)Tj
+184.337 7.2 Td
+[(19)-12995.2(20)-12995.2(21)]TJ
 /R8 7.2 Tf
--82.7648 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-9 TL
-(OVMRC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-[(20)-12995.2(21)]TJ
-/R8 7.2 Tf
-18.8062 -7.2 Td
+120.378 -7.2 Td
 (Anniversaire de la reine )Tj
+9 TL
 (\(UK\) )'
 /R9 7.2 Tf
 184.336 16.2 Td
@@ -2320,7 +2181,7 @@ endobj
 endobj 
 49 0 obj 
 <<
-/Length 7341
+/Length 5985
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -2353,26 +2214,13 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 72.8406 232.53 Tm
-[(1)-13551.2(2)-13551.2(3)]TJ
+[(1)-13551.2(2)-13551.2(3)-13551.1(4)-13551.1(5)]TJ
 /R8 7.2 Tf
-116.375 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-9 TL
-(OARC exécutif )'
-/R9 7.2 Tf
-188.34 16.2 Td
-[(4)-13551.1(5)]TJ
-/R8 7.2 Tf
-14.8031 -7.2 Td
+319.518 -7.2 Td
 (Fête du 5 mai \(US\) )Tj
-10.8 TL
-(*LHFR* )'
 /R9 7.2 Tf
-188.339 18 Td
+188.339 7.2 Td
 (6)Tj
-/R8 7.2 Tf
--86.7684 -7.2 Td
-(*LHFR* )Tj
 ET
 Q
 1635.27 7497.9 m
@@ -2394,26 +2242,13 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 72.8406 232.53 Tm
-[(1)-13551.2(2)-13551.2(3)]TJ
+[(1)-13551.2(2)-13551.2(3)-13551.1(4)-13551.1(5)]TJ
 /R8 7.2 Tf
-116.375 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-9 TL
-(OARC exécutif )'
-/R9 7.2 Tf
-188.34 16.2 Td
-[(4)-13551.1(5)]TJ
-/R8 7.2 Tf
-14.8031 -7.2 Td
+319.518 -7.2 Td
 (Fête du 5 mai \(US\) )Tj
-10.8 TL
-(*LHFR* )'
 /R9 7.2 Tf
-188.339 18 Td
+188.339 7.2 Td
 (6)Tj
-/R8 7.2 Tf
--86.7684 -7.2 Td
-(*LHFR* )Tj
 ET
 Q
 1635.27 7497.9 m
@@ -2424,22 +2259,7 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 176.127 130.958 Tm
-(7)Tj
-/R8 7.2 Tf
--86.7684 -7.2 Td
-(07:30-13:30 Le Défi CN )Tj
-9 TL
-(pour le CHEO )'
-/R9 7.2 Tf
-188.34 16.2 Td
-[(8)-13551.2(9)-12995.2(10)]TJ
-/R8 7.2 Tf
-116.375 -7.2 Td
-(19:30-22:00 Meeting de )Tj
-(OARC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-[(11)-12995.2(12)-12995.1(13)]TJ
+[(7)-13551.2(8)-13551.2(9)-12995.2(10)-12995.2(11)-12995.2(12)-12995.1(13)]TJ
 ET
 Q
 2668.14 7497.9 m
@@ -2464,22 +2284,7 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 176.127 130.958 Tm
-(7)Tj
-/R8 7.2 Tf
--86.7684 -7.2 Td
-(07:30-13:30 Le Défi CN )Tj
-9 TL
-(pour le CHEO )'
-/R9 7.2 Tf
-188.34 16.2 Td
-[(8)-13551.2(9)-12995.2(10)]TJ
-/R8 7.2 Tf
-116.375 -7.2 Td
-(19:30-22:00 Meeting de )Tj
-(OARC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-[(11)-12995.2(12)-12995.1(13)]TJ
+[(7)-13551.2(8)-13551.2(9)-12995.2(10)-12995.2(11)-12995.2(12)-12995.1(13)]TJ
 ET
 Q
 2668.14 7497.9 m
@@ -2496,32 +2301,11 @@ q
 (Fête des mères )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
-(15)Tj
+[(15)-12995.2(16)-12995.2(17)-12995.2(18)-12995.2(19)-12995.1(20)]TJ
 /R8 7.2 Tf
--82.7652 -7.2 Td
-(19:00-21:00 Meeting de )Tj
-9 TL
-(WCARC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-[(16)-12995.2(17)]TJ
-/R8 7.2 Tf
-18.8059 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-(OVMRC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-[(18)-12995.2(19)]TJ
-/R8 7.2 Tf
-18.8062 -7.2 Td
-(Hamvention® de Dayton )Tj
-(commence )'
-/R9 7.2 Tf
-184.336 16.2 Td
-(20)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
+425.092 -7.2 Td
 (Journée des forces armées )Tj
+9 TL
 (\(US\) )'
 ET
 Q
@@ -2557,32 +2341,11 @@ q
 (Fête des mères )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
-(15)Tj
+[(15)-12995.2(16)-12995.2(17)-12995.2(18)-12995.2(19)-12995.1(20)]TJ
 /R8 7.2 Tf
--82.7652 -7.2 Td
-(19:00-21:00 Meeting de )Tj
-9 TL
-(WCARC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-[(16)-12995.2(17)]TJ
-/R8 7.2 Tf
-18.8059 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-(OVMRC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-[(18)-12995.2(19)]TJ
-/R8 7.2 Tf
-18.8062 -7.2 Td
-(Hamvention® de Dayton )Tj
-(commence )'
-/R9 7.2 Tf
-184.336 16.2 Td
-(20)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
+425.092 -7.2 Td
 (Journée des forces armées )Tj
+9 TL
 (\(US\) )'
 ET
 Q
@@ -2611,10 +2374,6 @@ q
 /R9 7.2 Tf
 184.337 7.2 Td
 [(26)-12995.1(27)]TJ
-/R8 7.2 Tf
-18.8059 -7.2 Td
-(00:00-23:59+1 )Tj
-(*CQ-WW-WPX-CW* )'
 ET
 Q
 4733.88 7497.9 m
@@ -2655,10 +2414,6 @@ q
 /R9 7.2 Tf
 184.337 7.2 Td
 [(26)-12995.1(27)]TJ
-/R8 7.2 Tf
-18.8059 -7.2 Td
-(00:00-23:59+1 )Tj
-(*CQ-WW-WPX-CW* )'
 ET
 Q
 4733.88 7497.9 m
@@ -2777,7 +2532,7 @@ endobj
 endobj 
 52 0 obj 
 <<
-/Length 8258
+/Length 6918
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -2817,9 +2572,6 @@ q
 /R9 7.2 Tf
 188.339 7.2 Td
 [(2)-13551.1(3)]TJ
-/R8 7.2 Tf
-14.8027 -7.2 Td
-(Portes ouvertes Ottawa )Tj
 ET
 Q
 1646.48 7497.9 m
@@ -2848,9 +2600,6 @@ q
 /R9 7.2 Tf
 188.339 7.2 Td
 [(2)-13551.1(3)]TJ
-/R8 7.2 Tf
-14.8027 -7.2 Td
-(Portes ouvertes Ottawa )Tj
 ET
 Q
 1646.48 7497.9 m
@@ -2869,25 +2618,9 @@ q
 (canadiennes )'
 10.8 TL
 (Pentecôte )'
-(Portes ouvertes Ottawa )'
 /R9 7.2 Tf
-188.34 37.8 Td
-[(5)-13551.2(6)-13551.2(7)]TJ
-/R8 7.2 Tf
-116.375 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-9 TL
-(OARC exécutif )'
-/R9 7.2 Tf
-188.34 16.2 Td
-[(8)-13551.1(9)-12995.2(10)]TJ
-/R8 7.2 Tf
-116.374 -7.2 Td
-(*RLCT* )Tj
-10.8 TL
-(18:00-02:59+2 QSO Party )'
-9 TL
-(VHF de juin ARRL )'
+188.34 27 Td
+[(5)-13551.2(6)-13551.2(7)-13551.1(8)-13551.1(9)-12995.2(10)]TJ
 ET
 Q
 2676.54 7497.9 m
@@ -2920,25 +2653,9 @@ q
 (canadiennes )'
 10.8 TL
 (Pentecôte )'
-(Portes ouvertes Ottawa )'
 /R9 7.2 Tf
-188.34 37.8 Td
-[(5)-13551.2(6)-13551.2(7)]TJ
-/R8 7.2 Tf
-116.375 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-9 TL
-(OARC exécutif )'
-/R9 7.2 Tf
-188.34 16.2 Td
-[(8)-13551.1(9)-12995.2(10)]TJ
-/R8 7.2 Tf
-116.374 -7.2 Td
-(*RLCT* )Tj
-10.8 TL
-(18:00-02:59+2 QSO Party )'
-9 TL
-(VHF de juin ARRL )'
+188.34 27 Td
+[(5)-13551.2(6)-13551.2(7)-13551.1(8)-13551.1(9)-12995.2(10)]TJ
 ET
 Q
 2676.54 7497.9 m
@@ -2949,27 +2666,13 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 280.254 126.955 Tm
-(11)Tj
+[(11)-12995.2(12)-12995.2(13)-12995.2(14)]TJ
 /R8 7.2 Tf
--82.7652 -7.2 Td
-(*RLCT* )Tj
+221.949 -7.2 Td
+(Jour du drapeau \(US\) )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
-[(12)-12995.2(13)-12995.2(14)]TJ
-/R8 7.2 Tf
-120.378 -7.2 Td
-(Jour du drapeau \(US\) )Tj
-10.8 TL
-(19:30-22:00 Meeting de )'
-9 TL
-(OARC )'
-/R9 7.2 Tf
-184.337 27 Td
 [(15)-12995.2(16)-12995.1(17)]TJ
-/R8 7.2 Tf
-120.377 -7.2 Td
-(18:00-23:59 Journée des )Tj
-(enfants ARRL )'
 ET
 Q
 3706.61 7497.9 m
@@ -2998,27 +2701,13 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 280.254 126.955 Tm
-(11)Tj
+[(11)-12995.2(12)-12995.2(13)-12995.2(14)]TJ
 /R8 7.2 Tf
--82.7652 -7.2 Td
-(*RLCT* )Tj
+221.949 -7.2 Td
+(Jour du drapeau \(US\) )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
-[(12)-12995.2(13)-12995.2(14)]TJ
-/R8 7.2 Tf
-120.378 -7.2 Td
-(Jour du drapeau \(US\) )Tj
-10.8 TL
-(19:30-22:00 Meeting de )'
-9 TL
-(OARC )'
-/R9 7.2 Tf
-184.337 27 Td
 [(15)-12995.2(16)-12995.1(17)]TJ
-/R8 7.2 Tf
-120.377 -7.2 Td
-(18:00-23:59 Journée des )Tj
-(enfants ARRL )'
 ET
 Q
 3706.61 7497.9 m
@@ -3033,32 +2722,18 @@ q
 /R8 7.2 Tf
 -82.7652 -7.2 Td
 (Fête des pères )Tj
-10.8 TL
-(Défi Vélo )'
 /R9 7.2 Tf
-184.337 18 Td
-(19)Tj
+184.337 7.2 Td
+[(19)-12995.2(20)-12995.2(21)]TJ
 /R8 7.2 Tf
--82.7652 -7.2 Td
-(19:00-21:00 Meeting de )Tj
-9 TL
-(WCARC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-[(20)-12995.2(21)]TJ
-/R8 7.2 Tf
-18.8059 -7.2 Td
+120.378 -7.2 Td
 (Premier jour d'été )Tj
 10.8 TL
 (Journée nationale des )'
 9 TL
 (Autochtones )'
-10.8 TL
-(19:30-21:00 Meeting de )'
-9 TL
-(OVMRC )'
 /R9 7.2 Tf
-184.337 46.8 Td
+184.337 27 Td
 [(22)-12995.2(23)-12995.1(24)]TJ
 /R8 7.2 Tf
 120.377 -7.2 Td
@@ -3072,8 +2747,6 @@ q
 (Nativité de saint )'
 9 TL
 (Jean-Baptiste )'
-10.8 TL
-(18:00-20:59+1 Field Day )'
 ET
 Q
 4736.68 7497.9 m
@@ -3101,32 +2774,18 @@ q
 /R8 7.2 Tf
 -82.7652 -7.2 Td
 (Fête des pères )Tj
-10.8 TL
-(Défi Vélo )'
 /R9 7.2 Tf
-184.337 18 Td
-(19)Tj
+184.337 7.2 Td
+[(19)-12995.2(20)-12995.2(21)]TJ
 /R8 7.2 Tf
--82.7652 -7.2 Td
-(19:00-21:00 Meeting de )Tj
-9 TL
-(WCARC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-[(20)-12995.2(21)]TJ
-/R8 7.2 Tf
-18.8059 -7.2 Td
+120.378 -7.2 Td
 (Premier jour d'été )Tj
 10.8 TL
 (Journée nationale des )'
 9 TL
 (Autochtones )'
-10.8 TL
-(19:30-21:00 Meeting de )'
-9 TL
-(OVMRC )'
 /R9 7.2 Tf
-184.337 46.8 Td
+184.337 27 Td
 [(22)-12995.2(23)-12995.1(24)]TJ
 /R8 7.2 Tf
 120.377 -7.2 Td
@@ -3140,8 +2799,6 @@ q
 (Nativité de saint )'
 9 TL
 (Jean-Baptiste )'
-10.8 TL
-(18:00-20:59+1 Field Day )'
 ET
 Q
 4736.68 7497.9 m
@@ -3285,7 +2942,7 @@ endobj
 endobj 
 55 0 obj 
 <<
-/Length 6988
+/Length 6203
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -3323,9 +2980,6 @@ q
 (Fête du Canada )Tj
 10.8 TL
 (Memorial Day \(NL\) )'
-(00:00-23:59 Concours Fête )'
-9 TL
-(du Canada RAC )'
 ET
 Q
 1474.8 7497.9 m
@@ -3351,11 +3005,6 @@ q
 /R9 7.2 Tf
 188.34 16.2 Td
 [(5)-13551.1(6)-13551.1(7)-13551.1(8)]TJ
-/R8 7.2 Tf
-217.946 -7.2 Td
-(12:00-11:59+1 )Tj
-(Championnats HF mondiale )'
-(IARU )'
 ET
 Q
 2333.19 7497.9 m
@@ -3384,11 +3033,6 @@ q
 /R9 7.2 Tf
 188.34 16.2 Td
 [(5)-13551.1(6)-13551.1(7)-13551.1(8)]TJ
-/R8 7.2 Tf
-217.946 -7.2 Td
-(12:00-11:59+1 )Tj
-(Championnats HF mondiale )'
-(IARU )'
 ET
 Q
 2333.19 7497.9 m
@@ -3411,24 +3055,7 @@ q
 (Fête des Orangistes \(NL\) )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
-[(11)-12995.2(12)-12995.2(13)-12995.2(14)]TJ
-/R8 7.2 Tf
-221.949 -7.2 Td
-(*GCFR* )Tj
-/R9 7.2 Tf
-184.336 7.2 Td
-(15)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
-(*GCFR* )Tj
-10.8 TL
-(18:00-21:00+1 )'
-9 TL
-(*CQ-WW-VHF* )'
-10.8 TL
-(18:00-06:00+1 )'
-9 TL
-(*NAQP-RTTY* )'
+[(11)-12995.2(12)-12995.2(13)-12995.2(14)-12995.1(15)]TJ
 ET
 Q
 3191.58 7497.9 m
@@ -3465,24 +3092,7 @@ q
 (Fête des Orangistes \(NL\) )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
-[(11)-12995.2(12)-12995.2(13)-12995.2(14)]TJ
-/R8 7.2 Tf
-221.949 -7.2 Td
-(*GCFR* )Tj
-/R9 7.2 Tf
-184.336 7.2 Td
-(15)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
-(*GCFR* )Tj
-10.8 TL
-(18:00-21:00+1 )'
-9 TL
-(*CQ-WW-VHF* )'
-10.8 TL
-(18:00-06:00+1 )'
-9 TL
-(*NAQP-RTTY* )'
+[(11)-12995.2(12)-12995.2(13)-12995.2(14)-12995.1(15)]TJ
 ET
 Q
 3191.58 7497.9 m
@@ -3501,14 +3111,7 @@ q
 (construction \(QC\) )'
 /R9 7.2 Tf
 184.337 16.2 Td
-(17)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
-(19:00-21:00 Meeting de )Tj
-(WCARC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-[(18)-12995.2(19)-12995.2(20)-12995.2(21)-12995.1(22)]TJ
+[(17)-12995.2(18)-12995.2(19)-12995.2(20)-12995.2(21)-12995.1(22)]TJ
 ET
 Q
 4049.97 7497.9 m
@@ -3545,14 +3148,7 @@ q
 (construction \(QC\) )'
 /R9 7.2 Tf
 184.337 16.2 Td
-(17)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
-(19:00-21:00 Meeting de )Tj
-(WCARC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-[(18)-12995.2(19)-12995.2(20)-12995.2(21)-12995.1(22)]TJ
+[(17)-12995.2(18)-12995.2(19)-12995.2(20)-12995.2(21)-12995.1(22)]TJ
 ET
 Q
 4049.97 7497.9 m
@@ -3712,7 +3308,7 @@ endobj
 endobj 
 58 0 obj 
 <<
-/Length 6212
+/Length 5437
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -3745,17 +3341,6 @@ q
 /R9 7.2 Tf
 0 1 -1 0 72.8406 334.101 Tm
 [(1)-13551.2(2)-13551.1(3)-13551.1(4)-13551.1(5)]TJ
-/R8 7.2 Tf
-319.517 -7.2 Td
-(Vélotour SP )Tj
-10.8 TL
-(18:00-06:00+1 )'
-9 TL
-(*NAQP-CW* )'
-10.8 TL
-(18:00-17:59+1 Concours )'
-9 TL
-(UHF d'aôut ARRL )'
 ET
 Q
 1635.27 7497.9 m
@@ -3835,16 +3420,6 @@ q
 /R9 7.2 Tf
 0 1 -1 0 279.414 126.955 Tm
 [(13)-12995.2(14)-12995.2(15)-12995.2(16)-12995.2(17)-12995.2(18)-12995.1(19)]TJ
-/R8 7.2 Tf
-526.663 -7.2 Td
-(06:00-23:59+1 \(pas en )Tj
-9 TL
-(UTC\) Concours 10 GHz et )'
-(plus haut ARRL 1e partie )'
-10.8 TL
-(18:00-06:00+1 )'
-9 TL
-(*NAQP-SSB* )'
 ET
 Q
 3701.01 7497.9 m
@@ -3874,16 +3449,6 @@ q
 /R9 7.2 Tf
 0 1 -1 0 279.414 126.955 Tm
 [(13)-12995.2(14)-12995.2(15)-12995.2(16)-12995.2(17)-12995.2(18)-12995.1(19)]TJ
-/R8 7.2 Tf
-526.663 -7.2 Td
-(06:00-23:59+1 \(pas en )Tj
-9 TL
-(UTC\) Concours 10 GHz et )'
-(plus haut ARRL 1e partie )'
-10.8 TL
-(18:00-06:00+1 )'
-9 TL
-(*NAQP-SSB* )'
 ET
 Q
 3701.01 7497.9 m
@@ -3894,24 +3459,12 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 382.701 126.955 Tm
-(20)Tj
+[(20)-12995.2(21)]TJ
 /R8 7.2 Tf
--82.7652 -7.2 Td
-(18:00-23:59 Rookie )Tj
-9 TL
-(Roundup RTTY ARRL )'
-/R9 7.2 Tf
-184.337 16.2 Td
-(21)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
+18.8062 -7.2 Td
 (Journée découverte \(YT\) )Tj
-10.8 TL
-(19:00-21:00 Meeting de )'
-9 TL
-(WCARC )'
 /R9 7.2 Tf
-184.337 27 Td
+184.337 7.2 Td
 [(22)-12995.2(23)-12995.2(24)-12995.2(25)-12995.1(26)]TJ
 ET
 Q
@@ -3936,24 +3489,12 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 382.701 126.955 Tm
-(20)Tj
+[(20)-12995.2(21)]TJ
 /R8 7.2 Tf
--82.7652 -7.2 Td
-(18:00-23:59 Rookie )Tj
-9 TL
-(Roundup RTTY ARRL )'
-/R9 7.2 Tf
-184.337 16.2 Td
-(21)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
+18.8062 -7.2 Td
 (Journée découverte \(YT\) )Tj
-10.8 TL
-(19:00-21:00 Meeting de )'
-9 TL
-(WCARC )'
 /R9 7.2 Tf
-184.337 27 Td
+184.337 7.2 Td
 [(22)-12995.2(23)-12995.2(24)-12995.2(25)-12995.1(26)]TJ
 ET
 Q
@@ -4070,7 +3611,7 @@ endobj
 endobj 
 61 0 obj 
 <<
-/Length 7541
+/Length 6157
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -4131,22 +3672,7 @@ q
 (Fête du travail )Tj
 /R9 7.2 Tf
 188.34 7.2 Td
-[(5)-13551.2(6)]TJ
-/R8 7.2 Tf
-14.8031 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-(OARC exécutif )'
-/R9 7.2 Tf
-188.34 16.2 Td
-[(7)-13551.1(8)-13551.1(9)]TJ
-/R8 7.2 Tf
-116.374 -7.2 Td
-(07:30-10:30 Hamfest )Tj
-(OARC )'
-10.8 TL
-(18:00-02:59+2 QSO Party )'
-9 TL
-(VHF de septembre ARRL )'
+[(5)-13551.2(6)-13551.1(7)-13551.1(8)-13551.1(9)]TJ
 ET
 Q
 2676.54 7497.9 m
@@ -4189,22 +3715,7 @@ q
 (Fête du travail )Tj
 /R9 7.2 Tf
 188.34 7.2 Td
-[(5)-13551.2(6)]TJ
-/R8 7.2 Tf
-14.8031 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-(OARC exécutif )'
-/R9 7.2 Tf
-188.34 16.2 Td
-[(7)-13551.1(8)-13551.1(9)]TJ
-/R8 7.2 Tf
-116.374 -7.2 Td
-(07:30-10:30 Hamfest )Tj
-(OARC )'
-10.8 TL
-(18:00-02:59+2 QSO Party )'
-9 TL
-(VHF de septembre ARRL )'
+[(5)-13551.2(6)-13551.1(7)-13551.1(8)-13551.1(9)]TJ
 ET
 Q
 2676.54 7497.9 m
@@ -4227,22 +3738,9 @@ q
 (Jour du programmeur \(256e )Tj
 9 TL
 (jour\) )'
-10.8 TL
-(19:30-22:00 Meeting de )'
-9 TL
-(OARC )'
 /R9 7.2 Tf
-184.337 36 Td
+184.337 16.2 Td
 [(14)-12995.2(15)-12995.1(16)]TJ
-/R8 7.2 Tf
-120.377 -7.2 Td
-(06:00-23:59+1 \(pas en )Tj
-(UTC\) Concours 10 GHz et )'
-(plus haut ARRL 2e partie )'
-10.8 TL
-(08:00 Demo des Stations )'
-9 TL
-(Portatif OARC )'
 ET
 Q
 3706.61 7497.9 m
@@ -4283,22 +3781,9 @@ q
 (Jour du programmeur \(256e )Tj
 9 TL
 (jour\) )'
-10.8 TL
-(19:30-22:00 Meeting de )'
-9 TL
-(OARC )'
 /R9 7.2 Tf
-184.337 36 Td
+184.337 16.2 Td
 [(14)-12995.2(15)-12995.1(16)]TJ
-/R8 7.2 Tf
-120.377 -7.2 Td
-(06:00-23:59+1 \(pas en )Tj
-(UTC\) Concours 10 GHz et )'
-(plus haut ARRL 2e partie )'
-10.8 TL
-(08:00 Demo des Stations )'
-9 TL
-(Portatif OARC )'
 ET
 Q
 3706.61 7497.9 m
@@ -4309,25 +3794,11 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 383.261 126.955 Tm
-[(17)-12995.2(18)]TJ
+[(17)-12995.2(18)-12995.2(19)-12995.2(20)-12995.2(21)]TJ
 /R8 7.2 Tf
-18.8062 -7.2 Td
-(19:00-21:00 Meeting de )Tj
-9 TL
-(WCARC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-[(19)-12995.2(20)]TJ
-/R8 7.2 Tf
-18.8062 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-(OVMRC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-(21)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
+323.521 -7.2 Td
 (Journée internationale de la )Tj
+9 TL
 (paix )'
 10.8 TL
 (Début de Rosh Hashanah )'
@@ -4341,11 +3812,6 @@ q
 /R9 7.2 Tf
 184.336 18 Td
 (23)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
-(00:00-00:00+2 )Tj
-9 TL
-(*CQ-WW-RTTY-DX* )'
 ET
 Q
 4736.68 7497.9 m
@@ -4369,25 +3835,11 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 383.261 126.955 Tm
-[(17)-12995.2(18)]TJ
+[(17)-12995.2(18)-12995.2(19)-12995.2(20)-12995.2(21)]TJ
 /R8 7.2 Tf
-18.8062 -7.2 Td
-(19:00-21:00 Meeting de )Tj
-9 TL
-(WCARC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-[(19)-12995.2(20)]TJ
-/R8 7.2 Tf
-18.8062 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-(OVMRC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-(21)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
+323.521 -7.2 Td
 (Journée internationale de la )Tj
+9 TL
 (paix )'
 10.8 TL
 (Début de Rosh Hashanah )'
@@ -4401,11 +3853,6 @@ q
 /R9 7.2 Tf
 184.336 18 Td
 (23)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
-(00:00-00:00+2 )Tj
-9 TL
-(*CQ-WW-RTTY-DX* )'
 ET
 Q
 4736.68 7497.9 m
@@ -4524,7 +3971,7 @@ endobj
 endobj 
 64 0 obj 
 <<
-/Length 7158
+/Length 6014
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -4557,23 +4004,15 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 72.8406 130.958 Tm
-[(1)-13551.2(2)-13551.2(3)-13551.2(4)]TJ
+[(1)-13551.2(2)-13551.2(3)-13551.2(4)-13551.1(5)]TJ
 /R8 7.2 Tf
-217.946 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-9 TL
-(OARC exécutif )'
-/R9 7.2 Tf
-188.34 16.2 Td
-(5)Tj
-/R8 7.2 Tf
--86.7684 -7.2 Td
+319.518 -7.2 Td
 (Début de Sukkot )Tj
 /R9 7.2 Tf
 188.339 7.2 Td
 (6)Tj
 /R8 7.2 Tf
--86.768 -7.2 Td
+-86.7684 -7.2 Td
 (Début de l'Oktoberfest \(ON\) )Tj
 /R9 7.2 Tf
 188.339 7.2 Td
@@ -4602,23 +4041,15 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 72.8406 130.958 Tm
-[(1)-13551.2(2)-13551.2(3)-13551.2(4)]TJ
+[(1)-13551.2(2)-13551.2(3)-13551.2(4)-13551.1(5)]TJ
 /R8 7.2 Tf
-217.946 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-9 TL
-(OARC exécutif )'
-/R9 7.2 Tf
-188.34 16.2 Td
-(5)Tj
-/R8 7.2 Tf
--86.7684 -7.2 Td
+319.518 -7.2 Td
 (Début de Sukkot )Tj
 /R9 7.2 Tf
 188.339 7.2 Td
 (6)Tj
 /R8 7.2 Tf
--86.768 -7.2 Td
+-86.7684 -7.2 Td
 (Début de l'Oktoberfest \(ON\) )Tj
 /R9 7.2 Tf
 188.339 7.2 Td
@@ -4641,17 +4072,9 @@ q
 (Jour de Columbus \(US\) )'
 /R9 7.2 Tf
 184.337 18 Td
-[(10)-12995.2(11)]TJ
+[(10)-12995.2(11)-12995.2(12)]TJ
 /R8 7.2 Tf
-18.8062 -7.2 Td
-(19:30-22:00 Meeting de )Tj
-9 TL
-(OARC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-(12)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
+120.378 -7.2 Td
 (Fin de Sukkot )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
@@ -4701,17 +4124,9 @@ q
 (Jour de Columbus \(US\) )'
 /R9 7.2 Tf
 184.337 18 Td
-[(10)-12995.2(11)]TJ
+[(10)-12995.2(11)-12995.2(12)]TJ
 /R8 7.2 Tf
-18.8062 -7.2 Td
-(19:30-22:00 Meeting de )Tj
-9 TL
-(OARC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-(12)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
+120.378 -7.2 Td
 (Fin de Sukkot )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
@@ -4735,32 +4150,7 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 279.414 126.955 Tm
-[(15)-12995.2(16)]TJ
-/R8 7.2 Tf
-18.8062 -7.2 Td
-(13:00-23:59+4 Roundup )Tj
-9 TL
-(clubs scholaires ARRL )'
-10.8 TL
-(19:00-21:00 Meeting de )'
-9 TL
-(WCARC )'
-/R9 7.2 Tf
-184.337 36 Td
-[(17)-12995.2(18)]TJ
-/R8 7.2 Tf
-18.8062 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-(OVMRC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-[(19)-12995.2(20)]TJ
-/R8 7.2 Tf
-18.8062 -7.2 Td
-(*JOTA-JOTI* )Tj
-/R9 7.2 Tf
-184.336 7.2 Td
-(21)Tj
+[(15)-12995.2(16)-12995.2(17)-12995.2(18)-12995.2(19)-12995.2(20)-12995.1(21)]TJ
 ET
 Q
 3701.01 7497.9 m
@@ -4784,32 +4174,7 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 279.414 126.955 Tm
-[(15)-12995.2(16)]TJ
-/R8 7.2 Tf
-18.8062 -7.2 Td
-(13:00-23:59+4 Roundup )Tj
-9 TL
-(clubs scholaires ARRL )'
-10.8 TL
-(19:00-21:00 Meeting de )'
-9 TL
-(WCARC )'
-/R9 7.2 Tf
-184.337 36 Td
-[(17)-12995.2(18)]TJ
-/R8 7.2 Tf
-18.8062 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-(OVMRC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-[(19)-12995.2(20)]TJ
-/R8 7.2 Tf
-18.8062 -7.2 Td
-(*JOTA-JOTI* )Tj
-/R9 7.2 Tf
-184.336 7.2 Td
-(21)Tj
+[(15)-12995.2(16)-12995.2(17)-12995.2(18)-12995.2(19)-12995.2(20)-12995.1(21)]TJ
 ET
 Q
 3701.01 7497.9 m
@@ -4821,11 +4186,6 @@ q
 /R9 7.2 Tf
 0 1 -1 0 382.701 126.955 Tm
 [(22)-12995.2(23)-12995.2(24)-12995.2(25)-12995.2(26)-12995.2(27)-12995.1(28)]TJ
-/R8 7.2 Tf
-526.663 -7.2 Td
-(00:00-23:59+1 )Tj
-9 TL
-(*CQ-WW-DX-SSB* )'
 ET
 Q
 4733.88 7497.9 m
@@ -4855,11 +4215,6 @@ q
 /R9 7.2 Tf
 0 1 -1 0 382.701 126.955 Tm
 [(22)-12995.2(23)-12995.2(24)-12995.2(25)-12995.2(26)-12995.2(27)-12995.1(28)]TJ
-/R8 7.2 Tf
-526.663 -7.2 Td
-(00:00-23:59+1 )Tj
-9 TL
-(*CQ-WW-DX-SSB* )'
 ET
 Q
 4733.88 7497.9 m
@@ -4965,7 +4320,7 @@ endobj
 endobj 
 67 0 obj 
 <<
-/Length 7779
+/Length 6569
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -5002,12 +4357,8 @@ q
 /R8 7.2 Tf
 -86.7684 -7.2 Td
 (Toussaint )Tj
-10.8 TL
-(19:30-21:00 Meeting de )'
-9 TL
-(OARC exécutif )'
 /R9 7.2 Tf
-188.34 27 Td
+188.34 7.2 Td
 (2)Tj
 /R8 7.2 Tf
 -86.7684 -7.2 Td
@@ -5015,11 +4366,6 @@ q
 /R9 7.2 Tf
 188.339 7.2 Td
 [(3)-13551.1(4)]TJ
-/R8 7.2 Tf
-14.8031 -7.2 Td
-(21:00-02:59+2 )Tj
-(Sweepstakes CW de )'
-(novembre ARRL )'
 ET
 Q
 1635.27 7497.9 m
@@ -5041,12 +4387,8 @@ q
 /R8 7.2 Tf
 -86.7684 -7.2 Td
 (Toussaint )Tj
-10.8 TL
-(19:30-21:00 Meeting de )'
-9 TL
-(OARC exécutif )'
 /R9 7.2 Tf
-188.34 27 Td
+188.34 7.2 Td
 (2)Tj
 /R8 7.2 Tf
 -86.7684 -7.2 Td
@@ -5054,11 +4396,6 @@ q
 /R9 7.2 Tf
 188.339 7.2 Td
 [(3)-13551.1(4)]TJ
-/R8 7.2 Tf
-14.8031 -7.2 Td
-(21:00-02:59+2 )Tj
-(Sweepstakes CW de )'
-(novembre ARRL )'
 ET
 Q
 1635.27 7497.9 m
@@ -5081,16 +4418,9 @@ q
 (SK\) )'
 /R9 7.2 Tf
 188.34 36 Td
-[(6)-13551.2(7)-13551.2(8)]TJ
+[(6)-13551.2(7)-13551.2(8)-13551.1(9)-12995.2(10)-12995.1(11)]TJ
 /R8 7.2 Tf
-116.375 -7.2 Td
-(19:30-22:00 Meeting de )Tj
-(OARC )'
-/R9 7.2 Tf
-188.34 16.2 Td
-[(9)-12995.2(10)-12995.1(11)]TJ
-/R8 7.2 Tf
-116.374 -7.2 Td
+421.089 -7.2 Td
 (Jour du Souvenir )Tj
 10.8 TL
 (Jour de l'Armistice \(NL\) )'
@@ -5139,16 +4469,9 @@ q
 (SK\) )'
 /R9 7.2 Tf
 188.34 36 Td
-[(6)-13551.2(7)-13551.2(8)]TJ
+[(6)-13551.2(7)-13551.2(8)-13551.1(9)-12995.2(10)-12995.1(11)]TJ
 /R8 7.2 Tf
-116.375 -7.2 Td
-(19:30-22:00 Meeting de )Tj
-(OARC )'
-/R9 7.2 Tf
-188.34 16.2 Td
-[(9)-12995.2(10)-12995.1(11)]TJ
-/R8 7.2 Tf
-116.374 -7.2 Td
+421.089 -7.2 Td
 (Jour du Souvenir )Tj
 10.8 TL
 (Jour de l'Armistice \(NL\) )'
@@ -5175,19 +4498,7 @@ q
 (gentillesse )'
 /R9 7.2 Tf
 184.337 16.2 Td
-[(14)-12995.2(15)]TJ
-/R8 7.2 Tf
-18.8062 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-(OVMRC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-[(16)-12995.2(17)-12995.1(18)]TJ
-/R8 7.2 Tf
-120.377 -7.2 Td
-(21:00-02:59+2 )Tj
-(Sweepstakes SSB de )'
-(novembre ARRL )'
+[(14)-12995.2(15)-12995.2(16)-12995.2(17)-12995.1(18)]TJ
 ET
 Q
 3701.01 7497.9 m
@@ -5219,19 +4530,7 @@ q
 (gentillesse )'
 /R9 7.2 Tf
 184.337 16.2 Td
-[(14)-12995.2(15)]TJ
-/R8 7.2 Tf
-18.8062 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-(OVMRC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-[(16)-12995.2(17)-12995.1(18)]TJ
-/R8 7.2 Tf
-120.377 -7.2 Td
-(21:00-02:59+2 )Tj
-(Sweepstakes SSB de )'
-(novembre ARRL )'
+[(14)-12995.2(15)-12995.2(16)-12995.2(17)-12995.1(18)]TJ
 ET
 Q
 3701.01 7497.9 m
@@ -5242,17 +4541,9 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 382.701 126.955 Tm
-[(19)-12995.2(20)]TJ
+[(19)-12995.2(20)-12995.2(21)-12995.2(22)-12995.2(23)]TJ
 /R8 7.2 Tf
-18.8062 -7.2 Td
-(19:00-21:00 Meeting de )Tj
-9 TL
-(WCARC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-[(21)-12995.2(22)-12995.2(23)]TJ
-/R8 7.2 Tf
-120.378 -7.2 Td
+323.521 -7.2 Td
 (Action de Grâce \(US\) )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
@@ -5263,13 +4554,6 @@ q
 /R9 7.2 Tf
 184.336 7.2 Td
 (25)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
-(Rallye des Hautes Pins )Tj
-10.8 TL
-(00:00-23:59+1 )'
-9 TL
-(*CQ-WW-DX-CW* )'
 ET
 Q
 4733.88 7497.9 m
@@ -5283,17 +4567,9 @@ q
 (Semaine 46)Tj
 /R9 7.2 Tf
 82.7652 87.9871 Td
-[(19)-12995.2(20)]TJ
+[(19)-12995.2(20)-12995.2(21)-12995.2(22)-12995.2(23)]TJ
 /R8 7.2 Tf
-18.8062 -7.2 Td
-(19:00-21:00 Meeting de )Tj
-9 TL
-(WCARC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-[(21)-12995.2(22)-12995.2(23)]TJ
-/R8 7.2 Tf
-120.378 -7.2 Td
+323.521 -7.2 Td
 (Action de Grâce \(US\) )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
@@ -5304,13 +4580,6 @@ q
 /R9 7.2 Tf
 184.336 7.2 Td
 (25)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
-(Rallye des Hautes Pins )Tj
-10.8 TL
-(00:00-23:59+1 )'
-9 TL
-(*CQ-WW-DX-CW* )'
 ET
 Q
 4733.88 7497.9 m
@@ -5446,7 +4715,7 @@ endobj
 endobj 
 70 0 obj 
 <<
-/Length 7457
+/Length 6281
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -5478,15 +4747,7 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 72.8406 638.815 Tm
-(1)Tj
-/R8 7.2 Tf
--86.768 -7.2 Td
-(22:00-15:59+2 Concours )Tj
-9 TL
-(160 mètres ARRL )'
-/R9 7.2 Tf
-188.339 16.2 Td
-(2)Tj
+[(1)-13551.1(2)]TJ
 ET
 Q
 1463.13 7497.9 m
@@ -5497,19 +4758,7 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 158.913 130.958 Tm
-[(3)-13551.2(4)-13551.2(5)-13551.2(6)]TJ
-/R8 7.2 Tf
-217.946 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-9 TL
-(OARC exécutif )'
-/R9 7.2 Tf
-188.34 16.2 Td
-[(7)-13551.1(8)-13551.1(9)]TJ
-/R8 7.2 Tf
-116.374 -7.2 Td
-(00:00-23:59+1 Concours )Tj
-(10 mèters ARRL )'
+[(3)-13551.2(4)-13551.2(5)-13551.2(6)-13551.1(7)-13551.1(8)-13551.1(9)]TJ
 ET
 Q
 2323.86 7497.9 m
@@ -5534,19 +4783,7 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 158.913 130.958 Tm
-[(3)-13551.2(4)-13551.2(5)-13551.2(6)]TJ
-/R8 7.2 Tf
-217.946 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-9 TL
-(OARC exécutif )'
-/R9 7.2 Tf
-188.34 16.2 Td
-[(7)-13551.1(8)-13551.1(9)]TJ
-/R8 7.2 Tf
-116.374 -7.2 Td
-(00:00-23:59+1 Concours )Tj
-(10 mèters ARRL )'
+[(3)-13551.2(4)-13551.2(5)-13551.2(6)-13551.1(7)-13551.1(8)-13551.1(9)]TJ
 ET
 Q
 2323.86 7497.9 m
@@ -5569,17 +4806,9 @@ q
 /R8 7.2 Tf
 18.8062 -7.2 Td
 (Début de Hanukkah )Tj
-10.8 TL
-(19:30-22:00 Meeting de )'
-9 TL
-(OARC )'
 /R9 7.2 Tf
-184.337 27 Td
+184.337 7.2 Td
 [(14)-12995.2(15)-12995.1(16)]TJ
-/R8 7.2 Tf
-120.377 -7.2 Td
-(00:00-23:59 Concours )Tj
-(d'hiver du Canada RAC )'
 ET
 Q
 3184.58 7497.9 m
@@ -5620,17 +4849,9 @@ q
 /R8 7.2 Tf
 18.8062 -7.2 Td
 (Début de Hanukkah )Tj
-10.8 TL
-(19:30-22:00 Meeting de )'
-9 TL
-(OARC )'
 /R9 7.2 Tf
-184.337 27 Td
+184.337 7.2 Td
 [(14)-12995.2(15)-12995.1(16)]TJ
-/R8 7.2 Tf
-120.377 -7.2 Td
-(00:00-23:59 Concours )Tj
-(d'hiver du Canada RAC )'
 ET
 Q
 3184.58 7497.9 m
@@ -5641,31 +4862,12 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 331.058 126.955 Tm
-(17)Tj
+[(17)-12995.2(18)-12995.2(19)-12995.2(20)]TJ
 /R8 7.2 Tf
--82.7652 -7.2 Td
-(18:00-23:59 Rookie )Tj
-9 TL
-(Roundup CW ARRL )'
-/R9 7.2 Tf
-184.337 16.2 Td
-(18)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
-(19:00-21:00 Meeting de )Tj
-(WCARC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-[(19)-12995.2(20)]TJ
-/R8 7.2 Tf
-18.8059 -7.2 Td
+221.949 -7.2 Td
 (Fin de Hanukkah )Tj
-10.8 TL
-(19:30-21:00 Meeting de )'
-9 TL
-(OVMRC )'
 /R9 7.2 Tf
-184.337 27 Td
+184.337 7.2 Td
 (21)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
@@ -5696,31 +4898,12 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 331.058 126.955 Tm
-(17)Tj
+[(17)-12995.2(18)-12995.2(19)-12995.2(20)]TJ
 /R8 7.2 Tf
--82.7652 -7.2 Td
-(18:00-23:59 Rookie )Tj
-9 TL
-(Roundup CW ARRL )'
-/R9 7.2 Tf
-184.337 16.2 Td
-(18)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
-(19:00-21:00 Meeting de )Tj
-(WCARC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-[(19)-12995.2(20)]TJ
-/R8 7.2 Tf
-18.8059 -7.2 Td
+221.949 -7.2 Td
 (Fin de Hanukkah )Tj
-10.8 TL
-(19:30-21:00 Meeting de )'
-9 TL
-(OVMRC )'
 /R9 7.2 Tf
-184.337 27 Td
+184.337 7.2 Td
 (21)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
@@ -5913,7 +5096,7 @@ endobj
 endobj 
 73 0 obj 
 <<
-/Length 7117
+/Length 5641
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -5952,26 +5135,12 @@ q
 (Jour de l'an )Tj
 10.8 TL
 (Fin de Kwanzaa )'
-(00:00-23:59 Straight Key )'
-9 TL
-(Night ARRL )'
 /R9 7.2 Tf
-188.34 37.8 Td
-[(2)-13551.2(3)]TJ
+188.34 18 Td
+[(2)-13551.2(3)-13551.1(4)-13551.1(5)-13551.1(6)]TJ
 /R8 7.2 Tf
-14.8031 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-(OARC exécutif )'
-/R9 7.2 Tf
-188.34 16.2 Td
-[(4)-13551.1(5)-13551.1(6)]TJ
-/R8 7.2 Tf
-116.374 -7.2 Td
+319.517 -7.2 Td
 (Epiphanie )Tj
-10.8 TL
-(18:00-23:59+1 Roundup )'
-9 TL
-(RTTY ARRL )'
 ET
 Q
 1646.48 7497.9 m
@@ -5995,26 +5164,12 @@ q
 (Jour de l'an )Tj
 10.8 TL
 (Fin de Kwanzaa )'
-(00:00-23:59 Straight Key )'
-9 TL
-(Night ARRL )'
 /R9 7.2 Tf
-188.34 37.8 Td
-[(2)-13551.2(3)]TJ
+188.34 18 Td
+[(2)-13551.2(3)-13551.1(4)-13551.1(5)-13551.1(6)]TJ
 /R8 7.2 Tf
-14.8031 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-(OARC exécutif )'
-/R9 7.2 Tf
-188.34 16.2 Td
-[(4)-13551.1(5)-13551.1(6)]TJ
-/R8 7.2 Tf
-116.374 -7.2 Td
+319.517 -7.2 Td
 (Epiphanie )Tj
-10.8 TL
-(18:00-23:59+1 Roundup )'
-9 TL
-(RTTY ARRL )'
 ET
 Q
 1646.48 7497.9 m
@@ -6025,26 +5180,7 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 177.248 130.958 Tm
-(7)Tj
-/R8 7.2 Tf
--86.7684 -7.2 Td
-(18:00-23:59 Journée des )Tj
-9 TL
-(enfants ARRL )'
-/R9 7.2 Tf
-188.34 16.2 Td
-[(8)-13551.2(9)-12995.2(10)]TJ
-/R8 7.2 Tf
-116.375 -7.2 Td
-(19:30-22:00 Meeting de )Tj
-(OARC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-[(11)-12995.2(12)-12995.1(13)]TJ
-/R8 7.2 Tf
-120.377 -7.2 Td
-(18:00-06:00+1 )Tj
-(*NAQP-CW* )'
+[(7)-13551.2(8)-13551.2(9)-12995.2(10)-12995.2(11)-12995.2(12)-12995.1(13)]TJ
 ET
 Q
 2676.54 7497.9 m
@@ -6073,26 +5209,7 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 177.248 130.958 Tm
-(7)Tj
-/R8 7.2 Tf
--86.7684 -7.2 Td
-(18:00-23:59 Journée des )Tj
-9 TL
-(enfants ARRL )'
-/R9 7.2 Tf
-188.34 16.2 Td
-[(8)-13551.2(9)-12995.2(10)]TJ
-/R8 7.2 Tf
-116.375 -7.2 Td
-(19:30-22:00 Meeting de )Tj
-(OARC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-[(11)-12995.2(12)-12995.1(13)]TJ
-/R8 7.2 Tf
-120.377 -7.2 Td
-(18:00-06:00+1 )Tj
-(*NAQP-CW* )'
+[(7)-13551.2(8)-13551.2(9)-12995.2(10)-12995.2(11)-12995.2(12)-12995.1(13)]TJ
 ET
 Q
 2676.54 7497.9 m
@@ -6109,24 +5226,9 @@ q
 (Journée de Martin Luther )Tj
 9 TL
 (King Jr. \(US\) )'
-10.8 TL
-(19:00-21:00 Meeting de )'
-9 TL
-(WCARC )'
-/R9 7.2 Tf
-184.337 36 Td
-[(16)-12995.2(17)]TJ
-/R8 7.2 Tf
-18.8062 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-(OVMRC )'
 /R9 7.2 Tf
 184.337 16.2 Td
-[(18)-12995.2(19)-12995.1(20)]TJ
-/R8 7.2 Tf
-120.377 -7.2 Td
-(18:00-06:00+1 )Tj
-(*NAQP-SSB* )'
+[(16)-12995.2(17)-12995.2(18)-12995.2(19)-12995.1(20)]TJ
 ET
 Q
 3706.61 7497.9 m
@@ -6156,24 +5258,9 @@ q
 (Journée de Martin Luther )Tj
 9 TL
 (King Jr. \(US\) )'
-10.8 TL
-(19:00-21:00 Meeting de )'
-9 TL
-(WCARC )'
-/R9 7.2 Tf
-184.337 36 Td
-[(16)-12995.2(17)]TJ
-/R8 7.2 Tf
-18.8062 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-(OVMRC )'
 /R9 7.2 Tf
 184.337 16.2 Td
-[(18)-12995.2(19)-12995.1(20)]TJ
-/R8 7.2 Tf
-120.377 -7.2 Td
-(18:00-06:00+1 )Tj
-(*NAQP-SSB* )'
+[(16)-12995.2(17)-12995.2(18)-12995.2(19)-12995.1(20)]TJ
 ET
 Q
 3706.61 7497.9 m
@@ -6184,15 +5271,7 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 383.261 126.955 Tm
-[(21)-12995.2(22)-12995.2(23)-12995.2(24)-12995.2(25)-12995.2(26)]TJ
-/R8 7.2 Tf
-425.092 -7.2 Td
-(22:00-22:00+2 )Tj
-9 TL
-(*CQ-WW-160-CW* )'
-/R9 7.2 Tf
-184.336 16.2 Td
-(27)Tj
+[(21)-12995.2(22)-12995.2(23)-12995.2(24)-12995.2(25)-12995.2(26)-12995.1(27)]TJ
 ET
 Q
 4736.68 7497.9 m
@@ -6221,15 +5300,7 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 383.261 126.955 Tm
-[(21)-12995.2(22)-12995.2(23)-12995.2(24)-12995.2(25)-12995.2(26)]TJ
-/R8 7.2 Tf
-425.092 -7.2 Td
-(22:00-22:00+2 )Tj
-9 TL
-(*CQ-WW-160-CW* )'
-/R9 7.2 Tf
-184.336 16.2 Td
-(27)Tj
+[(21)-12995.2(22)-12995.2(23)-12995.2(24)-12995.2(25)-12995.2(26)-12995.1(27)]TJ
 ET
 Q
 4736.68 7497.9 m
@@ -6341,7 +5412,7 @@ endobj
 endobj 
 76 0 obj 
 <<
-/Length 7539
+/Length 6070
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -6380,16 +5451,6 @@ q
 /R9 7.2 Tf
 188.339 7.2 Td
 (3)Tj
-/R8 7.2 Tf
--86.7687 -7.2 Td
-(14:00-00:00+1 Concours )Tj
-9 TL
-(QRP Freeze Your Buns Off )'
-10.8 TL
-(19:00-03:59+2 )'
-9 TL
-(Sweepstakes VHF de )'
-(janvier ARRL )'
 ET
 Q
 1635.27 7497.9 m
@@ -6400,23 +5461,7 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 176.127 130.958 Tm
-[(4)-13551.2(5)-13551.2(6)-13551.2(7)]TJ
-/R8 7.2 Tf
-217.946 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-9 TL
-(OARC exécutif )'
-/R9 7.2 Tf
-188.34 16.2 Td
-[(8)-13551.1(9)-12995.2(10)]TJ
-/R8 7.2 Tf
-116.374 -7.2 Td
-(52e Marathon canadien de )Tj
-(ski commence )'
-10.8 TL
-(00:00-23:59+1 )'
-9 TL
-(*CQ-WPX-RTTY* )'
+[(4)-13551.2(5)-13551.2(6)-13551.2(7)-13551.1(8)-13551.1(9)-12995.2(10)]TJ
 ET
 Q
 2668.14 7497.9 m
@@ -6445,23 +5490,7 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 176.127 130.958 Tm
-[(4)-13551.2(5)-13551.2(6)-13551.2(7)]TJ
-/R8 7.2 Tf
-217.946 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-9 TL
-(OARC exécutif )'
-/R9 7.2 Tf
-188.34 16.2 Td
-[(8)-13551.1(9)-12995.2(10)]TJ
-/R8 7.2 Tf
-116.374 -7.2 Td
-(52e Marathon canadien de )Tj
-(ski commence )'
-10.8 TL
-(00:00-23:59+1 )'
-9 TL
-(*CQ-WPX-RTTY* )'
+[(4)-13551.2(5)-13551.2(6)-13551.2(7)-13551.1(8)-13551.1(9)-12995.2(10)]TJ
 ET
 Q
 2668.14 7497.9 m
@@ -6476,45 +5505,31 @@ q
 /R8 7.2 Tf
 18.8062 -7.2 Td
 (Fête de la famille \(BC\) )Tj
-10.8 TL
-(13:00-23:59+4 Roundup )'
-9 TL
-(clubs scholaires ARRL )'
 /R9 7.2 Tf
-184.337 27 Td
+184.337 7.2 Td
 (13)Tj
 /R8 7.2 Tf
 -82.7648 -7.2 Td
 (Mardi Gras )Tj
-10.8 TL
-(Journée mondiale de la )'
-9 TL
-(radio )'
 /R9 7.2 Tf
-184.337 27 Td
+184.337 7.2 Td
 (14)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
 (Saint-Valentin )Tj
 10.8 TL
 (Mercredi des Cendres )'
-(19:30-22:00 Meeting de )'
-9 TL
-(OARC )'
 /R9 7.2 Tf
-184.337 37.8 Td
+184.337 18 Td
 (15)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
 (Jour du drapeau national du )Tj
+9 TL
 (Canada )'
 /R9 7.2 Tf
 184.337 16.2 Td
 [(16)-12995.1(17)]TJ
-/R8 7.2 Tf
-18.8059 -7.2 Td
-(00:00-23:59 Concours DX )Tj
-(international CW )'
 ET
 Q
 3701.01 7497.9 m
@@ -6542,45 +5557,31 @@ q
 /R8 7.2 Tf
 18.8062 -7.2 Td
 (Fête de la famille \(BC\) )Tj
-10.8 TL
-(13:00-23:59+4 Roundup )'
-9 TL
-(clubs scholaires ARRL )'
 /R9 7.2 Tf
-184.337 27 Td
+184.337 7.2 Td
 (13)Tj
 /R8 7.2 Tf
 -82.7648 -7.2 Td
 (Mardi Gras )Tj
-10.8 TL
-(Journée mondiale de la )'
-9 TL
-(radio )'
 /R9 7.2 Tf
-184.337 27 Td
+184.337 7.2 Td
 (14)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
 (Saint-Valentin )Tj
 10.8 TL
 (Mercredi des Cendres )'
-(19:30-22:00 Meeting de )'
-9 TL
-(OARC )'
 /R9 7.2 Tf
-184.337 37.8 Td
+184.337 18 Td
 (15)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
 (Jour du drapeau national du )Tj
+9 TL
 (Canada )'
 /R9 7.2 Tf
 184.337 16.2 Td
 [(16)-12995.1(17)]TJ
-/R8 7.2 Tf
-18.8059 -7.2 Td
-(00:00-23:59 Concours DX )Tj
-(international CW )'
 ET
 Q
 3701.01 7497.9 m
@@ -6605,28 +5606,13 @@ q
 (\(US\) )'
 /R9 7.2 Tf
 184.337 57.6 Td
-[(20)-12995.2(21)]TJ
+[(20)-12995.2(21)-12995.2(22)-12995.2(23)]TJ
 /R8 7.2 Tf
-18.8062 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-(OVMRC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-[(22)-12995.2(23)]TJ
-/R8 7.2 Tf
-18.8062 -7.2 Td
+221.949 -7.2 Td
 (Jour de patrimoine \(YT\) )Tj
-10.8 TL
-(22:00-22:00+2 )'
-9 TL
-(*CQ-WW-160-SSB* )'
 /R9 7.2 Tf
-184.336 27 Td
+184.336 7.2 Td
 (24)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
-(18:00-06:00+1 )Tj
-(*NAQP-RTTY* )'
 ET
 Q
 4733.88 7497.9 m
@@ -6669,28 +5655,13 @@ q
 (\(US\) )'
 /R9 7.2 Tf
 184.337 57.6 Td
-[(20)-12995.2(21)]TJ
+[(20)-12995.2(21)-12995.2(22)-12995.2(23)]TJ
 /R8 7.2 Tf
-18.8062 -7.2 Td
-(19:30-21:00 Meeting de )Tj
-(OVMRC )'
-/R9 7.2 Tf
-184.337 16.2 Td
-[(22)-12995.2(23)]TJ
-/R8 7.2 Tf
-18.8062 -7.2 Td
+221.949 -7.2 Td
 (Jour de patrimoine \(YT\) )Tj
-10.8 TL
-(22:00-22:00+2 )'
-9 TL
-(*CQ-WW-160-SSB* )'
 /R9 7.2 Tf
-184.336 27 Td
+184.336 7.2 Td
 (24)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
-(18:00-06:00+1 )Tj
-(*NAQP-RTTY* )'
 ET
 Q
 4733.88 7497.9 m
@@ -6795,8 +5766,8 @@ endstream
 endobj 
 81 0 obj 
 <<
-/ModDate (D:20170214183108-05'00')
-/CreationDate (D:20170214183108-05'00')
+/ModDate (D:20170214205343-05'00')
+/CreationDate (D:20170214205343-05'00')
 /Creator (GPL Ghostscript 920 \(ps2write\))
 /Producer (GPL Ghostscript 9.20)
 >>
@@ -6846,52 +5817,52 @@ endobj xref
 0000041312 00000 n 
 0000041358 00000 n 
 0000041393 00000 n 
-0000048502 00000 n 
-0000048548 00000 n 
-0000048583 00000 n 
-0000056805 00000 n 
-0000056851 00000 n 
-0000056886 00000 n 
-0000064283 00000 n 
-0000064329 00000 n 
-0000064364 00000 n 
-0000072678 00000 n 
-0000072724 00000 n 
-0000072759 00000 n 
-0000079803 00000 n 
-0000079849 00000 n 
-0000079884 00000 n 
-0000086152 00000 n 
-0000086198 00000 n 
-0000086233 00000 n 
-0000093830 00000 n 
-0000093876 00000 n 
-0000093911 00000 n 
-0000101125 00000 n 
-0000101171 00000 n 
-0000101206 00000 n 
-0000109041 00000 n 
-0000109087 00000 n 
-0000109122 00000 n 
-0000116635 00000 n 
-0000116681 00000 n 
-0000116716 00000 n 
-0000123889 00000 n 
-0000123935 00000 n 
-0000123970 00000 n 
-0000048417 00000 n 
-0000048151 00000 n 
-0000048103 00000 n 
-0000048241 00000 n 
-0000131565 00000 n 
+0000047600 00000 n 
+0000047646 00000 n 
+0000047681 00000 n 
+0000054811 00000 n 
+0000054857 00000 n 
+0000054892 00000 n 
+0000060933 00000 n 
+0000060979 00000 n 
+0000061014 00000 n 
+0000067988 00000 n 
+0000068034 00000 n 
+0000068069 00000 n 
+0000074328 00000 n 
+0000074374 00000 n 
+0000074409 00000 n 
+0000079902 00000 n 
+0000079948 00000 n 
+0000079983 00000 n 
+0000086196 00000 n 
+0000086242 00000 n 
+0000086277 00000 n 
+0000092347 00000 n 
+0000092393 00000 n 
+0000092428 00000 n 
+0000099053 00000 n 
+0000099099 00000 n 
+0000099134 00000 n 
+0000105471 00000 n 
+0000105517 00000 n 
+0000105552 00000 n 
+0000111249 00000 n 
+0000111295 00000 n 
+0000111330 00000 n 
+0000047515 00000 n 
+0000047265 00000 n 
+0000047217 00000 n 
+0000047355 00000 n 
+0000117456 00000 n 
 trailer
 
 <<
 /Info 81 0 R
-/ID [<879990f6930c751c0ab01157f30281be> <879990f6930c751c0ab01157f30281be>]
+/ID [<963c0220fe0c6363de64fc12cbd5909c> <963c0220fe0c6363de64fc12cbd5909c>]
 /Root 26 0 R
 /Size 82
 >>
 startxref
-131740
+117631
 %%EOF
