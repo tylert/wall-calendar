@@ -1099,12 +1099,12 @@ stream
 <?adobe-xap-filters esc="CRLF"?>
 <x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='XMP toolkit 2.9.1-13, framework 1.6'>
 <rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:iX='http://ns.adobe.com/iX/1.0/'>
-<rdf:Description rdf:about='uuid:21149844-2b3e-11f2-0000-c9f3a61a9e36' xmlns:pdf='http://ns.adobe.com/pdf/1.3/' pdf:Producer='GPL Ghostscript 9.20'/>
-<rdf:Description rdf:about='uuid:21149844-2b3e-11f2-0000-c9f3a61a9e36' xmlns:xmp='http://ns.adobe.com/xap/1.0/'><xmp:ModifyDate>2017-02-14T20:53:43-05:00</xmp:ModifyDate>
-<xmp:CreateDate>2017-02-14T20:53:43-05:00</xmp:CreateDate>
+<rdf:Description rdf:about='uuid:14a64692-2c03-11f2-0000-292be6d4aed1' xmlns:pdf='http://ns.adobe.com/pdf/1.3/' pdf:Producer='GPL Ghostscript 9.20'/>
+<rdf:Description rdf:about='uuid:14a64692-2c03-11f2-0000-292be6d4aed1' xmlns:xmp='http://ns.adobe.com/xap/1.0/'><xmp:ModifyDate>2017-02-15T20:23:33-05:00</xmp:ModifyDate>
+<xmp:CreateDate>2017-02-15T20:23:33-05:00</xmp:CreateDate>
 <xmp:CreatorTool>GPL Ghostscript 920 (ps2write)</xmp:CreatorTool></rdf:Description>
-<rdf:Description rdf:about='uuid:21149844-2b3e-11f2-0000-c9f3a61a9e36' xmlns:xapMM='http://ns.adobe.com/xap/1.0/mm/' xapMM:DocumentID='uuid:21149844-2b3e-11f2-0000-c9f3a61a9e36'/>
-<rdf:Description rdf:about='uuid:21149844-2b3e-11f2-0000-c9f3a61a9e36' xmlns:dc='http://purl.org/dc/elements/1.1/' dc:format='application/pdf'><dc:title><rdf:Alt><rdf:li xml:lang='x-default'>Untitled</rdf:li></rdf:Alt></dc:title></rdf:Description>
+<rdf:Description rdf:about='uuid:14a64692-2c03-11f2-0000-292be6d4aed1' xmlns:xapMM='http://ns.adobe.com/xap/1.0/mm/' xapMM:DocumentID='uuid:14a64692-2c03-11f2-0000-292be6d4aed1'/>
+<rdf:Description rdf:about='uuid:14a64692-2c03-11f2-0000-292be6d4aed1' xmlns:dc='http://purl.org/dc/elements/1.1/' dc:format='application/pdf'><dc:title><rdf:Alt><rdf:li xml:lang='x-default'>Untitled</rdf:li></rdf:Alt></dc:title></rdf:Description>
 </rdf:RDF>
 </x:xmpmeta>
                                                                         
@@ -1714,7 +1714,7 @@ endobj
 80 0 obj 
 <<
 /Type /Encoding
-/Differences [45 /minus 226 /acircumflex 232 /egrave /eacute /ecircumflex /edieresis 244 /ocircumflex 251 /ucircumflex]
+/Differences [45 /minus 195 /Atilde 226 /acircumflex 232 /egrave /eacute /ecircumflex /edieresis 244 /ocircumflex 251 /ucircumflex]
 >>
 endobj 
 77 0 obj 
@@ -1737,7 +1737,7 @@ endobj
 endobj 
 46 0 obj 
 <<
-/Length 7074
+/Length 7174
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -1950,6 +1950,9 @@ q
 /R9 7.2 Tf
 184.336 16.2 Td
 (22)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Jour de la Terre )Tj
 ET
 Q
 4045.3 7497.9 m
@@ -2005,6 +2008,9 @@ q
 /R9 7.2 Tf
 184.336 16.2 Td
 (22)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Jour de la Terre )Tj
 ET
 Q
 4045.3 7497.9 m
@@ -2532,7 +2538,7 @@ endobj
 endobj 
 52 0 obj 
 <<
-/Length 6918
+/Length 7162
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -2823,7 +2829,16 @@ q
 (multiculturalisme )'
 /R9 7.2 Tf
 184.337 16.2 Td
-[(28)-12995.2(29)-12995.2(30)]TJ
+(28)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(JOURNÃ‰E )Tj
+(INTERNATIONALE DU )'
+(VERROUILLAGE DES )'
+(MAJUSCULES )'
+/R9 7.2 Tf
+184.337 34.2 Td
+[(29)-12995.2(30)]TJ
 ET
 Q
 5766.75 7497.9 m
@@ -2866,7 +2881,16 @@ q
 (multiculturalisme )'
 /R9 7.2 Tf
 184.337 16.2 Td
-[(28)-12995.2(29)-12995.2(30)]TJ
+(28)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(JOURNÃ‰E )Tj
+(INTERNATIONALE DU )'
+(VERROUILLAGE DES )'
+(MAJUSCULES )'
+/R9 7.2 Tf
+184.337 34.2 Td
+[(29)-12995.2(30)]TJ
 ET
 Q
 5766.75 7497.9 m
@@ -3611,7 +3635,7 @@ endobj
 endobj 
 61 0 obj 
 <<
-/Length 6157
+/Length 6301
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -3741,6 +3765,10 @@ q
 /R9 7.2 Tf
 184.337 16.2 Td
 [(14)-12995.2(15)-12995.1(16)]TJ
+/R8 7.2 Tf
+120.377 -7.2 Td
+(Journée de la liberté des )Tj
+(logiciels )'
 ET
 Q
 3706.61 7497.9 m
@@ -3784,6 +3812,10 @@ q
 /R9 7.2 Tf
 184.337 16.2 Td
 [(14)-12995.2(15)-12995.1(16)]TJ
+/R8 7.2 Tf
+120.377 -7.2 Td
+(Journée de la liberté des )Tj
+(logiciels )'
 ET
 Q
 3706.61 7497.9 m
@@ -3971,7 +4003,7 @@ endobj
 endobj 
 64 0 obj 
 <<
-/Length 6014
+/Length 6418
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -4072,9 +4104,15 @@ q
 (Jour de Columbus \(US\) )'
 /R9 7.2 Tf
 184.337 18 Td
-[(10)-12995.2(11)-12995.2(12)]TJ
+(10)Tj
 /R8 7.2 Tf
-120.378 -7.2 Td
+-82.7652 -7.2 Td
+(Jour de Ada Lovelace )Tj
+/R9 7.2 Tf
+184.337 7.2 Td
+[(11)-12995.2(12)]TJ
+/R8 7.2 Tf
+18.8062 -7.2 Td
 (Fin de Sukkot )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
@@ -4124,9 +4162,15 @@ q
 (Jour de Columbus \(US\) )'
 /R9 7.2 Tf
 184.337 18 Td
-[(10)-12995.2(11)-12995.2(12)]TJ
+(10)Tj
 /R8 7.2 Tf
-120.378 -7.2 Td
+-82.7652 -7.2 Td
+(Jour de Ada Lovelace )Tj
+/R9 7.2 Tf
+184.337 7.2 Td
+[(11)-12995.2(12)]TJ
+/R8 7.2 Tf
+18.8062 -7.2 Td
 (Fin de Sukkot )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
@@ -4185,7 +4229,17 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 382.701 126.955 Tm
-[(22)-12995.2(23)-12995.2(24)-12995.2(25)-12995.2(26)-12995.2(27)-12995.1(28)]TJ
+(22)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(JOURNÃ‰E )Tj
+9 TL
+(INTERNATIONALE DU )'
+(VERROUILLAGE DES )'
+(MAJUSCULES )'
+/R9 7.2 Tf
+184.337 34.2 Td
+[(23)-12995.2(24)-12995.2(25)-12995.2(26)-12995.2(27)-12995.1(28)]TJ
 ET
 Q
 4733.88 7497.9 m
@@ -4214,7 +4268,17 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 382.701 126.955 Tm
-[(22)-12995.2(23)-12995.2(24)-12995.2(25)-12995.2(26)-12995.2(27)-12995.1(28)]TJ
+(22)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(JOURNÃ‰E )Tj
+9 TL
+(INTERNATIONALE DU )'
+(VERROUILLAGE DES )'
+(MAJUSCULES )'
+/R9 7.2 Tf
+184.337 34.2 Td
+[(23)-12995.2(24)-12995.2(25)-12995.2(26)-12995.2(27)-12995.1(28)]TJ
 ET
 Q
 4733.88 7497.9 m
@@ -5412,7 +5476,7 @@ endobj
 endobj 
 76 0 obj 
 <<
-/Length 6070
+/Length 6106
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -5505,8 +5569,10 @@ q
 /R8 7.2 Tf
 18.8062 -7.2 Td
 (Fête de la famille \(BC\) )Tj
+10.8 TL
+(Jour de Darwin )'
 /R9 7.2 Tf
-184.337 7.2 Td
+184.337 18 Td
 (13)Tj
 /R8 7.2 Tf
 -82.7648 -7.2 Td
@@ -5517,7 +5583,6 @@ q
 /R8 7.2 Tf
 -82.7652 -7.2 Td
 (Saint-Valentin )Tj
-10.8 TL
 (Mercredi des Cendres )'
 /R9 7.2 Tf
 184.337 18 Td
@@ -5557,8 +5622,10 @@ q
 /R8 7.2 Tf
 18.8062 -7.2 Td
 (Fête de la famille \(BC\) )Tj
+10.8 TL
+(Jour de Darwin )'
 /R9 7.2 Tf
-184.337 7.2 Td
+184.337 18 Td
 (13)Tj
 /R8 7.2 Tf
 -82.7648 -7.2 Td
@@ -5569,7 +5636,6 @@ q
 /R8 7.2 Tf
 -82.7652 -7.2 Td
 (Saint-Valentin )Tj
-10.8 TL
 (Mercredi des Cendres )'
 /R9 7.2 Tf
 184.337 18 Td
@@ -5766,8 +5832,8 @@ endstream
 endobj 
 81 0 obj 
 <<
-/ModDate (D:20170214205343-05'00')
-/CreationDate (D:20170214205343-05'00')
+/ModDate (D:20170215202333-05'00')
+/CreationDate (D:20170215202333-05'00')
 /Creator (GPL Ghostscript 920 \(ps2write\))
 /Producer (GPL Ghostscript 9.20)
 >>
@@ -5817,52 +5883,52 @@ endobj xref
 0000041312 00000 n 
 0000041358 00000 n 
 0000041393 00000 n 
-0000047600 00000 n 
-0000047646 00000 n 
-0000047681 00000 n 
-0000054811 00000 n 
-0000054857 00000 n 
-0000054892 00000 n 
-0000060933 00000 n 
-0000060979 00000 n 
-0000061014 00000 n 
-0000067988 00000 n 
-0000068034 00000 n 
-0000068069 00000 n 
-0000074328 00000 n 
-0000074374 00000 n 
-0000074409 00000 n 
-0000079902 00000 n 
-0000079948 00000 n 
-0000079983 00000 n 
-0000086196 00000 n 
-0000086242 00000 n 
-0000086277 00000 n 
-0000092347 00000 n 
-0000092393 00000 n 
-0000092428 00000 n 
-0000099053 00000 n 
-0000099099 00000 n 
-0000099134 00000 n 
-0000105471 00000 n 
-0000105517 00000 n 
-0000105552 00000 n 
-0000111249 00000 n 
-0000111295 00000 n 
-0000111330 00000 n 
-0000047515 00000 n 
+0000047612 00000 n 
+0000047658 00000 n 
+0000047693 00000 n 
+0000054923 00000 n 
+0000054969 00000 n 
+0000055004 00000 n 
+0000061045 00000 n 
+0000061091 00000 n 
+0000061126 00000 n 
+0000068344 00000 n 
+0000068390 00000 n 
+0000068425 00000 n 
+0000074684 00000 n 
+0000074730 00000 n 
+0000074765 00000 n 
+0000080258 00000 n 
+0000080304 00000 n 
+0000080339 00000 n 
+0000086696 00000 n 
+0000086742 00000 n 
+0000086777 00000 n 
+0000093251 00000 n 
+0000093297 00000 n 
+0000093332 00000 n 
+0000099957 00000 n 
+0000100003 00000 n 
+0000100038 00000 n 
+0000106375 00000 n 
+0000106421 00000 n 
+0000106456 00000 n 
+0000112153 00000 n 
+0000112199 00000 n 
+0000112234 00000 n 
+0000047527 00000 n 
 0000047265 00000 n 
 0000047217 00000 n 
 0000047355 00000 n 
-0000117456 00000 n 
+0000118396 00000 n 
 trailer
 
 <<
 /Info 81 0 R
-/ID [<963c0220fe0c6363de64fc12cbd5909c> <963c0220fe0c6363de64fc12cbd5909c>]
+/ID [<fcd6c3a79d8795064645b4f79cfce850> <fcd6c3a79d8795064645b4f79cfce850>]
 /Root 26 0 R
 /Size 82
 >>
 startxref
-117631
+118571
 %%EOF
