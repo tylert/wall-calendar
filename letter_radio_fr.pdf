@@ -18,7 +18,7 @@
 >>
 >>
 /Type /XObject
-/BBox [0 0 945 573.75]
+/BBox [0 0 742.5 573.75]
 /Length 40
 /Matrix [1 0 0 1 0 0]
 >>
@@ -1099,12 +1099,12 @@ stream
 <?adobe-xap-filters esc="CRLF"?>
 <x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='XMP toolkit 2.9.1-13, framework 1.6'>
 <rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:iX='http://ns.adobe.com/iX/1.0/'>
-<rdf:Description rdf:about='uuid:6cd575f6-bc75-11f2-0000-c1e75b6c19cb' xmlns:pdf='http://ns.adobe.com/pdf/1.3/' pdf:Producer='GPL Ghostscript 9.20'/>
-<rdf:Description rdf:about='uuid:6cd575f6-bc75-11f2-0000-c1e75b6c19cb' xmlns:xmp='http://ns.adobe.com/xap/1.0/'><xmp:ModifyDate>2017-08-18T17:04:51-04:00</xmp:ModifyDate>
-<xmp:CreateDate>2017-08-18T17:04:51-04:00</xmp:CreateDate>
+<rdf:Description rdf:about='uuid:7232c077-bc75-11f2-0000-2a12027fcf5a' xmlns:pdf='http://ns.adobe.com/pdf/1.3/' pdf:Producer='GPL Ghostscript 9.20'/>
+<rdf:Description rdf:about='uuid:7232c077-bc75-11f2-0000-2a12027fcf5a' xmlns:xmp='http://ns.adobe.com/xap/1.0/'><xmp:ModifyDate>2017-08-18T17:05:00-04:00</xmp:ModifyDate>
+<xmp:CreateDate>2017-08-18T17:05:00-04:00</xmp:CreateDate>
 <xmp:CreatorTool>GPL Ghostscript 920 (ps2write)</xmp:CreatorTool></rdf:Description>
-<rdf:Description rdf:about='uuid:6cd575f6-bc75-11f2-0000-c1e75b6c19cb' xmlns:xapMM='http://ns.adobe.com/xap/1.0/mm/' xapMM:DocumentID='uuid:6cd575f6-bc75-11f2-0000-c1e75b6c19cb'/>
-<rdf:Description rdf:about='uuid:6cd575f6-bc75-11f2-0000-c1e75b6c19cb' xmlns:dc='http://purl.org/dc/elements/1.1/' dc:format='application/pdf'><dc:title><rdf:Alt><rdf:li xml:lang='x-default'>Untitled</rdf:li></rdf:Alt></dc:title></rdf:Description>
+<rdf:Description rdf:about='uuid:7232c077-bc75-11f2-0000-2a12027fcf5a' xmlns:xapMM='http://ns.adobe.com/xap/1.0/mm/' xapMM:DocumentID='uuid:7232c077-bc75-11f2-0000-2a12027fcf5a'/>
+<rdf:Description rdf:about='uuid:7232c077-bc75-11f2-0000-2a12027fcf5a' xmlns:dc='http://purl.org/dc/elements/1.1/' dc:format='application/pdf'><dc:title><rdf:Alt><rdf:li xml:lang='x-default'>Untitled</rdf:li></rdf:Alt></dc:title></rdf:Description>
 </rdf:RDF>
 </x:xmpmeta>
                                                                         
@@ -1136,7 +1136,7 @@ endobj
 /Type /Page
 /Parent 28 0 R
 /Contents [25 0 R 43 0 R]
-/MediaBox [0 0 612 1008]
+/MediaBox [0 0 612 792]
 >>
 endobj 
 30 0 obj 
@@ -1156,7 +1156,7 @@ endobj
 /Type /Page
 /Parent 28 0 R
 /Contents [24 0 R 46 0 R]
-/MediaBox [0 0 612 1008]
+/MediaBox [0 0 612 792]
 >>
 endobj 
 31 0 obj 
@@ -1176,7 +1176,7 @@ endobj
 /Type /Page
 /Parent 28 0 R
 /Contents [23 0 R 49 0 R]
-/MediaBox [0 0 612 1008]
+/MediaBox [0 0 612 792]
 >>
 endobj 
 32 0 obj 
@@ -1196,7 +1196,7 @@ endobj
 /Type /Page
 /Parent 28 0 R
 /Contents [22 0 R 52 0 R]
-/MediaBox [0 0 612 1008]
+/MediaBox [0 0 612 792]
 >>
 endobj 
 33 0 obj 
@@ -1216,7 +1216,7 @@ endobj
 /Type /Page
 /Parent 28 0 R
 /Contents [21 0 R 55 0 R]
-/MediaBox [0 0 612 1008]
+/MediaBox [0 0 612 792]
 >>
 endobj 
 34 0 obj 
@@ -1236,7 +1236,7 @@ endobj
 /Type /Page
 /Parent 28 0 R
 /Contents [20 0 R 58 0 R]
-/MediaBox [0 0 612 1008]
+/MediaBox [0 0 612 792]
 >>
 endobj 
 35 0 obj 
@@ -1256,7 +1256,7 @@ endobj
 /Type /Page
 /Parent 28 0 R
 /Contents [19 0 R 61 0 R]
-/MediaBox [0 0 612 1008]
+/MediaBox [0 0 612 792]
 >>
 endobj 
 36 0 obj 
@@ -1276,7 +1276,7 @@ endobj
 /Type /Page
 /Parent 28 0 R
 /Contents [18 0 R 64 0 R]
-/MediaBox [0 0 612 1008]
+/MediaBox [0 0 612 792]
 >>
 endobj 
 37 0 obj 
@@ -1296,7 +1296,7 @@ endobj
 /Type /Page
 /Parent 28 0 R
 /Contents [17 0 R 67 0 R]
-/MediaBox [0 0 612 1008]
+/MediaBox [0 0 612 792]
 >>
 endobj 
 38 0 obj 
@@ -1316,7 +1316,7 @@ endobj
 /Type /Page
 /Parent 28 0 R
 /Contents [16 0 R 70 0 R]
-/MediaBox [0 0 612 1008]
+/MediaBox [0 0 612 792]
 >>
 endobj 
 39 0 obj 
@@ -1336,7 +1336,7 @@ endobj
 /Type /Page
 /Parent 28 0 R
 /Contents [15 0 R 73 0 R]
-/MediaBox [0 0 612 1008]
+/MediaBox [0 0 612 792]
 >>
 endobj 
 40 0 obj 
@@ -1356,7 +1356,7 @@ endobj
 /Type /Page
 /Parent 28 0 R
 /Contents [14 0 R 76 0 R]
-/MediaBox [0 0 612 1008]
+/MediaBox [0 0 612 792]
 >>
 endobj 
 41 0 obj 
@@ -1372,7 +1372,7 @@ endobj
 endobj 
 43 0 obj 
 <<
-/Length 6128
+/Length 7659
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -1381,8 +1381,8 @@ q 0.1 0 0 0.1 0 0 cm
 q
 10 0 0 10 0 0 cm BT
 /R8 7.2 Tf
-0 1 -1 0 40.275 367.676 Tm
-(September 2017)Tj
+0 1 -1 0 40.275 368.277 Tm
+(septembre 2017)Tj
 ET
 Q
 9 w
@@ -1394,8 +1394,8 @@ S
 q
 10 0 0 10 0 0 cm BT
 /R8 7.2 Tf
-0 1 -1 0 58.0406 77.3684 Tm
-[(Sunday)-10633.1(Monday)-10411.2(Tuesday)-9549.66(Wednesday)-9383.14(Thursday)-10634.2(Friday)-10717.1(Saturday)]TJ
+0 1 -1 0 58.0406 73.9703 Tm
+[(dimanche)-10883.6(lundi)-11801.1(mardi)-10912.7(mercredi)-11106.6(jeudi)-11133.7(vendredi)-10578.1(samedi)]TJ
 ET
 Q
 616.406 7497.9 m
@@ -1419,20 +1419,37 @@ q
 (3)Tj
 /R8 7.2 Tf
 -86.7684 -7.2 Td
-(Merchant Navy Day \(CA\) )Tj
-10.8 TL
-(Merchant Navy Day \(NZ, )'
+(Jour de la marine )Tj
 9 TL
-(UK\) )'
+(marchande \(CA\) )'
+10.8 TL
+(Jour de la marine )'
+9 TL
+(marchande \(NZ, UK\) )'
 /R9 7.2 Tf
-188.34 27 Td
+188.34 36 Td
 (4)Tj
 /R8 7.2 Tf
 -86.7684 -7.2 Td
-(Labour Day )Tj
+(Fête du travail )Tj
 /R9 7.2 Tf
 188.34 7.2 Td
-[(5)-13551.2(6)-13551.1(7)-13551.1(8)-13551.1(9)]TJ
+[(5)-13551.2(6)]TJ
+/R8 7.2 Tf
+14.8031 -7.2 Td
+(19:30-21:00 Meeting de )Tj
+(OARC exécutif )'
+/R9 7.2 Tf
+188.34 16.2 Td
+[(7)-13551.1(8)-13551.1(9)]TJ
+/R8 7.2 Tf
+116.374 -7.2 Td
+(07:30-10:30 Hamfest )Tj
+(OARC )'
+10.8 TL
+(18:00-02:59+2 QSO Party )'
+9 TL
+(VHF de septembre ARRL )'
 ET
 Q
 2676.54 7497.9 m
@@ -1443,7 +1460,7 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 264.954 44.1898 Tm
-(Week 35)Tj
+(Semaine 35)Tj
 ET
 Q
 1736.48 3561.04 m
@@ -1460,20 +1477,37 @@ q
 (3)Tj
 /R8 7.2 Tf
 -86.7684 -7.2 Td
-(Merchant Navy Day \(CA\) )Tj
-10.8 TL
-(Merchant Navy Day \(NZ, )'
+(Jour de la marine )Tj
 9 TL
-(UK\) )'
+(marchande \(CA\) )'
+10.8 TL
+(Jour de la marine )'
+9 TL
+(marchande \(NZ, UK\) )'
 /R9 7.2 Tf
-188.34 27 Td
+188.34 36 Td
 (4)Tj
 /R8 7.2 Tf
 -86.7684 -7.2 Td
-(Labour Day )Tj
+(Fête du travail )Tj
 /R9 7.2 Tf
 188.34 7.2 Td
-[(5)-13551.2(6)-13551.1(7)-13551.1(8)-13551.1(9)]TJ
+[(5)-13551.2(6)]TJ
+/R8 7.2 Tf
+14.8031 -7.2 Td
+(19:30-21:00 Meeting de )Tj
+(OARC exécutif )'
+/R9 7.2 Tf
+188.34 16.2 Td
+[(7)-13551.1(8)-13551.1(9)]TJ
+/R8 7.2 Tf
+116.374 -7.2 Td
+(07:30-10:30 Hamfest )Tj
+(OARC )'
+10.8 TL
+(18:00-02:59+2 QSO Party )'
+9 TL
+(VHF de septembre ARRL )'
 ET
 Q
 2676.54 7497.9 m
@@ -1487,21 +1521,35 @@ q
 [(10)-12995.2(11)]TJ
 /R8 7.2 Tf
 18.8062 -7.2 Td
-(Patriot Day \(US\) )Tj
+(Journée des patriotes \(US\) )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
 [(12)-12995.2(13)]TJ
 /R8 7.2 Tf
 18.8062 -7.2 Td
-(Day of the Programmer )Tj
+(Jour du programmeur \(256e )Tj
 9 TL
-(\(256th day\) )'
+(jour\) )'
+10.8 TL
+(19:30-22:00 Meeting de )'
+9 TL
+(OARC )'
 /R9 7.2 Tf
-184.337 16.2 Td
+184.337 36 Td
 [(14)-12995.2(15)-12995.1(16)]TJ
 /R8 7.2 Tf
 120.377 -7.2 Td
-(Software Freedom Day )Tj
+(Journée de la liberté des )Tj
+(logiciels )'
+10.8 TL
+(06:00-23:59+1 \(pas en )'
+9 TL
+(UTC\) Concours 10 GHz et )'
+(plus haut ARRL 2e partie )'
+10.8 TL
+(08:00 Demo des Stations )'
+9 TL
+(Portatif OARC )'
 ET
 Q
 3706.61 7497.9 m
@@ -1512,7 +1560,7 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 367.961 44.1898 Tm
-(Week 36)Tj
+(Semaine 36)Tj
 ET
 Q
 2766.54 3561.04 m
@@ -1533,21 +1581,35 @@ q
 [(10)-12995.2(11)]TJ
 /R8 7.2 Tf
 18.8062 -7.2 Td
-(Patriot Day \(US\) )Tj
+(Journée des patriotes \(US\) )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
 [(12)-12995.2(13)]TJ
 /R8 7.2 Tf
 18.8062 -7.2 Td
-(Day of the Programmer )Tj
+(Jour du programmeur \(256e )Tj
 9 TL
-(\(256th day\) )'
+(jour\) )'
+10.8 TL
+(19:30-22:00 Meeting de )'
+9 TL
+(OARC )'
 /R9 7.2 Tf
-184.337 16.2 Td
+184.337 36 Td
 [(14)-12995.2(15)-12995.1(16)]TJ
 /R8 7.2 Tf
 120.377 -7.2 Td
-(Software Freedom Day )Tj
+(Journée de la liberté des )Tj
+(logiciels )'
+10.8 TL
+(06:00-23:59+1 \(pas en )'
+9 TL
+(UTC\) Concours 10 GHz et )'
+(plus haut ARRL 2e partie )'
+10.8 TL
+(08:00 Demo des Stations )'
+9 TL
+(Portatif OARC )'
 ET
 Q
 3706.61 7497.9 m
@@ -1558,22 +1620,43 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 383.261 126.955 Tm
-[(17)-12995.2(18)-12995.2(19)-12995.2(20)-12995.2(21)]TJ
+[(17)-12995.2(18)]TJ
 /R8 7.2 Tf
-323.521 -7.2 Td
-(International Day of Peace )Tj
-10.8 TL
-(Rosh Hashanah Begins )'
+18.8062 -7.2 Td
+(19:00-21:00 Meeting de )Tj
+9 TL
+(WCARC )'
 /R9 7.2 Tf
-184.337 18 Td
+184.337 16.2 Td
+[(19)-12995.2(20)]TJ
+/R8 7.2 Tf
+18.8062 -7.2 Td
+(19:30-21:00 Meeting de )Tj
+(OVMRC )'
+/R9 7.2 Tf
+184.337 16.2 Td
+(21)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Journée internationale de la )Tj
+(paix )'
+10.8 TL
+(Début de Rosh Hashanah )'
+/R9 7.2 Tf
+184.337 27 Td
 (22)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(First Day of Fall )Tj
-(Rosh Hashanah Ends )'
+(Premier jour d'automne )Tj
+(Fin de Rosh Hashanah )'
 /R9 7.2 Tf
 184.336 18 Td
 (23)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(00:00-00:00+2 )Tj
+9 TL
+(*CQ-WW-RTTY-DX* )'
 ET
 Q
 4736.68 7497.9 m
@@ -1584,7 +1667,7 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 470.968 44.1898 Tm
-(Week 37)Tj
+(Semaine 37)Tj
 ET
 Q
 3796.61 3561.04 m
@@ -1597,22 +1680,43 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 383.261 126.955 Tm
-[(17)-12995.2(18)-12995.2(19)-12995.2(20)-12995.2(21)]TJ
+[(17)-12995.2(18)]TJ
 /R8 7.2 Tf
-323.521 -7.2 Td
-(International Day of Peace )Tj
-10.8 TL
-(Rosh Hashanah Begins )'
+18.8062 -7.2 Td
+(19:00-21:00 Meeting de )Tj
+9 TL
+(WCARC )'
 /R9 7.2 Tf
-184.337 18 Td
+184.337 16.2 Td
+[(19)-12995.2(20)]TJ
+/R8 7.2 Tf
+18.8062 -7.2 Td
+(19:30-21:00 Meeting de )Tj
+(OVMRC )'
+/R9 7.2 Tf
+184.337 16.2 Td
+(21)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Journée internationale de la )Tj
+(paix )'
+10.8 TL
+(Début de Rosh Hashanah )'
+/R9 7.2 Tf
+184.337 27 Td
 (22)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(First Day of Fall )Tj
-(Rosh Hashanah Ends )'
+(Premier jour d'automne )Tj
+(Fin de Rosh Hashanah )'
 /R9 7.2 Tf
 184.336 18 Td
 (23)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(00:00-00:00+2 )Tj
+9 TL
+(*CQ-WW-RTTY-DX* )'
 ET
 Q
 4736.68 7497.9 m
@@ -1637,7 +1741,7 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 573.975 44.1898 Tm
-(Week 38)Tj
+(Semaine 38)Tj
 ET
 Q
 4826.68 3561.04 m
@@ -1691,10 +1795,10 @@ S
 q
 10 0 0 10 0 0 cm BT
 /R8 6.87138 Tf
-0 1 -1 0 73.9121 78.8992 Tm
-(August)Tj
--34.7094 -8.67109 Td
-[(S)-1220.93(M)-1054.93(T)-1276.93(W)-943.926(T)-1276.93(F)-1276.93(S)]TJ
+0 1 -1 0 73.9121 82.9086 Tm
+(août)Tj
+-38.7188 -8.67109 Td
+[(d)-1331.93(l)-1665.93(m)-1054.93(m)-1054.93(j)-1665.93(v)-1387.93(s)]TJ
 25.9453 -8.67148 Td
 [(1)-1331.93(2)-1331.93(3)-1331.93(4)-1331.93(5)]TJ
 -25.9453 -8.67148 Td
@@ -1703,10 +1807,10 @@ q
 T*[(13)-775.926(14)-775.926(15)-775.926(16)-775.926(17)-775.925(18)-775.925(19)]TJ
 T*[(20)-775.926(21)-775.926(22)-775.926(23)-775.926(24)-775.925(25)-775.925(26)]TJ
 T*[(27)-775.926(28)-775.926(29)-775.926(30)-775.926(31)]TJ
-134.756 52.0281 Td
-(October)Tj
--33.1844 -8.67109 Td
-[(S)-1220.93(M)-1054.93(T)-1276.93(W)-943.926(T)-1276.93(F)-1276.93(S)]TJ
+135.518 52.0281 Td
+(octobre)Tj
+-33.9469 -8.67109 Td
+[(d)-1331.93(l)-1665.93(m)-1054.93(m)-1054.93(j)-1665.93(v)-1387.93(s)]TJ
 T*[(1)-1331.93(2)-1331.93(3)-1331.93(4)-1331.93(5)-1331.93(6)-1331.93(7)]TJ
 T*[(8)-1331.93(9)-1331.93(10)-775.925(11)-775.925(12)-775.927(13)-775.927(14)]TJ
 T*[(15)-775.925(16)-775.925(17)-775.925(18)-775.925(19)-775.927(20)-775.927(21)]TJ
@@ -1735,7 +1839,7 @@ endobj
 80 0 obj 
 <<
 /Type /Encoding
-/Differences [45 /minus]
+/Differences [45 /minus 174 /registered 195 /Atilde 226 /acircumflex 232 /egrave /eacute /ecircumflex /edieresis 244 /ocircumflex 251 /ucircumflex]
 >>
 endobj 
 77 0 obj 
@@ -1758,7 +1862,7 @@ endobj
 endobj 
 46 0 obj 
 <<
-/Length 6328
+/Length 7580
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -1767,8 +1871,8 @@ q 0.1 0 0 0.1 0 0 cm
 q
 10 0 0 10 0 0 cm BT
 /R8 7.2 Tf
-0 1 -1 0 40.275 372.478 Tm
-(October 2017)Tj
+0 1 -1 0 40.275 373.277 Tm
+(octobre 2017)Tj
 ET
 Q
 9 w
@@ -1779,8 +1883,8 @@ S
 q
 10 0 0 10 0 0 cm BT
 /R8 7.2 Tf
-0 1 -1 0 56.6406 77.3684 Tm
-[(Sunday)-10633.1(Monday)-10411.2(Tuesday)-9549.66(Wednesday)-9383.14(Thursday)-10634.2(Friday)-10717.1(Saturday)]TJ
+0 1 -1 0 56.6406 73.9703 Tm
+[(dimanche)-10883.6(lundi)-11801.1(mardi)-10912.7(mercredi)-11106.6(jeudi)-11133.7(vendredi)-10578.1(samedi)]TJ
 ET
 Q
 602.406 7497.9 m
@@ -1791,17 +1895,24 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 72.8406 130.958 Tm
-[(1)-13551.2(2)-13551.2(3)-13551.2(4)-13551.1(5)]TJ
+[(1)-13551.2(2)-13551.2(3)-13551.2(4)]TJ
 /R8 7.2 Tf
-319.518 -7.2 Td
-(Sukkot Begins )Tj
+217.946 -7.2 Td
+(19:30-21:00 Meeting de )Tj
+9 TL
+(OARC exécutif )'
+/R9 7.2 Tf
+188.34 16.2 Td
+(5)Tj
+/R8 7.2 Tf
+-86.7684 -7.2 Td
+(Début de Sukkot )Tj
 /R9 7.2 Tf
 188.339 7.2 Td
 (6)Tj
 /R8 7.2 Tf
--86.7684 -7.2 Td
-(Oktoberfest Begins )Tj
-9 TL
+-86.768 -7.2 Td
+(Début de l'Oktoberfest )Tj
 (\(CA-ON\) )'
 /R9 7.2 Tf
 188.339 16.2 Td
@@ -1816,7 +1927,7 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 160.827 44.1898 Tm
-(Week 39)Tj
+(Semaine 39)Tj
 ET
 Q
 692.406 4576.76 m
@@ -1830,17 +1941,24 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 72.8406 130.958 Tm
-[(1)-13551.2(2)-13551.2(3)-13551.2(4)-13551.1(5)]TJ
+[(1)-13551.2(2)-13551.2(3)-13551.2(4)]TJ
 /R8 7.2 Tf
-319.518 -7.2 Td
-(Sukkot Begins )Tj
+217.946 -7.2 Td
+(19:30-21:00 Meeting de )Tj
+9 TL
+(OARC exécutif )'
+/R9 7.2 Tf
+188.34 16.2 Td
+(5)Tj
+/R8 7.2 Tf
+-86.7684 -7.2 Td
+(Début de Sukkot )Tj
 /R9 7.2 Tf
 188.339 7.2 Td
 (6)Tj
 /R8 7.2 Tf
--86.7684 -7.2 Td
-(Oktoberfest Begins )Tj
-9 TL
+-86.768 -7.2 Td
+(Début de l'Oktoberfest )Tj
 (\(CA-ON\) )'
 /R9 7.2 Tf
 188.339 16.2 Td
@@ -1858,33 +1976,42 @@ q
 [(8)-13551.2(9)]TJ
 /R8 7.2 Tf
 14.8031 -7.2 Td
-(Thanksgiving Day )Tj
+(Action de Grâce )Tj
 10.8 TL
-(Columbus Day \(US\) )'
+(Jour de Columbus \(US\) )'
 /R9 7.2 Tf
 184.337 18 Td
 (10)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Ada Lovelace Day )Tj
+(Jour de Ada Lovelace )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
-[(11)-12995.2(12)]TJ
+(11)Tj
 /R8 7.2 Tf
-18.8062 -7.2 Td
-(Sukkot Ends )Tj
+-82.7652 -7.2 Td
+(19:30-22:00 Meeting de )Tj
+9 TL
+(OARC )'
+/R9 7.2 Tf
+184.337 16.2 Td
+(12)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Fin de Sukkot )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
 (13)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Friday the 13th )Tj
+(Le vendredi treize )Tj
 /R9 7.2 Tf
 184.336 7.2 Td
 (14)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Oktoberfest Ends \(CA-ON\) )Tj
+(Fin de l'Oktoberfest )Tj
+(\(CA-ON\) )'
 ET
 Q
 2668.14 7497.9 m
@@ -1895,7 +2022,7 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 264.114 44.1898 Tm
-(Week 40)Tj
+(Semaine 40)Tj
 ET
 Q
 1725.27 4576.76 m
@@ -1916,33 +2043,42 @@ q
 [(8)-13551.2(9)]TJ
 /R8 7.2 Tf
 14.8031 -7.2 Td
-(Thanksgiving Day )Tj
+(Action de Grâce )Tj
 10.8 TL
-(Columbus Day \(US\) )'
+(Jour de Columbus \(US\) )'
 /R9 7.2 Tf
 184.337 18 Td
 (10)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Ada Lovelace Day )Tj
+(Jour de Ada Lovelace )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
-[(11)-12995.2(12)]TJ
+(11)Tj
 /R8 7.2 Tf
-18.8062 -7.2 Td
-(Sukkot Ends )Tj
+-82.7652 -7.2 Td
+(19:30-22:00 Meeting de )Tj
+9 TL
+(OARC )'
+/R9 7.2 Tf
+184.337 16.2 Td
+(12)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Fin de Sukkot )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
 (13)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Friday the 13th )Tj
+(Le vendredi treize )Tj
 /R9 7.2 Tf
 184.336 7.2 Td
 (14)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Oktoberfest Ends \(CA-ON\) )Tj
+(Fin de l'Oktoberfest )Tj
+(\(CA-ON\) )'
 ET
 Q
 2668.14 7497.9 m
@@ -1953,7 +2089,32 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 279.414 126.955 Tm
-[(15)-12995.2(16)-12995.2(17)-12995.2(18)-12995.2(19)-12995.2(20)-12995.1(21)]TJ
+[(15)-12995.2(16)]TJ
+/R8 7.2 Tf
+18.8062 -7.2 Td
+(13:00-23:59+4 Roundup )Tj
+9 TL
+(clubs scholaires ARRL )'
+10.8 TL
+(19:00-21:00 Meeting de )'
+9 TL
+(WCARC )'
+/R9 7.2 Tf
+184.337 36 Td
+[(17)-12995.2(18)]TJ
+/R8 7.2 Tf
+18.8062 -7.2 Td
+(19:30-21:00 Meeting de )Tj
+(OVMRC )'
+/R9 7.2 Tf
+184.337 16.2 Td
+[(19)-12995.2(20)]TJ
+/R8 7.2 Tf
+18.8062 -7.2 Td
+(*JOTA-JOTI* )Tj
+/R9 7.2 Tf
+184.336 7.2 Td
+(21)Tj
 ET
 Q
 3701.01 7497.9 m
@@ -1964,7 +2125,7 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 367.401 44.1898 Tm
-(Week 41)Tj
+(Semaine 41)Tj
 ET
 Q
 2758.14 4576.76 m
@@ -1977,7 +2138,32 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 279.414 126.955 Tm
-[(15)-12995.2(16)-12995.2(17)-12995.2(18)-12995.2(19)-12995.2(20)-12995.1(21)]TJ
+[(15)-12995.2(16)]TJ
+/R8 7.2 Tf
+18.8062 -7.2 Td
+(13:00-23:59+4 Roundup )Tj
+9 TL
+(clubs scholaires ARRL )'
+10.8 TL
+(19:00-21:00 Meeting de )'
+9 TL
+(WCARC )'
+/R9 7.2 Tf
+184.337 36 Td
+[(17)-12995.2(18)]TJ
+/R8 7.2 Tf
+18.8062 -7.2 Td
+(19:30-21:00 Meeting de )Tj
+(OVMRC )'
+/R9 7.2 Tf
+184.337 16.2 Td
+[(19)-12995.2(20)]TJ
+/R8 7.2 Tf
+18.8062 -7.2 Td
+(*JOTA-JOTI* )Tj
+/R9 7.2 Tf
+184.336 7.2 Td
+(21)Tj
 ET
 Q
 3701.01 7497.9 m
@@ -1991,12 +2177,18 @@ q
 (22)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(INTERNATIONAL CAPS )Tj
+(JOURNÃ‰E )Tj
 9 TL
-(LOCK DAY )'
+(INTERNATIONALE DU )'
+(VERROUILLAGE DES )'
+(MAJUSCULES )'
 /R9 7.2 Tf
-184.337 16.2 Td
+184.337 34.2 Td
 [(23)-12995.2(24)-12995.2(25)-12995.2(26)-12995.2(27)-12995.1(28)]TJ
+/R8 7.2 Tf
+425.092 -7.2 Td
+(00:00-23:59+1 )Tj
+(*CQ-WW-DX-SSB* )'
 ET
 Q
 4733.88 7497.9 m
@@ -2007,7 +2199,7 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 470.688 44.1898 Tm
-(Week 42)Tj
+(Semaine 42)Tj
 ET
 Q
 3791.01 5592.47 m
@@ -2028,12 +2220,18 @@ q
 (22)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(INTERNATIONAL CAPS )Tj
+(JOURNÃ‰E )Tj
 9 TL
-(LOCK DAY )'
+(INTERNATIONALE DU )'
+(VERROUILLAGE DES )'
+(MAJUSCULES )'
 /R9 7.2 Tf
-184.337 16.2 Td
+184.337 34.2 Td
 [(23)-12995.2(24)-12995.2(25)-12995.2(26)-12995.2(27)-12995.1(28)]TJ
+/R8 7.2 Tf
+425.092 -7.2 Td
+(00:00-23:59+1 )Tj
+(*CQ-WW-DX-SSB* )'
 ET
 Q
 4733.88 7497.9 m
@@ -2047,7 +2245,7 @@ q
 [(29)-12995.2(30)-12995.2(31)]TJ
 /R8 7.2 Tf
 120.378 -7.2 Td
-(Hallowe'en )Tj
+(Halloween )Tj
 ET
 Q
 5766.75 7497.9 m
@@ -2058,13 +2256,13 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 573.975 44.1898 Tm
-(Week 43)Tj
+(Semaine 43)Tj
 /R9 7.2 Tf
 82.7652 87.9867 Td
 [(29)-12995.2(30)-12995.2(31)]TJ
 /R8 7.2 Tf
 120.378 -7.2 Td
-(Hallowe'en )Tj
+(Halloween )Tj
 ET
 Q
 5766.75 7497.9 m
@@ -2097,10 +2295,10 @@ S
 q
 10 0 0 10 0 0 cm BT
 /R8 6.87138 Tf
-0 1 -1 0 485.659 580.648 Tm
-(September)Tj
--28.6008 -8.67148 Td
-[(S)-1220.93(M)-1054.92(T)-1276.92(W)-943.927(T)-1276.92(F)-1276.92(S)]TJ
+0 1 -1 0 485.659 581.222 Tm
+(septembre)Tj
+-29.1746 -8.67148 Td
+[(d)-1331.92(l)-1665.93(m)-1054.92(m)-1054.92(j)-1665.93(v)-1387.93(s)]TJ
 64.8633 -8.67148 Td
 [(1)-1331.92(2)]TJ
 -64.8633 -8.67109 Td
@@ -2109,10 +2307,10 @@ q
 T*[(10)-775.927(11)-775.927(12)-775.927(13)-775.927(14)-775.927(15)-775.927(16)]TJ
 T*[(17)-775.927(18)-775.927(19)-775.927(20)-775.927(21)-775.927(22)-775.927(23)]TJ
 T*[(24)-775.927(25)-775.927(26)-775.927(27)-775.927(28)-775.927(29)-775.927(30)]TJ
-131.131 52.0285 Td
-(November)Tj
--29.5598 -8.67148 Td
-[(S)-1220.93(M)-1054.92(T)-1276.92(W)-943.927(T)-1276.92(F)-1276.92(S)]TJ
+131.701 52.0285 Td
+(novembre)Tj
+-30.1301 -8.67148 Td
+[(d)-1331.92(l)-1665.93(m)-1054.92(m)-1054.92(j)-1665.93(v)-1387.93(s)]TJ
 38.918 -8.67148 Td
 [(1)-1331.92(2)-1331.92(3)-1331.92(4)]TJ
 -38.918 -8.67109 Td
@@ -2139,7 +2337,7 @@ endobj
 endobj 
 49 0 obj 
 <<
-/Length 6399
+/Length 7791
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -2148,8 +2346,8 @@ q 0.1 0 0 0.1 0 0 cm
 q
 10 0 0 10 0 0 cm BT
 /R8 7.2 Tf
-0 1 -1 0 40.275 368.68 Tm
-(November 2017)Tj
+0 1 -1 0 40.275 369.278 Tm
+(novembre 2017)Tj
 ET
 Q
 9 w
@@ -2160,8 +2358,8 @@ S
 q
 10 0 0 10 0 0 cm BT
 /R8 7.2 Tf
-0 1 -1 0 56.6406 77.3684 Tm
-[(Sunday)-10633.1(Monday)-10411.2(Tuesday)-9549.66(Wednesday)-9383.14(Thursday)-10634.2(Friday)-10717.1(Saturday)]TJ
+0 1 -1 0 56.6406 73.9703 Tm
+[(dimanche)-10883.6(lundi)-11801.1(mardi)-10912.7(mercredi)-11106.6(jeudi)-11133.7(vendredi)-10578.1(samedi)]TJ
 ET
 Q
 602.406 7497.9 m
@@ -2175,16 +2373,25 @@ q
 (1)Tj
 /R8 7.2 Tf
 -86.7684 -7.2 Td
-(All Saints' Day )Tj
+(Toussaint )Tj
+10.8 TL
+(19:30-21:00 Meeting de )'
+9 TL
+(OARC exécutif )'
 /R9 7.2 Tf
-188.34 7.2 Td
+188.34 27 Td
 (2)Tj
 /R8 7.2 Tf
 -86.7684 -7.2 Td
-(All Souls' Day )Tj
+(Fête des Morts )Tj
 /R9 7.2 Tf
 188.339 7.2 Td
 [(3)-13551.1(4)]TJ
+/R8 7.2 Tf
+14.8031 -7.2 Td
+(21:00-02:59+2 )Tj
+(Sweepstakes CW de )'
+(novembre ARRL )'
 ET
 Q
 1635.27 7497.9 m
@@ -2205,16 +2412,25 @@ q
 (1)Tj
 /R8 7.2 Tf
 -86.7684 -7.2 Td
-(All Saints' Day )Tj
+(Toussaint )Tj
+10.8 TL
+(19:30-21:00 Meeting de )'
+9 TL
+(OARC exécutif )'
 /R9 7.2 Tf
-188.34 7.2 Td
+188.34 27 Td
 (2)Tj
 /R8 7.2 Tf
 -86.7684 -7.2 Td
-(All Souls' Day )Tj
+(Fête des Morts )Tj
 /R9 7.2 Tf
 188.339 7.2 Td
 [(3)-13551.1(4)]TJ
+/R8 7.2 Tf
+14.8031 -7.2 Td
+(21:00-02:59+2 )Tj
+(Sweepstakes CW de )'
+(novembre ARRL )'
 ET
 Q
 1635.27 7497.9 m
@@ -2228,21 +2444,33 @@ q
 (5)Tj
 /R8 7.2 Tf
 -86.7684 -7.2 Td
-(Guy Fawkes Day \(UK\) )Tj
-10.8 TL
-(Daylight Savings Time Ends )'
+(Journée de Guy Fawkes )Tj
 9 TL
-(\(except CA-SK\) )'
-/R9 7.2 Tf
-188.34 27 Td
-[(6)-13551.2(7)-13551.2(8)-13551.1(9)-12995.2(10)-12995.1(11)]TJ
-/R8 7.2 Tf
-421.089 -7.2 Td
-(Rememberance Day )Tj
+(\(UK\) )'
 10.8 TL
-(Armistice Day \(CA-NL\) )'
-(Veterans Day \(US\) )'
-(Armistice Day \(UK\) )'
+(Heure d'éte termine \(sauf )'
+9 TL
+(CA-SK\) )'
+/R9 7.2 Tf
+188.34 36 Td
+[(6)-13551.2(7)-13551.2(8)]TJ
+/R8 7.2 Tf
+116.375 -7.2 Td
+(19:30-22:00 Meeting de )Tj
+(OARC )'
+/R9 7.2 Tf
+188.34 16.2 Td
+[(9)-12995.2(10)-12995.1(11)]TJ
+/R8 7.2 Tf
+116.374 -7.2 Td
+(Jour du Souvenir )Tj
+10.8 TL
+(Jour de l'Armistice \(CA-NL\) )'
+(Jour des anciens )'
+9 TL
+(combattants \(US\) )'
+10.8 TL
+(Jour de l'Armistice \(UK\) )'
 ET
 Q
 2668.14 7497.9 m
@@ -2253,7 +2481,7 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 264.114 44.1898 Tm
-(Week 44)Tj
+(Semaine 44)Tj
 ET
 Q
 1725.27 5592.47 m
@@ -2274,21 +2502,33 @@ q
 (5)Tj
 /R8 7.2 Tf
 -86.7684 -7.2 Td
-(Guy Fawkes Day \(UK\) )Tj
-10.8 TL
-(Daylight Savings Time Ends )'
+(Journée de Guy Fawkes )Tj
 9 TL
-(\(except CA-SK\) )'
-/R9 7.2 Tf
-188.34 27 Td
-[(6)-13551.2(7)-13551.2(8)-13551.1(9)-12995.2(10)-12995.1(11)]TJ
-/R8 7.2 Tf
-421.089 -7.2 Td
-(Rememberance Day )Tj
+(\(UK\) )'
 10.8 TL
-(Armistice Day \(CA-NL\) )'
-(Veterans Day \(US\) )'
-(Armistice Day \(UK\) )'
+(Heure d'éte termine \(sauf )'
+9 TL
+(CA-SK\) )'
+/R9 7.2 Tf
+188.34 36 Td
+[(6)-13551.2(7)-13551.2(8)]TJ
+/R8 7.2 Tf
+116.375 -7.2 Td
+(19:30-22:00 Meeting de )Tj
+(OARC )'
+/R9 7.2 Tf
+188.34 16.2 Td
+[(9)-12995.2(10)-12995.1(11)]TJ
+/R8 7.2 Tf
+116.374 -7.2 Td
+(Jour du Souvenir )Tj
+10.8 TL
+(Jour de l'Armistice \(CA-NL\) )'
+(Jour des anciens )'
+9 TL
+(combattants \(US\) )'
+10.8 TL
+(Jour de l'Armistice \(UK\) )'
 ET
 Q
 2668.14 7497.9 m
@@ -2302,10 +2542,24 @@ q
 [(12)-12995.2(13)]TJ
 /R8 7.2 Tf
 18.8062 -7.2 Td
-(World Kindness Day )Tj
+(Journée mondiale de la )Tj
+9 TL
+(gentillesse )'
 /R9 7.2 Tf
-184.337 7.2 Td
-[(14)-12995.2(15)-12995.2(16)-12995.2(17)-12995.1(18)]TJ
+184.337 16.2 Td
+[(14)-12995.2(15)]TJ
+/R8 7.2 Tf
+18.8062 -7.2 Td
+(19:30-21:00 Meeting de )Tj
+(OVMRC )'
+/R9 7.2 Tf
+184.337 16.2 Td
+[(16)-12995.2(17)-12995.1(18)]TJ
+/R8 7.2 Tf
+120.377 -7.2 Td
+(21:00-02:59+2 )Tj
+(Sweepstakes SSB de )'
+(novembre ARRL )'
 ET
 Q
 3701.01 7497.9 m
@@ -2316,7 +2570,7 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 367.401 44.1898 Tm
-(Week 45)Tj
+(Semaine 45)Tj
 ET
 Q
 2758.14 6608.18 m
@@ -2332,10 +2586,24 @@ q
 [(12)-12995.2(13)]TJ
 /R8 7.2 Tf
 18.8062 -7.2 Td
-(World Kindness Day )Tj
+(Journée mondiale de la )Tj
+9 TL
+(gentillesse )'
 /R9 7.2 Tf
-184.337 7.2 Td
-[(14)-12995.2(15)-12995.2(16)-12995.2(17)-12995.1(18)]TJ
+184.337 16.2 Td
+[(14)-12995.2(15)]TJ
+/R8 7.2 Tf
+18.8062 -7.2 Td
+(19:30-21:00 Meeting de )Tj
+(OVMRC )'
+/R9 7.2 Tf
+184.337 16.2 Td
+[(16)-12995.2(17)-12995.1(18)]TJ
+/R8 7.2 Tf
+120.377 -7.2 Td
+(21:00-02:59+2 )Tj
+(Sweepstakes SSB de )'
+(novembre ARRL )'
 ET
 Q
 3701.01 7497.9 m
@@ -2346,19 +2614,34 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 382.701 126.955 Tm
-[(19)-12995.2(20)-12995.2(21)-12995.2(22)-12995.2(23)]TJ
+[(19)-12995.2(20)]TJ
 /R8 7.2 Tf
-323.521 -7.2 Td
-(Thanksgiving Day \(US\) )Tj
+18.8062 -7.2 Td
+(19:00-21:00 Meeting de )Tj
+9 TL
+(WCARC )'
+/R9 7.2 Tf
+184.337 16.2 Td
+[(21)-12995.2(22)-12995.2(23)]TJ
+/R8 7.2 Tf
+120.378 -7.2 Td
+(Action de Grâce \(US\) )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
 (24)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Black Friday \(US\) )Tj
+(Vendredi Noir \(US\) )Tj
 /R9 7.2 Tf
 184.336 7.2 Td
 (25)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Rallye des Hautes Pins )Tj
+10.8 TL
+(00:00-23:59+1 )'
+9 TL
+(*CQ-WW-DX-CW* )'
 ET
 Q
 4733.88 7497.9 m
@@ -2369,22 +2652,37 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 470.688 44.1898 Tm
-(Week 46)Tj
+(Semaine 46)Tj
 /R9 7.2 Tf
 82.7652 87.9871 Td
-[(19)-12995.2(20)-12995.2(21)-12995.2(22)-12995.2(23)]TJ
+[(19)-12995.2(20)]TJ
 /R8 7.2 Tf
-323.521 -7.2 Td
-(Thanksgiving Day \(US\) )Tj
+18.8062 -7.2 Td
+(19:00-21:00 Meeting de )Tj
+9 TL
+(WCARC )'
+/R9 7.2 Tf
+184.337 16.2 Td
+[(21)-12995.2(22)-12995.2(23)]TJ
+/R8 7.2 Tf
+120.378 -7.2 Td
+(Action de Grâce \(US\) )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
 (24)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Black Friday \(US\) )Tj
+(Vendredi Noir \(US\) )Tj
 /R9 7.2 Tf
 184.336 7.2 Td
 (25)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Rallye des Hautes Pins )Tj
+10.8 TL
+(00:00-23:59+1 )'
+9 TL
+(*CQ-WW-DX-CW* )'
 ET
 Q
 4733.88 7497.9 m
@@ -2398,13 +2696,15 @@ q
 [(26)-12995.2(27)]TJ
 /R8 7.2 Tf
 18.8062 -7.2 Td
-(Cyber Monday \(US\) )Tj
+(Cyber Lundi \(US\) )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
 [(28)-12995.2(29)-12995.2(30)]TJ
 /R8 7.2 Tf
 120.378 -7.2 Td
-(St. Andrew's Day \(UK\) )Tj
+(Fête de la Saint-Andrew )Tj
+9 TL
+(\(UK\) )'
 ET
 Q
 5766.75 7497.9 m
@@ -2415,7 +2715,7 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 573.975 44.1898 Tm
-(Week 47)Tj
+(Semaine 47)Tj
 ET
 Q
 4823.88 513.898 m
@@ -2436,13 +2736,15 @@ q
 [(26)-12995.2(27)]TJ
 /R8 7.2 Tf
 18.8062 -7.2 Td
-(Cyber Monday \(US\) )Tj
+(Cyber Lundi \(US\) )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
 [(28)-12995.2(29)-12995.2(30)]TJ
 /R8 7.2 Tf
 120.378 -7.2 Td
-(St. Andrew's Day \(UK\) )Tj
+(Fête de la Saint-Andrew )Tj
+9 TL
+(\(UK\) )'
 ET
 Q
 5766.75 7497.9 m
@@ -2475,20 +2777,20 @@ S
 q
 10 0 0 10 0 0 cm BT
 /R8 6.87138 Tf
-0 1 -1 0 72.5121 77.3742 Tm
-(October)Tj
--33.1844 -8.67109 Td
-[(S)-1220.93(M)-1054.93(T)-1276.93(W)-943.926(T)-1276.93(F)-1276.93(S)]TJ
+0 1 -1 0 72.5121 78.1367 Tm
+(octobre)Tj
+-33.9469 -8.67109 Td
+[(d)-1331.93(l)-1665.93(m)-1054.93(m)-1054.93(j)-1665.93(v)-1387.93(s)]TJ
 8.67148 TL
 T*[(1)-1331.93(2)-1331.93(3)-1331.93(4)-1331.93(5)-1331.93(6)-1331.93(7)]TJ
 T*[(8)-1331.93(9)-1331.93(10)-775.926(11)-775.926(12)-775.925(13)-775.925(14)]TJ
 T*[(15)-775.926(16)-775.926(17)-775.926(18)-775.926(19)-775.925(20)-775.925(21)]TJ
 T*[(22)-775.926(23)-775.926(24)-775.926(25)-775.926(26)-775.925(27)-775.925(28)]TJ
 T*[(29)-775.926(30)-775.926(31)]TJ
-638.988 -361.119 Td
-(December)Tj
--29.5598 -8.67148 Td
-[(S)-1220.93(M)-1054.92(T)-1276.92(W)-943.927(T)-1276.92(F)-1276.92(S)]TJ
+639.559 -361.119 Td
+(décembre)Tj
+-30.1301 -8.67148 Td
+[(d)-1331.92(l)-1665.93(m)-1054.92(m)-1054.92(j)-1665.93(v)-1387.93(s)]TJ
 64.8633 -8.67148 Td
 [(1)-1331.92(2)]TJ
 -64.8633 -8.67109 Td
@@ -2516,7 +2818,7 @@ endobj
 endobj 
 52 0 obj 
 <<
-/Length 6258
+/Length 7457
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -2525,8 +2827,8 @@ q 0.1 0 0 0.1 0 0 cm
 q
 10 0 0 10 0 0 cm BT
 /R8 7.2 Tf
-0 1 -1 0 40.275 368.68 Tm
-(December 2017)Tj
+0 1 -1 0 40.275 369.278 Tm
+(décembre 2017)Tj
 ET
 Q
 9 w
@@ -2537,8 +2839,8 @@ S
 q
 10 0 0 10 0 0 cm BT
 /R8 7.2 Tf
-0 1 -1 0 56.6406 77.3684 Tm
-[(Sunday)-10633.1(Monday)-10411.2(Tuesday)-9549.66(Wednesday)-9383.14(Thursday)-10634.2(Friday)-10717.1(Saturday)]TJ
+0 1 -1 0 56.6406 73.9703 Tm
+[(dimanche)-10883.6(lundi)-11801.1(mardi)-10912.7(mercredi)-11106.6(jeudi)-11133.7(vendredi)-10578.1(samedi)]TJ
 ET
 Q
 602.406 7497.9 m
@@ -2548,7 +2850,15 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 72.8406 638.815 Tm
-[(1)-13551.1(2)]TJ
+(1)Tj
+/R8 7.2 Tf
+-86.768 -7.2 Td
+(22:00-15:59+2 Concours )Tj
+9 TL
+(160 mètres ARRL )'
+/R9 7.2 Tf
+188.339 16.2 Td
+(2)Tj
 ET
 Q
 1463.13 7497.9 m
@@ -2559,7 +2869,19 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 158.913 130.958 Tm
-[(3)-13551.2(4)-13551.2(5)-13551.2(6)-13551.1(7)-13551.1(8)-13551.1(9)]TJ
+[(3)-13551.2(4)-13551.2(5)-13551.2(6)]TJ
+/R8 7.2 Tf
+217.946 -7.2 Td
+(19:30-21:00 Meeting de )Tj
+9 TL
+(OARC exécutif )'
+/R9 7.2 Tf
+188.34 16.2 Td
+[(7)-13551.1(8)-13551.1(9)]TJ
+/R8 7.2 Tf
+116.374 -7.2 Td
+(00:00-23:59+1 Concours )Tj
+(10 mèters ARRL )'
 ET
 Q
 2323.86 7497.9 m
@@ -2570,7 +2892,7 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 229.686 44.1898 Tm
-(Week 48)Tj
+(Semaine 48)Tj
 ET
 Q
 1553.13 513.898 m
@@ -2584,7 +2906,19 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 158.913 130.958 Tm
-[(3)-13551.2(4)-13551.2(5)-13551.2(6)-13551.1(7)-13551.1(8)-13551.1(9)]TJ
+[(3)-13551.2(4)-13551.2(5)-13551.2(6)]TJ
+/R8 7.2 Tf
+217.946 -7.2 Td
+(19:30-21:00 Meeting de )Tj
+9 TL
+(OARC exécutif )'
+/R9 7.2 Tf
+188.34 16.2 Td
+[(7)-13551.1(8)-13551.1(9)]TJ
+/R8 7.2 Tf
+116.374 -7.2 Td
+(00:00-23:59+1 Concours )Tj
+(10 mèters ARRL )'
 ET
 Q
 2323.86 7497.9 m
@@ -2598,18 +2932,26 @@ q
 [(10)-12995.2(11)]TJ
 /R8 7.2 Tf
 18.8062 -7.2 Td
-(86th Anniversary of the )Tj
+(86e Anniversaire du Statut )Tj
 9 TL
-(Statue of Westminster )'
+(de Westminster )'
 /R9 7.2 Tf
 184.337 16.2 Td
 [(12)-12995.2(13)]TJ
 /R8 7.2 Tf
 18.8062 -7.2 Td
-(Hanukkah Begins )Tj
+(Début de Hanukkah )Tj
+10.8 TL
+(19:30-22:00 Meeting de )'
+9 TL
+(OARC )'
 /R9 7.2 Tf
-184.337 7.2 Td
+184.337 27 Td
 [(14)-12995.2(15)-12995.1(16)]TJ
+/R8 7.2 Tf
+120.377 -7.2 Td
+(00:00-23:59 Concours )Tj
+(d'hiver du Canada RAC )'
 ET
 Q
 3184.58 7497.9 m
@@ -2620,7 +2962,7 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 315.758 44.1898 Tm
-(Week 49)Tj
+(Semaine 49)Tj
 ET
 Q
 2413.86 513.898 m
@@ -2641,18 +2983,26 @@ q
 [(10)-12995.2(11)]TJ
 /R8 7.2 Tf
 18.8062 -7.2 Td
-(86th Anniversary of the )Tj
+(86e Anniversaire du Statut )Tj
 9 TL
-(Statue of Westminster )'
+(de Westminster )'
 /R9 7.2 Tf
 184.337 16.2 Td
 [(12)-12995.2(13)]TJ
 /R8 7.2 Tf
 18.8062 -7.2 Td
-(Hanukkah Begins )Tj
+(Début de Hanukkah )Tj
+10.8 TL
+(19:30-22:00 Meeting de )'
+9 TL
+(OARC )'
 /R9 7.2 Tf
-184.337 7.2 Td
+184.337 27 Td
 [(14)-12995.2(15)-12995.1(16)]TJ
+/R8 7.2 Tf
+120.377 -7.2 Td
+(00:00-23:59 Concours )Tj
+(d'hiver du Canada RAC )'
 ET
 Q
 3184.58 7497.9 m
@@ -2663,16 +3013,35 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 331.058 126.955 Tm
-[(17)-12995.2(18)-12995.2(19)-12995.2(20)]TJ
+(17)Tj
 /R8 7.2 Tf
-221.949 -7.2 Td
-(Hanukkah Ends )Tj
+-82.7652 -7.2 Td
+(18:00-23:59 Rookie )Tj
+9 TL
+(Roundup CW ARRL )'
 /R9 7.2 Tf
-184.337 7.2 Td
+184.337 16.2 Td
+(18)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(19:00-21:00 Meeting de )Tj
+(WCARC )'
+/R9 7.2 Tf
+184.337 16.2 Td
+[(19)-12995.2(20)]TJ
+/R8 7.2 Tf
+18.8059 -7.2 Td
+(Fin de Hanukkah )Tj
+10.8 TL
+(19:30-21:00 Meeting de )'
+9 TL
+(OVMRC )'
+/R9 7.2 Tf
+184.337 27 Td
 (21)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(First Day of Winter )Tj
+(Premier jour d'hiver )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
 [(22)-12995.1(23)]TJ
@@ -2686,7 +3055,7 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 401.83 44.1898 Tm
-(Week 50)Tj
+(Semaine 50)Tj
 ET
 Q
 3274.58 1529.61 m
@@ -2699,16 +3068,35 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 331.058 126.955 Tm
-[(17)-12995.2(18)-12995.2(19)-12995.2(20)]TJ
+(17)Tj
 /R8 7.2 Tf
-221.949 -7.2 Td
-(Hanukkah Ends )Tj
+-82.7652 -7.2 Td
+(18:00-23:59 Rookie )Tj
+9 TL
+(Roundup CW ARRL )'
 /R9 7.2 Tf
-184.337 7.2 Td
+184.337 16.2 Td
+(18)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(19:00-21:00 Meeting de )Tj
+(WCARC )'
+/R9 7.2 Tf
+184.337 16.2 Td
+[(19)-12995.2(20)]TJ
+/R8 7.2 Tf
+18.8059 -7.2 Td
+(Fin de Hanukkah )Tj
+10.8 TL
+(19:30-21:00 Meeting de )'
+9 TL
+(OVMRC )'
+/R9 7.2 Tf
+184.337 27 Td
 (21)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(First Day of Winter )Tj
+(Premier jour d'hiver )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
 [(22)-12995.1(23)]TJ
@@ -2725,21 +3113,21 @@ q
 (24)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Christmas Eve )Tj
+(Veille de Noël )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
 (25)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Christmas Day )Tj
+(Noël )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
 (26)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Kwanzaa Begins )Tj
+(Début de Kwanzaa )Tj
 10.8 TL
-(Boxing Day )'
+(Lendemain de Noël )'
 /R9 7.2 Tf
 184.337 18 Td
 [(27)-12995.2(28)-12995.2(29)-12995.1(30)]TJ
@@ -2753,7 +3141,7 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 487.903 44.1898 Tm
-(Week 51)Tj
+(Semaine 51)Tj
 ET
 Q
 4135.3 2545.33 m
@@ -2774,21 +3162,21 @@ q
 (24)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Christmas Eve )Tj
+(Veille de Noël )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
 (25)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Christmas Day )Tj
+(Noël )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
 (26)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Kwanzaa Begins )Tj
+(Début de Kwanzaa )Tj
 10.8 TL
-(Boxing Day )'
+(Lendemain de Noël )'
 /R9 7.2 Tf
 184.337 18 Td
 [(27)-12995.2(28)-12995.2(29)-12995.1(30)]TJ
@@ -2805,7 +3193,7 @@ q
 (31)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(New Year's Eve )Tj
+(Veille du Nouvel An )Tj
 ET
 Q
 5766.75 7497.9 m
@@ -2816,13 +3204,13 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 573.975 44.1898 Tm
-(Week 52)Tj
+(Semaine 52)Tj
 /R9 7.2 Tf
 82.7652 70.7723 Td
 (31)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(New Year's Eve )Tj
+(Veille du Nouvel An )Tj
 ET
 Q
 5766.75 7497.9 m
@@ -2855,10 +3243,10 @@ S
 q
 10 0 0 10 0 0 cm BT
 /R8 6.87138 Tf
-0 1 -1 0 72.5121 73.7496 Tm
-(November)Tj
--29.5598 -8.67109 Td
-[(S)-1220.93(M)-1054.93(T)-1276.93(W)-943.926(T)-1276.93(F)-1276.93(S)]TJ
+0 1 -1 0 72.5121 74.3199 Tm
+(novembre)Tj
+-30.1301 -8.67109 Td
+[(d)-1331.93(l)-1665.93(m)-1054.93(m)-1054.93(j)-1665.93(v)-1387.93(s)]TJ
 38.918 -8.67148 Td
 [(1)-1331.93(2)-1331.93(3)-1331.93(4)]TJ
 -38.918 -8.67148 Td
@@ -2867,13 +3255,13 @@ q
 T*[(12)-775.926(13)-775.926(14)-775.926(15)-775.926(16)-775.925(17)-775.925(18)]TJ
 T*[(19)-775.926(20)-775.926(21)-775.926(22)-775.926(23)-775.925(24)-775.925(25)]TJ
 T*[(26)-775.926(27)-775.926(28)-775.926(29)-775.926(30)]TJ
-642.613 -378.334 Td
-(January)Tj
--33.1844 -8.67148 Td
-[(S)-1220.93(M)-1054.92(T)-1276.92(W)-943.927(T)-1276.92(F)-1276.92(S)]TJ
-12.9727 -8.67148 Td
+644.715 -378.334 Td
+(janvier)Tj
+-35.2867 -8.67148 Td
+[(d)-1331.92(l)-1665.93(m)-1054.92(m)-1054.92(j)-1665.93(v)-1387.93(s)]TJ
+12.973 -8.67148 Td
 [(1)-1331.92(2)-1331.92(3)-1331.92(4)-1331.92(5)-1331.92(6)]TJ
--12.9727 -8.67109 Td
+-12.973 -8.67109 Td
 [(7)-1331.92(8)-1331.92(9)-1331.92(10)-775.927(11)-775.927(12)-775.927(13)]TJ
 T*[(14)-775.927(15)-775.927(16)-775.927(17)-775.927(18)-775.927(19)-775.927(20)]TJ
 T*[(21)-775.927(22)-775.927(23)-775.927(24)-775.927(25)-775.927(26)-775.927(27)]TJ
@@ -2897,7 +3285,7 @@ endobj
 endobj 
 55 0 obj 
 <<
-/Length 5618
+/Length 7117
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -2906,8 +3294,8 @@ q 0.1 0 0 0.1 0 0 cm
 q
 10 0 0 10 0 0 cm BT
 /R8 7.2 Tf
-0 1 -1 0 40.275 372.478 Tm
-(January 2018)Tj
+0 1 -1 0 40.275 374.682 Tm
+(janvier 2018)Tj
 ET
 Q
 9 w
@@ -2918,8 +3306,8 @@ S
 q
 10 0 0 10 0 0 cm BT
 /R8 7.2 Tf
-0 1 -1 0 58.0406 77.3684 Tm
-[(Sunday)-10633.1(Monday)-10411.2(Tuesday)-9549.66(Wednesday)-9383.14(Thursday)-10634.2(Friday)-10717.1(Saturday)]TJ
+0 1 -1 0 58.0406 73.9703 Tm
+[(dimanche)-10883.6(lundi)-11801.1(mardi)-10912.7(mercredi)-11106.6(jeudi)-11133.7(vendredi)-10578.1(samedi)]TJ
 ET
 Q
 616.406 7497.9 m
@@ -2933,15 +3321,29 @@ q
 (1)Tj
 /R8 7.2 Tf
 -86.7684 -7.2 Td
-(New Year's Day )Tj
+(Jour de l'an )Tj
 10.8 TL
-(Kwanzaa Ends )'
+(Fin de Kwanzaa )'
+(00:00-23:59 Straight Key )'
+9 TL
+(Night ARRL )'
 /R9 7.2 Tf
-188.34 18 Td
-[(2)-13551.2(3)-13551.1(4)-13551.1(5)-13551.1(6)]TJ
+188.34 37.8 Td
+[(2)-13551.2(3)]TJ
 /R8 7.2 Tf
-319.517 -7.2 Td
-(Epiphany )Tj
+14.8031 -7.2 Td
+(19:30-21:00 Meeting de )Tj
+(OARC exécutif )'
+/R9 7.2 Tf
+188.34 16.2 Td
+[(4)-13551.1(5)-13551.1(6)]TJ
+/R8 7.2 Tf
+116.374 -7.2 Td
+(Epiphanie )Tj
+10.8 TL
+(18:00-23:59+1 Roundup )'
+9 TL
+(RTTY ARRL )'
 ET
 Q
 1646.48 7497.9 m
@@ -2962,15 +3364,29 @@ q
 (1)Tj
 /R8 7.2 Tf
 -86.7684 -7.2 Td
-(New Year's Day )Tj
+(Jour de l'an )Tj
 10.8 TL
-(Kwanzaa Ends )'
+(Fin de Kwanzaa )'
+(00:00-23:59 Straight Key )'
+9 TL
+(Night ARRL )'
 /R9 7.2 Tf
-188.34 18 Td
-[(2)-13551.2(3)-13551.1(4)-13551.1(5)-13551.1(6)]TJ
+188.34 37.8 Td
+[(2)-13551.2(3)]TJ
 /R8 7.2 Tf
-319.517 -7.2 Td
-(Epiphany )Tj
+14.8031 -7.2 Td
+(19:30-21:00 Meeting de )Tj
+(OARC exécutif )'
+/R9 7.2 Tf
+188.34 16.2 Td
+[(4)-13551.1(5)-13551.1(6)]TJ
+/R8 7.2 Tf
+116.374 -7.2 Td
+(Epiphanie )Tj
+10.8 TL
+(18:00-23:59+1 Roundup )'
+9 TL
+(RTTY ARRL )'
 ET
 Q
 1646.48 7497.9 m
@@ -2981,7 +3397,26 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 177.248 130.958 Tm
-[(7)-13551.2(8)-13551.2(9)-12995.2(10)-12995.2(11)-12995.2(12)-12995.1(13)]TJ
+(7)Tj
+/R8 7.2 Tf
+-86.7684 -7.2 Td
+(18:00-23:59 Journée des )Tj
+9 TL
+(enfants ARRL )'
+/R9 7.2 Tf
+188.34 16.2 Td
+[(8)-13551.2(9)-12995.2(10)]TJ
+/R8 7.2 Tf
+116.375 -7.2 Td
+(19:30-22:00 Meeting de )Tj
+(OARC )'
+/R9 7.2 Tf
+184.337 16.2 Td
+[(11)-12995.2(12)-12995.1(13)]TJ
+/R8 7.2 Tf
+120.377 -7.2 Td
+(18:00-06:00+1 )Tj
+(*NAQP-CW* )'
 ET
 Q
 2676.54 7497.9 m
@@ -2992,7 +3427,7 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 264.954 44.1898 Tm
-(Week 1)Tj
+(Semaine 1)Tj
 ET
 Q
 1736.48 1529.61 m
@@ -3010,7 +3445,26 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 177.248 130.958 Tm
-[(7)-13551.2(8)-13551.2(9)-12995.2(10)-12995.2(11)-12995.2(12)-12995.1(13)]TJ
+(7)Tj
+/R8 7.2 Tf
+-86.7684 -7.2 Td
+(18:00-23:59 Journée des )Tj
+9 TL
+(enfants ARRL )'
+/R9 7.2 Tf
+188.34 16.2 Td
+[(8)-13551.2(9)-12995.2(10)]TJ
+/R8 7.2 Tf
+116.375 -7.2 Td
+(19:30-22:00 Meeting de )Tj
+(OARC )'
+/R9 7.2 Tf
+184.337 16.2 Td
+[(11)-12995.2(12)-12995.1(13)]TJ
+/R8 7.2 Tf
+120.377 -7.2 Td
+(18:00-06:00+1 )Tj
+(*NAQP-CW* )'
 ET
 Q
 2676.54 7497.9 m
@@ -3024,12 +3478,27 @@ q
 [(14)-12995.2(15)]TJ
 /R8 7.2 Tf
 18.8062 -7.2 Td
-(Martin Luther King Jr. Day )Tj
+(Journée de Martin Luther )Tj
 9 TL
-(\(US\) )'
+(King Jr. \(US\) )'
+10.8 TL
+(19:00-21:00 Meeting de )'
+9 TL
+(WCARC )'
+/R9 7.2 Tf
+184.337 36 Td
+[(16)-12995.2(17)]TJ
+/R8 7.2 Tf
+18.8062 -7.2 Td
+(19:30-21:00 Meeting de )Tj
+(OVMRC )'
 /R9 7.2 Tf
 184.337 16.2 Td
-[(16)-12995.2(17)-12995.2(18)-12995.2(19)-12995.1(20)]TJ
+[(18)-12995.2(19)-12995.1(20)]TJ
+/R8 7.2 Tf
+120.377 -7.2 Td
+(18:00-06:00+1 )Tj
+(*NAQP-SSB* )'
 ET
 Q
 3706.61 7497.9 m
@@ -3040,7 +3509,7 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 367.961 44.1898 Tm
-(Week 2)Tj
+(Semaine 2)Tj
 ET
 Q
 2766.54 2545.33 m
@@ -3056,12 +3525,27 @@ q
 [(14)-12995.2(15)]TJ
 /R8 7.2 Tf
 18.8062 -7.2 Td
-(Martin Luther King Jr. Day )Tj
+(Journée de Martin Luther )Tj
 9 TL
-(\(US\) )'
+(King Jr. \(US\) )'
+10.8 TL
+(19:00-21:00 Meeting de )'
+9 TL
+(WCARC )'
+/R9 7.2 Tf
+184.337 36 Td
+[(16)-12995.2(17)]TJ
+/R8 7.2 Tf
+18.8062 -7.2 Td
+(19:30-21:00 Meeting de )Tj
+(OVMRC )'
 /R9 7.2 Tf
 184.337 16.2 Td
-[(16)-12995.2(17)-12995.2(18)-12995.2(19)-12995.1(20)]TJ
+[(18)-12995.2(19)-12995.1(20)]TJ
+/R8 7.2 Tf
+120.377 -7.2 Td
+(18:00-06:00+1 )Tj
+(*NAQP-SSB* )'
 ET
 Q
 3706.61 7497.9 m
@@ -3072,7 +3556,15 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 383.261 126.955 Tm
-[(21)-12995.2(22)-12995.2(23)-12995.2(24)-12995.2(25)-12995.2(26)-12995.1(27)]TJ
+[(21)-12995.2(22)-12995.2(23)-12995.2(24)-12995.2(25)-12995.2(26)]TJ
+/R8 7.2 Tf
+425.092 -7.2 Td
+(22:00-22:00+2 )Tj
+9 TL
+(*CQ-WW-160-CW* )'
+/R9 7.2 Tf
+184.336 16.2 Td
+(27)Tj
 ET
 Q
 4736.68 7497.9 m
@@ -3083,7 +3575,7 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 470.968 44.1898 Tm
-(Week 3)Tj
+(Semaine 3)Tj
 ET
 Q
 3796.61 3561.04 m
@@ -3101,7 +3593,15 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 383.261 126.955 Tm
-[(21)-12995.2(22)-12995.2(23)-12995.2(24)-12995.2(25)-12995.2(26)-12995.1(27)]TJ
+[(21)-12995.2(22)-12995.2(23)-12995.2(24)-12995.2(25)-12995.2(26)]TJ
+/R8 7.2 Tf
+425.092 -7.2 Td
+(22:00-22:00+2 )Tj
+9 TL
+(*CQ-WW-160-CW* )'
+/R9 7.2 Tf
+184.336 16.2 Td
+(27)Tj
 ET
 Q
 4736.68 7497.9 m
@@ -3123,7 +3623,7 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 573.975 44.1898 Tm
-(Week 4)Tj
+(Semaine 4)Tj
 ET
 Q
 4826.68 3561.04 m
@@ -3170,10 +3670,10 @@ S
 q
 10 0 0 10 0 0 cm BT
 /R8 6.87138 Tf
-0 1 -1 0 73.9121 73.7496 Tm
-(December)Tj
--29.5598 -8.67109 Td
-[(S)-1220.93(M)-1054.93(T)-1276.93(W)-943.926(T)-1276.93(F)-1276.93(S)]TJ
+0 1 -1 0 73.9121 74.3199 Tm
+(décembre)Tj
+-30.1301 -8.67109 Td
+[(d)-1331.93(l)-1665.93(m)-1054.93(m)-1054.93(j)-1665.93(v)-1387.93(s)]TJ
 64.8633 -8.67148 Td
 [(1)-1331.93(2)]TJ
 -64.8633 -8.67148 Td
@@ -3183,10 +3683,10 @@ T*[(10)-775.926(11)-775.926(12)-775.926(13)-775.926(14)-775.925(15)-775.925(16)]
 T*[(17)-775.926(18)-775.926(19)-775.926(20)-775.926(21)-775.925(22)-775.925(23)]TJ
 T*[(24)-775.926(25)-775.926(26)-775.926(27)-775.926(28)-775.925(29)-775.925(30)]TJ
 (31)'
-641.087 -351.328 Td
-(February)Tj
--31.659 -8.67148 Td
-[(S)-1220.93(M)-1054.92(T)-1276.92(W)-943.927(T)-1276.92(F)-1276.92(S)]TJ
+645.289 -351.328 Td
+(février)Tj
+-35.8605 -8.67148 Td
+[(d)-1331.92(l)-1665.93(m)-1054.92(m)-1054.92(j)-1665.93(v)-1387.93(s)]TJ
 51.8906 -8.67148 Td
 [(1)-1331.92(2)-1331.92(3)]TJ
 -51.8906 -8.67109 Td
@@ -3213,7 +3713,7 @@ endobj
 endobj 
 58 0 obj 
 <<
-/Length 5984
+/Length 7691
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -3222,261 +3722,379 @@ q 0.1 0 0 0.1 0 0 cm
 q
 10 0 0 10 0 0 cm BT
 /R8 7.2 Tf
-0 1 -1 0 40.275 370.88 Tm
-(February 2018)Tj
+0 1 -1 0 40.275 375.283 Tm
+(février 2018)Tj
 ET
 Q
 9 w
 0 G
-472.406 7497.9 m
-472.406 387.898 l
+458.406 7497.9 m
+458.406 387.898 l
 S
 q
 10 0 0 10 0 0 cm BT
 /R8 7.2 Tf
-0 1 -1 0 58.0406 77.3684 Tm
-[(Sunday)-10633.1(Monday)-10411.2(Tuesday)-9549.66(Wednesday)-9383.14(Thursday)-10634.2(Friday)-10717.1(Saturday)]TJ
+0 1 -1 0 56.6406 73.9703 Tm
+[(dimanche)-10883.6(lundi)-11801.1(mardi)-10912.7(mercredi)-11106.6(jeudi)-11133.7(vendredi)-10578.1(samedi)]TJ
 ET
 Q
-616.406 7497.9 m
-616.406 387.898 l
+602.406 7497.9 m
+602.406 387.898 l
 S
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
-0 1 -1 0 74.2406 537.244 Tm
+0 1 -1 0 72.8406 537.244 Tm
 [(1)-13551.1(2)]TJ
 /R8 7.2 Tf
 14.8031 -7.2 Td
-(Groundhog Day )Tj
+(Jour de la marmotte )Tj
 /R9 7.2 Tf
 188.339 7.2 Td
 (3)Tj
+/R8 7.2 Tf
+-86.7687 -7.2 Td
+(14:00-00:00+1 Concours )Tj
+9 TL
+(QRP Freeze Your Buns Off )'
+10.8 TL
+(19:00-03:59+2 )'
+9 TL
+(Sweepstakes VHF de )'
+(janvier ARRL )'
 ET
 Q
-1646.48 7497.9 m
-1646.48 387.898 l
+1635.27 7497.9 m
+1635.27 387.898 l
 S
 1 g
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
-0 1 -1 0 177.248 130.958 Tm
-[(4)-13551.2(5)-13551.2(6)-13551.2(7)-13551.1(8)-13551.1(9)-12995.2(10)]TJ
+0 1 -1 0 176.127 130.958 Tm
+[(4)-13551.2(5)-13551.2(6)-13551.2(7)]TJ
+/R8 7.2 Tf
+217.946 -7.2 Td
+(19:30-21:00 Meeting de )Tj
+9 TL
+(OARC exécutif )'
+/R9 7.2 Tf
+188.34 16.2 Td
+[(8)-13551.1(9)-12995.2(10)]TJ
+/R8 7.2 Tf
+116.374 -7.2 Td
+(52e Marathon canadien de )Tj
+(ski commence )'
+10.8 TL
+(00:00-23:59+1 )'
+9 TL
+(*CQ-WPX-RTTY* )'
 ET
 Q
-2676.54 7497.9 m
-2676.54 387.898 l
+2668.14 7497.9 m
+2668.14 387.898 l
 S
 0 g
 q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
-0 1 -1 0 264.954 44.1898 Tm
-(Week 5)Tj
+0 1 -1 0 264.114 44.1898 Tm
+(Semaine 5)Tj
 ET
 Q
-1736.48 3561.04 m
-1716.6 3561.04 1700.48 3544.92 1700.48 3525.04 c
-1700.48 3505.16 1716.6 3489.04 1736.48 3489.04 c
-1756.36 3489.04 1772.48 3505.16 1772.48 3525.04 c
-1772.48 3544.92 1756.36 3561.04 1736.48 3561.04 c
+1725.27 3561.04 m
+1705.39 3561.04 1689.27 3544.92 1689.27 3525.04 c
+1689.27 3505.16 1705.39 3489.04 1725.27 3489.04 c
+1745.15 3489.04 1761.27 3505.16 1761.27 3525.04 c
+1761.27 3544.92 1745.15 3561.04 1725.27 3561.04 c
 h
 S
-1772.48 3525.04 m
-1772.48 3544.92 1756.36 3561.04 1736.48 3561.04 c
-1716.6 3561.04 1700.48 3544.92 1700.48 3525.04 c
+1761.27 3525.04 m
+1761.27 3544.92 1745.15 3561.04 1725.27 3561.04 c
+1705.39 3561.04 1689.27 3544.92 1689.27 3525.04 c
 f
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
-0 1 -1 0 177.248 130.958 Tm
-[(4)-13551.2(5)-13551.2(6)-13551.2(7)-13551.1(8)-13551.1(9)-12995.2(10)]TJ
+0 1 -1 0 176.127 130.958 Tm
+[(4)-13551.2(5)-13551.2(6)-13551.2(7)]TJ
+/R8 7.2 Tf
+217.946 -7.2 Td
+(19:30-21:00 Meeting de )Tj
+9 TL
+(OARC exécutif )'
+/R9 7.2 Tf
+188.34 16.2 Td
+[(8)-13551.1(9)-12995.2(10)]TJ
+/R8 7.2 Tf
+116.374 -7.2 Td
+(52e Marathon canadien de )Tj
+(ski commence )'
+10.8 TL
+(00:00-23:59+1 )'
+9 TL
+(*CQ-WPX-RTTY* )'
 ET
 Q
-2676.54 7497.9 m
-2676.54 387.898 l
+2668.14 7497.9 m
+2668.14 387.898 l
 S
 1 g
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
-0 1 -1 0 280.254 126.955 Tm
+0 1 -1 0 279.414 126.955 Tm
 [(11)-12995.2(12)]TJ
 /R8 7.2 Tf
 18.8062 -7.2 Td
-(Family Day \(CA-BC\) )Tj
+(Fête de la famille \(CA-BC\) )Tj
 10.8 TL
-(Darwin Day )'
+(Jour de Darwin )'
+(13:00-23:59+4 Roundup )'
+9 TL
+(clubs scholaires ARRL )'
 /R9 7.2 Tf
-184.337 18 Td
+184.337 37.8 Td
 (13)Tj
 /R8 7.2 Tf
 -82.7648 -7.2 Td
-(Shrove/Pancake Tuesday )Tj
+(Mardi Gras )Tj
+10.8 TL
+(Journée mondiale de la )'
+9 TL
+(radio )'
 /R9 7.2 Tf
-184.337 7.2 Td
+184.337 27 Td
 (14)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(St. Valentine's Day )Tj
-(Ash Wednesday )'
+(Saint-Valentin )Tj
+10.8 TL
+(Mercredi des Cendres )'
+(19:30-22:00 Meeting de )'
+9 TL
+(OARC )'
 /R9 7.2 Tf
-184.337 18 Td
+184.337 37.8 Td
 (15)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(National Flag of Canada )Tj
-9 TL
-(Day )'
+(Jour du drapeau national du )Tj
+(Canada )'
 /R9 7.2 Tf
 184.337 16.2 Td
 [(16)-12995.1(17)]TJ
+/R8 7.2 Tf
+18.8059 -7.2 Td
+(00:00-23:59 Concours DX )Tj
+(international CW )'
 ET
 Q
-3706.61 7497.9 m
-3706.61 387.898 l
+3701.01 7497.9 m
+3701.01 387.898 l
 S
 0 g
 q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
-0 1 -1 0 367.961 44.1898 Tm
-(Week 6)Tj
+0 1 -1 0 367.401 44.1898 Tm
+(Semaine 6)Tj
 ET
 Q
-2766.54 4576.76 m
-2746.66 4576.76 2730.54 4560.64 2730.54 4540.76 c
-2730.54 4520.88 2746.66 4504.76 2766.54 4504.76 c
-2786.42 4504.76 2802.54 4520.88 2802.54 4540.76 c
-2802.54 4560.64 2786.42 4576.76 2766.54 4576.76 c
+2758.14 4576.76 m
+2738.27 4576.76 2722.14 4560.64 2722.14 4540.76 c
+2722.14 4520.88 2738.27 4504.76 2758.14 4504.76 c
+2778.02 4504.76 2794.14 4520.88 2794.14 4540.76 c
+2794.14 4560.64 2778.02 4576.76 2758.14 4576.76 c
 f
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
-0 1 -1 0 280.254 126.955 Tm
+0 1 -1 0 279.414 126.955 Tm
 [(11)-12995.2(12)]TJ
 /R8 7.2 Tf
 18.8062 -7.2 Td
-(Family Day \(CA-BC\) )Tj
+(Fête de la famille \(CA-BC\) )Tj
 10.8 TL
-(Darwin Day )'
+(Jour de Darwin )'
+(13:00-23:59+4 Roundup )'
+9 TL
+(clubs scholaires ARRL )'
 /R9 7.2 Tf
-184.337 18 Td
+184.337 37.8 Td
 (13)Tj
 /R8 7.2 Tf
 -82.7648 -7.2 Td
-(Shrove/Pancake Tuesday )Tj
+(Mardi Gras )Tj
+10.8 TL
+(Journée mondiale de la )'
+9 TL
+(radio )'
 /R9 7.2 Tf
-184.337 7.2 Td
+184.337 27 Td
 (14)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(St. Valentine's Day )Tj
-(Ash Wednesday )'
+(Saint-Valentin )Tj
+10.8 TL
+(Mercredi des Cendres )'
+(19:30-22:00 Meeting de )'
+9 TL
+(OARC )'
 /R9 7.2 Tf
-184.337 18 Td
+184.337 37.8 Td
 (15)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(National Flag of Canada )Tj
-9 TL
-(Day )'
+(Jour du drapeau national du )Tj
+(Canada )'
 /R9 7.2 Tf
 184.337 16.2 Td
 [(16)-12995.1(17)]TJ
+/R8 7.2 Tf
+18.8059 -7.2 Td
+(00:00-23:59 Concours DX )Tj
+(international CW )'
 ET
 Q
-3706.61 7497.9 m
-3706.61 387.898 l
+3701.01 7497.9 m
+3701.01 387.898 l
 S
 1 g
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
-0 1 -1 0 383.261 126.955 Tm
+0 1 -1 0 382.701 126.955 Tm
 [(18)-12995.2(19)]TJ
 /R8 7.2 Tf
 18.8062 -7.2 Td
-(Family Day \(CA-AB, )Tj
+(Fête de la famille \(CA-AB, )Tj
 9 TL
 (CA-ON, CA-SK\) )'
 10.8 TL
-(Louis Riel Day \(CA-MB\) )'
-(Islander Day \(CA-PE\) )'
-(President's Day \(US\) )'
+(Journée Louis Riel )'
+9 TL
+(\(CA-MB\) )'
+10.8 TL
+(Fête des Insulaires )'
+9 TL
+(\(CA-PE\) )'
+10.8 TL
+(Journée de la Présidence )'
+9 TL
+(\(US\) )'
 /R9 7.2 Tf
-184.337 48.6 Td
-[(20)-12995.2(21)-12995.2(22)-12995.2(23)]TJ
+184.337 75.6 Td
+[(20)-12995.2(21)]TJ
 /R8 7.2 Tf
-221.949 -7.2 Td
-(Heritage Day \(CA-YT\) )Tj
+18.8062 -7.2 Td
+(19:30-21:00 Meeting de )Tj
+(OVMRC )'
 /R9 7.2 Tf
-184.336 7.2 Td
+184.337 16.2 Td
+[(22)-12995.2(23)]TJ
+/R8 7.2 Tf
+18.8062 -7.2 Td
+(Jour de patrimoine \(CA-YT\) )Tj
+10.8 TL
+(22:00-22:00+2 )'
+9 TL
+(*CQ-WW-160-SSB* )'
+/R9 7.2 Tf
+184.336 27 Td
 (24)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(18:00-06:00+1 )Tj
+(*NAQP-RTTY* )'
 ET
 Q
-4736.68 7497.9 m
-4736.68 387.898 l
+4733.88 7497.9 m
+4733.88 387.898 l
 S
 0 g
 q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
-0 1 -1 0 470.968 44.1898 Tm
-(Week 7)Tj
+0 1 -1 0 470.688 44.1898 Tm
+(Semaine 7)Tj
 ET
 Q
-3796.61 5592.47 m
-3776.73 5592.47 3760.61 5576.35 3760.61 5556.47 c
-3760.61 5536.59 3776.73 5520.47 3796.61 5520.47 c
-3816.49 5520.47 3832.61 5536.59 3832.61 5556.47 c
-3832.61 5576.35 3816.49 5592.47 3796.61 5592.47 c
+3791.01 5592.47 m
+3771.13 5592.47 3755.01 5576.35 3755.01 5556.47 c
+3755.01 5536.59 3771.13 5520.47 3791.01 5520.47 c
+3810.89 5520.47 3827.01 5536.59 3827.01 5556.47 c
+3827.01 5576.35 3810.89 5592.47 3791.01 5592.47 c
 h
 S
-3760.61 5556.47 m
-3760.61 5536.59 3776.73 5520.47 3796.61 5520.47 c
-3816.49 5520.47 3832.61 5536.59 3832.61 5556.47 c
+3755.01 5556.47 m
+3755.01 5536.59 3771.13 5520.47 3791.01 5520.47 c
+3810.89 5520.47 3827.01 5536.59 3827.01 5556.47 c
 f
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
-0 1 -1 0 383.261 126.955 Tm
+0 1 -1 0 382.701 126.955 Tm
 [(18)-12995.2(19)]TJ
 /R8 7.2 Tf
 18.8062 -7.2 Td
-(Family Day \(CA-AB, )Tj
+(Fête de la famille \(CA-AB, )Tj
 9 TL
 (CA-ON, CA-SK\) )'
 10.8 TL
-(Louis Riel Day \(CA-MB\) )'
-(Islander Day \(CA-PE\) )'
-(President's Day \(US\) )'
+(Journée Louis Riel )'
+9 TL
+(\(CA-MB\) )'
+10.8 TL
+(Fête des Insulaires )'
+9 TL
+(\(CA-PE\) )'
+10.8 TL
+(Journée de la Présidence )'
+9 TL
+(\(US\) )'
 /R9 7.2 Tf
-184.337 48.6 Td
-[(20)-12995.2(21)-12995.2(22)-12995.2(23)]TJ
+184.337 75.6 Td
+[(20)-12995.2(21)]TJ
 /R8 7.2 Tf
-221.949 -7.2 Td
-(Heritage Day \(CA-YT\) )Tj
+18.8062 -7.2 Td
+(19:30-21:00 Meeting de )Tj
+(OVMRC )'
 /R9 7.2 Tf
-184.336 7.2 Td
+184.337 16.2 Td
+[(22)-12995.2(23)]TJ
+/R8 7.2 Tf
+18.8062 -7.2 Td
+(Jour de patrimoine \(CA-YT\) )Tj
+10.8 TL
+(22:00-22:00+2 )'
+9 TL
+(*CQ-WW-160-SSB* )'
+/R9 7.2 Tf
+184.336 27 Td
 (24)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(18:00-06:00+1 )Tj
+(*NAQP-RTTY* )'
 ET
 Q
-4736.68 7497.9 m
-4736.68 387.898 l
+4733.88 7497.9 m
+4733.88 387.898 l
 S
 1 g
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
-0 1 -1 0 486.268 126.955 Tm
+0 1 -1 0 485.988 126.955 Tm
 [(25)-12995.2(26)-12995.2(27)]TJ
 /R8 7.2 Tf
 120.378 -7.2 Td
-(International Polar Bear Day )Tj
+(Journée internationale des )Tj
+9 TL
+(ours polaires )'
 /R9 7.2 Tf
-184.337 7.2 Td
+184.337 16.2 Td
 (28)Tj
 ET
 Q
@@ -3488,52 +4106,54 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 573.975 44.1898 Tm
-(Week 8)Tj
+(Semaine 8)Tj
 /R9 7.2 Tf
-82.7652 87.707 Td
+82.7652 87.9867 Td
 [(25)-12995.2(26)-12995.2(27)]TJ
 /R8 7.2 Tf
 120.378 -7.2 Td
-(International Polar Bear Day )Tj
+(Journée internationale des )Tj
+9 TL
+(ours polaires )'
 /R9 7.2 Tf
-184.337 7.2 Td
+184.337 16.2 Td
 (28)Tj
 ET
 Q
 5766.75 7497.9 m
 5766.75 387.898 l
 S
-472.406 387.898 m
+458.406 387.898 m
 5766.75 387.898 l
 S
-472.406 1403.61 m
+458.406 1403.61 m
 5766.75 1403.61 l
 S
-472.406 2419.33 m
+458.406 2419.33 m
 5766.75 2419.33 l
 S
-472.406 3435.04 m
+458.406 3435.04 m
 5766.75 3435.04 l
 S
-472.406 4450.76 m
+458.406 4450.76 m
 5766.75 4450.76 l
 S
-472.406 5466.47 m
+458.406 5466.47 m
 5766.75 5466.47 l
 S
-472.406 6482.18 m
+458.406 6482.18 m
 5766.75 6482.18 l
 S
-472.406 7497.9 m
+458.406 7497.9 m
 5766.75 7497.9 l
 S
 q
 10 0 0 10 0 0 cm BT
 /R8 6.87138 Tf
-0 1 -1 0 73.9121 77.3742 Tm
-(January)Tj
--33.1844 -8.67109 Td
-[(S)-1220.93(M)-1054.93(T)-1276.93(W)-943.926(T)-1276.93(F)-1276.93(S)]TJ
+0 1 -1 0 72.5121 79.4766 Tm
+(janvier)Tj
+-35.2867 -8.67109 Td
+[(d)-1331.93(l)-1665.93(m)-1054.93(m)-1054.93(j)-1665.93(v)-1387.93(s)]TJ
 12.9727 -8.67148 Td
 [(1)-1331.93(2)-1331.93(3)-1331.93(4)-1331.93(5)-1331.93(6)]TJ
 -12.9727 -8.67148 Td
@@ -3542,10 +4162,10 @@ q
 T*[(14)-775.926(15)-775.926(16)-775.926(17)-775.926(18)-775.925(19)-775.925(20)]TJ
 T*[(21)-775.926(22)-775.926(23)-775.926(24)-775.926(25)-775.925(26)-775.925(27)]TJ
 T*[(28)-775.926(29)-775.926(30)-775.926(31)]TJ
-645.289 -359.999 Td
-(March)Tj
--35.8605 -8.67148 Td
-[(S)-1220.93(M)-1054.92(T)-1276.92(W)-943.927(T)-1276.92(F)-1276.92(S)]TJ
+647.199 -361.119 Td
+(mars)Tj
+-37.7707 -8.67148 Td
+[(d)-1331.92(l)-1665.93(m)-1054.92(m)-1054.92(j)-1665.93(v)-1387.93(s)]TJ
 51.8906 -8.67148 Td
 [(1)-1331.92(2)-1331.92(3)]TJ
 -51.8906 -8.67109 Td
@@ -3572,7 +4192,7 @@ endobj
 endobj 
 61 0 obj 
 <<
-/Length 6939
+/Length 8019
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -3581,8 +4201,8 @@ q 0.1 0 0 0.1 0 0 cm
 q
 10 0 0 10 0 0 cm BT
 /R8 7.2 Tf
-0 1 -1 0 40.275 375.282 Tm
-(March 2018)Tj
+0 1 -1 0 40.275 377.284 Tm
+(mars 2018)Tj
 ET
 Q
 9 w
@@ -3593,8 +4213,8 @@ S
 q
 10 0 0 10 0 0 cm BT
 /R8 7.2 Tf
-0 1 -1 0 56.6406 77.3684 Tm
-[(Sunday)-10633.1(Monday)-10411.2(Tuesday)-9549.66(Wednesday)-9383.14(Thursday)-10634.2(Friday)-10717.1(Saturday)]TJ
+0 1 -1 0 56.6406 73.9703 Tm
+[(dimanche)-10883.6(lundi)-11801.1(mardi)-10912.7(mercredi)-11106.6(jeudi)-11133.7(vendredi)-10578.1(samedi)]TJ
 ET
 Q
 602.406 7497.9 m
@@ -3608,12 +4228,17 @@ q
 (1)Tj
 /R8 7.2 Tf
 -86.7684 -7.2 Td
-(St. David's Day \(UK\) )Tj
+(Fête de la Saint-David \(UK\) )Tj
 10.8 TL
 (Purim )'
 /R9 7.2 Tf
 188.339 18 Td
 [(2)-13551.1(3)]TJ
+/R8 7.2 Tf
+14.8027 -7.2 Td
+(00:00-23:59+1 Concours )Tj
+9 TL
+(DX international SSB )'
 ET
 Q
 1635.27 7497.9 m
@@ -3634,12 +4259,17 @@ q
 (1)Tj
 /R8 7.2 Tf
 -86.7684 -7.2 Td
-(St. David's Day \(UK\) )Tj
+(Fête de la Saint-David \(UK\) )Tj
 10.8 TL
 (Purim )'
 /R9 7.2 Tf
 188.339 18 Td
 [(2)-13551.1(3)]TJ
+/R8 7.2 Tf
+14.8027 -7.2 Td
+(00:00-23:59+1 Concours )Tj
+9 TL
+(DX international SSB )'
 ET
 Q
 1635.27 7497.9 m
@@ -3650,7 +4280,20 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 176.127 130.958 Tm
-[(4)-13551.2(5)-13551.2(6)-13551.2(7)-13551.1(8)-13551.1(9)-12995.2(10)]TJ
+[(4)-13551.2(5)-13551.2(6)-13551.2(7)]TJ
+/R8 7.2 Tf
+217.946 -7.2 Td
+(19:30-21:00 Meeting de )Tj
+9 TL
+(OARC exécutif )'
+/R9 7.2 Tf
+188.34 16.2 Td
+[(8)-13551.1(9)-12995.2(10)]TJ
+/R8 7.2 Tf
+116.374 -7.2 Td
+(10:00-10:00+1 81e )Tj
+(Concours CW BERU )'
+(Commonwealth RSGB )'
 ET
 Q
 2668.14 7497.9 m
@@ -3661,7 +4304,7 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 264.114 44.1898 Tm
-(Week 9)Tj
+(Semaine 9)Tj
 ET
 Q
 1725.27 5592.47 m
@@ -3679,7 +4322,20 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 176.127 130.958 Tm
-[(4)-13551.2(5)-13551.2(6)-13551.2(7)-13551.1(8)-13551.1(9)-12995.2(10)]TJ
+[(4)-13551.2(5)-13551.2(6)-13551.2(7)]TJ
+/R8 7.2 Tf
+217.946 -7.2 Td
+(19:30-21:00 Meeting de )Tj
+9 TL
+(OARC exécutif )'
+/R9 7.2 Tf
+188.34 16.2 Td
+[(8)-13551.1(9)-12995.2(10)]TJ
+/R8 7.2 Tf
+116.374 -7.2 Td
+(10:00-10:00+1 81e )Tj
+(Concours CW BERU )'
+(Commonwealth RSGB )'
 ET
 Q
 2668.14 7497.9 m
@@ -3693,27 +4349,31 @@ q
 (11)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Daylight Savings Time )Tj
+(Heure d'éte commence )Tj
 9 TL
-(Begins \(except CA-SK\) )'
+(\(sauf CA-SK\) )'
 /R9 7.2 Tf
 184.337 16.2 Td
 (12)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Commonwealth Day )Tj
+(Jour du Commonwealth )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
 [(13)-12995.2(14)]TJ
 /R8 7.2 Tf
 18.8059 -7.2 Td
-(Pi Day \(3.14\) )Tj
+(Jour de pi \(3.14\) )Tj
+10.8 TL
+(19:30-22:00 Meeting de )'
+9 TL
+(OARC )'
 /R9 7.2 Tf
-184.337 7.2 Td
+184.337 27 Td
 [(15)-12995.2(16)-12995.1(17)]TJ
 /R8 7.2 Tf
 120.377 -7.2 Td
-(St. Patrick's Day )Tj
+(Fête de la Saint-Patrick )Tj
 ET
 Q
 3701.01 7497.9 m
@@ -3724,7 +4384,7 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 367.401 44.1898 Tm
-(Week 10)Tj
+(Semaine 10)Tj
 ET
 Q
 2758.14 6608.18 m
@@ -3740,27 +4400,31 @@ q
 (11)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Daylight Savings Time )Tj
+(Heure d'éte commence )Tj
 9 TL
-(Begins \(except CA-SK\) )'
+(\(sauf CA-SK\) )'
 /R9 7.2 Tf
 184.337 16.2 Td
 (12)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Commonwealth Day )Tj
+(Jour du Commonwealth )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
 [(13)-12995.2(14)]TJ
 /R8 7.2 Tf
 18.8059 -7.2 Td
-(Pi Day \(3.14\) )Tj
+(Jour de pi \(3.14\) )Tj
+10.8 TL
+(19:30-22:00 Meeting de )'
+9 TL
+(OARC )'
 /R9 7.2 Tf
-184.337 7.2 Td
+184.337 27 Td
 [(15)-12995.2(16)-12995.1(17)]TJ
 /R8 7.2 Tf
 120.377 -7.2 Td
-(St. Patrick's Day )Tj
+(Fête de la Saint-Patrick )Tj
 ET
 Q
 3701.01 7497.9 m
@@ -3774,13 +4438,19 @@ q
 [(18)-12995.2(19)]TJ
 /R8 7.2 Tf
 18.8062 -7.2 Td
-(St. Patrick's Day \(NL\) )Tj
+(Fête de la Saint-Patrick )Tj
+9 TL
+(\(NL\) )'
+10.8 TL
+(19:00-21:00 Meeting de )'
+9 TL
+(WCARC )'
 /R9 7.2 Tf
-184.337 7.2 Td
+184.337 36 Td
 (20)Tj
 /R8 7.2 Tf
 -82.7648 -7.2 Td
-(First Day of Spring )Tj
+(Premier jour de printemps )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
 (21)Tj
@@ -3789,9 +4459,16 @@ q
 (Nowruz )Tj
 10.8 TL
 (Pahela Baishakh \(BD\) )'
+(19:30-21:00 Meeting de )'
+9 TL
+(OVMRC )'
 /R9 7.2 Tf
-184.337 18 Td
+184.337 37.8 Td
 [(22)-12995.2(23)-12995.1(24)]TJ
+/R8 7.2 Tf
+120.377 -7.2 Td
+(00:00-23:59+1 )Tj
+(*CQ-WW-WPX-SSB* )'
 ET
 Q
 4733.88 7497.9 m
@@ -3802,7 +4479,7 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 470.688 44.1898 Tm
-(Week 11)Tj
+(Semaine 11)Tj
 ET
 Q
 3791.01 6608.18 m
@@ -3823,13 +4500,19 @@ q
 [(18)-12995.2(19)]TJ
 /R8 7.2 Tf
 18.8062 -7.2 Td
-(St. Patrick's Day \(NL\) )Tj
+(Fête de la Saint-Patrick )Tj
+9 TL
+(\(NL\) )'
+10.8 TL
+(19:00-21:00 Meeting de )'
+9 TL
+(WCARC )'
 /R9 7.2 Tf
-184.337 7.2 Td
+184.337 36 Td
 (20)Tj
 /R8 7.2 Tf
 -82.7648 -7.2 Td
-(First Day of Spring )Tj
+(Premier jour de printemps )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
 (21)Tj
@@ -3838,9 +4521,16 @@ q
 (Nowruz )Tj
 10.8 TL
 (Pahela Baishakh \(BD\) )'
+(19:30-21:00 Meeting de )'
+9 TL
+(OVMRC )'
 /R9 7.2 Tf
-184.337 18 Td
+184.337 37.8 Td
 [(22)-12995.2(23)-12995.1(24)]TJ
+/R8 7.2 Tf
+120.377 -7.2 Td
+(00:00-23:59+1 )Tj
+(*CQ-WW-WPX-SSB* )'
 ET
 Q
 4733.88 7497.9 m
@@ -3854,27 +4544,27 @@ q
 (25)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Annunciation )Tj
+(Annonciation )Tj
 10.8 TL
-(Palm Sunday )'
+(Dimanche des Rameaux )'
 /R9 7.2 Tf
 184.337 18 Td
 [(26)-12995.2(27)-12995.2(28)-12995.2(29)]TJ
 /R8 7.2 Tf
 221.949 -7.2 Td
-(Maundy Thursday )Tj
+(Jeudi saint )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
 (30)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Good Friday )Tj
+(Vendredi saint )Tj
 /R9 7.2 Tf
 184.336 7.2 Td
 (31)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Passover Begins )Tj
+(Début de Pâque des Juifs )Tj
 ET
 Q
 5766.75 7497.9 m
@@ -3885,7 +4575,7 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 573.975 44.1898 Tm
-(Week 12)Tj
+(Semaine 12)Tj
 ET
 Q
 4823.88 6608.18 m
@@ -3902,27 +4592,27 @@ q
 (25)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Annunciation )Tj
+(Annonciation )Tj
 10.8 TL
-(Palm Sunday )'
+(Dimanche des Rameaux )'
 /R9 7.2 Tf
 184.337 18 Td
 [(26)-12995.2(27)-12995.2(28)-12995.2(29)]TJ
 /R8 7.2 Tf
 221.949 -7.2 Td
-(Maundy Thursday )Tj
+(Jeudi saint )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
 (30)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Good Friday )Tj
+(Vendredi saint )Tj
 /R9 7.2 Tf
 184.336 7.2 Td
 (31)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Passover Begins )Tj
+(Début de Pâque des Juifs )Tj
 ET
 Q
 5766.75 7497.9 m
@@ -3955,10 +4645,10 @@ S
 q
 10 0 0 10 0 0 cm BT
 /R8 6.87138 Tf
-0 1 -1 0 72.5121 75.8488 Tm
-(February)Tj
--31.659 -8.67109 Td
-[(S)-1220.93(M)-1054.93(T)-1276.93(W)-943.926(T)-1276.93(F)-1276.93(S)]TJ
+0 1 -1 0 72.5121 80.0504 Tm
+(février)Tj
+-35.8605 -8.67109 Td
+[(d)-1331.93(l)-1665.93(m)-1054.93(m)-1054.93(j)-1665.93(v)-1387.93(s)]TJ
 51.8906 -8.67148 Td
 [(1)-1331.93(2)-1331.93(3)]TJ
 -51.8906 -8.67148 Td
@@ -3967,10 +4657,10 @@ q
 T*[(11)-775.926(12)-775.926(13)-775.926(14)-775.926(15)-775.925(16)-775.925(17)]TJ
 T*[(18)-775.926(19)-775.926(20)-775.926(21)-775.926(22)-775.925(23)-775.925(24)]TJ
 T*[(25)-775.926(26)-775.926(27)-775.926(28)]TJ
-140.105 52.0281 Td
-(April)Tj
--38.5332 -8.67109 Td
-[(S)-1220.93(M)-1054.93(T)-1276.93(W)-943.926(T)-1276.93(F)-1276.93(S)]TJ
+140.679 52.0281 Td
+(avril)Tj
+-39.1066 -8.67109 Td
+[(d)-1331.93(l)-1665.93(m)-1054.93(m)-1054.93(j)-1665.93(v)-1387.93(s)]TJ
 T*[(1)-1331.93(2)-1331.93(3)-1331.93(4)-1331.93(5)-1331.93(6)-1331.93(7)]TJ
 T*[(8)-1331.93(9)-1331.93(10)-775.925(11)-775.925(12)-775.927(13)-775.927(14)]TJ
 T*[(15)-775.925(16)-775.925(17)-775.925(18)-775.925(19)-775.927(20)-775.927(21)]TJ
@@ -3995,7 +4685,7 @@ endobj
 endobj 
 64 0 obj 
 <<
-/Length 6579
+/Length 8044
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -4004,298 +4694,402 @@ q 0.1 0 0 0.1 0 0 cm
 q
 10 0 0 10 0 0 cm BT
 /R8 7.2 Tf
-0 1 -1 0 40.275 378.084 Tm
-(April 2018)Tj
+0 1 -1 0 40.275 378.685 Tm
+(avril 2018)Tj
 ET
 Q
 9 w
 0 G
-472.406 7497.9 m
-472.406 387.898 l
+458.406 7497.9 m
+458.406 387.898 l
 S
 q
 10 0 0 10 0 0 cm BT
 /R8 7.2 Tf
-0 1 -1 0 58.0406 77.3684 Tm
-[(Sunday)-10633.1(Monday)-10411.2(Tuesday)-9549.66(Wednesday)-9383.14(Thursday)-10634.2(Friday)-10717.1(Saturday)]TJ
+0 1 -1 0 56.6406 73.9703 Tm
+[(dimanche)-10883.6(lundi)-11801.1(mardi)-10912.7(mercredi)-11106.6(jeudi)-11133.7(vendredi)-10578.1(samedi)]TJ
 ET
 Q
-616.406 7497.9 m
-616.406 387.898 l
+602.406 7497.9 m
+602.406 387.898 l
 S
 1 g
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
-0 1 -1 0 74.2406 130.958 Tm
+0 1 -1 0 72.8406 130.958 Tm
 (1)Tj
 /R8 7.2 Tf
 -86.7684 -7.2 Td
-(April Fool's Day )Tj
+(Poisson d'avril )Tj
 10.8 TL
-(Easter Sunday )'
+(Le dimanche de Pâques )'
 /R9 7.2 Tf
 188.34 18 Td
 (2)Tj
 /R8 7.2 Tf
 -86.7684 -7.2 Td
-(Easter Monday )Tj
+(Le lundi de Pâques )Tj
 /R9 7.2 Tf
 188.34 7.2 Td
-[(3)-13551.2(4)-13551.1(5)-13551.1(6)]TJ
+[(3)-13551.2(4)]TJ
 /R8 7.2 Tf
-217.946 -7.2 Td
-(Tartan Day )Tj
+14.8031 -7.2 Td
+(19:30-21:00 Meeting de )Tj
+9 TL
+(OARC exécutif )'
+/R9 7.2 Tf
+188.34 16.2 Td
+[(5)-13551.1(6)]TJ
+/R8 7.2 Tf
+14.8031 -7.2 Td
+(Jour du tartan )Tj
 /R9 7.2 Tf
 188.339 7.2 Td
 (7)Tj
 /R8 7.2 Tf
 -86.7684 -7.2 Td
-(Passover Ends )Tj
+(Fin de Pâque des Juifs )Tj
 ET
 Q
-1646.48 7497.9 m
-1646.48 387.898 l
+1635.27 7497.9 m
+1635.27 387.898 l
 S
 0 g
 q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
-0 1 -1 0 161.948 44.1898 Tm
-(Week 13)Tj
+0 1 -1 0 160.827 44.1898 Tm
+(Semaine 13)Tj
 /R9 7.2 Tf
-86.7684 87.707 Td
+86.7684 87.9867 Td
 (1)Tj
 /R8 7.2 Tf
 -86.7684 -7.2 Td
-(April Fool's Day )Tj
+(Poisson d'avril )Tj
 10.8 TL
-(Easter Sunday )'
+(Le dimanche de Pâques )'
 /R9 7.2 Tf
 188.34 18 Td
 (2)Tj
 /R8 7.2 Tf
 -86.7684 -7.2 Td
-(Easter Monday )Tj
+(Le lundi de Pâques )Tj
 /R9 7.2 Tf
 188.34 7.2 Td
-[(3)-13551.2(4)-13551.1(5)-13551.1(6)]TJ
+[(3)-13551.2(4)]TJ
 /R8 7.2 Tf
-217.946 -7.2 Td
-(Tartan Day )Tj
+14.8027 -7.2 Td
+(19:30-21:00 Meeting de )Tj
+9 TL
+(OARC exécutif )'
+/R9 7.2 Tf
+188.34 16.2 Td
+[(5)-13551.1(6)]TJ
+/R8 7.2 Tf
+14.8031 -7.2 Td
+(Jour du tartan )Tj
 /R9 7.2 Tf
 188.339 7.2 Td
 (7)Tj
 /R8 7.2 Tf
--86.7684 -7.2 Td
-(Passover Ends )Tj
+-86.7687 -7.2 Td
+(Fin de Pâque des Juifs )Tj
 ET
 Q
-1646.48 7497.9 m
-1646.48 387.898 l
+1635.27 7497.9 m
+1635.27 387.898 l
 S
 1 g
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
-0 1 -1 0 177.248 130.958 Tm
+0 1 -1 0 176.127 130.958 Tm
 [(8)-13551.2(9)]TJ
 /R8 7.2 Tf
 14.8031 -7.2 Td
-(Vimy Ridge Day )Tj
+(Jour de la crête de Vimy )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
 [(10)-12995.2(11)]TJ
 /R8 7.2 Tf
 18.8062 -7.2 Td
-(International Day of Pink )Tj
+(Journée internationale de la )Tj
+9 TL
+(rose )'
+10.8 TL
+(19:30-22:00 Meeting de )'
+9 TL
+(OARC )'
 /R9 7.2 Tf
-184.337 7.2 Td
+184.337 36 Td
 [(12)-12995.2(13)]TJ
 /R8 7.2 Tf
 18.8062 -7.2 Td
-(Friday the 13th )Tj
+(Le vendredi treize )Tj
 /R9 7.2 Tf
 184.336 7.2 Td
 (14)Tj
 ET
 Q
-2676.54 7497.9 m
-2676.54 387.898 l
+2668.14 7497.9 m
+2668.14 387.898 l
 S
 0 g
 q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
-0 1 -1 0 264.954 44.1898 Tm
-(Week 14)Tj
+0 1 -1 0 264.114 44.1898 Tm
+(Semaine 14)Tj
 ET
 Q
-1736.48 513.898 m
-1716.6 513.898 1700.48 497.777 1700.48 477.898 c
-1700.48 458.02 1716.6 441.898 1736.48 441.898 c
-1756.36 441.898 1772.48 458.02 1772.48 477.898 c
-1772.48 497.777 1756.36 513.898 1736.48 513.898 c
+1725.27 513.898 m
+1705.39 513.898 1689.27 497.777 1689.27 477.898 c
+1689.27 458.02 1705.39 441.898 1725.27 441.898 c
+1745.15 441.898 1761.27 458.02 1761.27 477.898 c
+1761.27 497.777 1745.15 513.898 1725.27 513.898 c
 h
 S
-1772.48 477.898 m
-1772.48 497.777 1756.36 513.898 1736.48 513.898 c
-1716.6 513.898 1700.48 497.777 1700.48 477.898 c
+1761.27 477.898 m
+1761.27 497.777 1745.15 513.898 1725.27 513.898 c
+1705.39 513.898 1689.27 497.777 1689.27 477.898 c
 f
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
-0 1 -1 0 177.248 130.958 Tm
+0 1 -1 0 176.127 130.958 Tm
 [(8)-13551.2(9)]TJ
 /R8 7.2 Tf
 14.8031 -7.2 Td
-(Vimy Ridge Day )Tj
+(Jour de la crête de Vimy )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
 [(10)-12995.2(11)]TJ
 /R8 7.2 Tf
 18.8062 -7.2 Td
-(International Day of Pink )Tj
+(Journée internationale de la )Tj
+9 TL
+(rose )'
+10.8 TL
+(19:30-22:00 Meeting de )'
+9 TL
+(OARC )'
 /R9 7.2 Tf
-184.337 7.2 Td
+184.337 36 Td
 [(12)-12995.2(13)]TJ
 /R8 7.2 Tf
 18.8062 -7.2 Td
-(Friday the 13th )Tj
+(Le vendredi treize )Tj
 /R9 7.2 Tf
 184.336 7.2 Td
 (14)Tj
 ET
 Q
-2676.54 7497.9 m
-2676.54 387.898 l
+2668.14 7497.9 m
+2668.14 387.898 l
 S
 1 g
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
-0 1 -1 0 280.254 126.955 Tm
-[(15)-12995.2(16)-12995.2(17)-12995.2(18)-12995.2(19)-12995.2(20)-12995.1(21)]TJ
+0 1 -1 0 279.414 126.955 Tm
+(15)Tj
 /R8 7.2 Tf
-526.663 -7.2 Td
-(Queen's Birthday \(UK\) )Tj
+-82.7652 -7.2 Td
+(18:00-23:59 Rookie )Tj
+9 TL
+(Roundup SSB ARRL )'
+/R9 7.2 Tf
+184.337 16.2 Td
+(16)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(19:00-21:00 Meeting de )Tj
+(WCARC )'
+/R9 7.2 Tf
+184.337 16.2 Td
+[(17)-12995.2(18)]TJ
+/R8 7.2 Tf
+18.8059 -7.2 Td
+(Journée de la radio amateur )Tj
+10.8 TL
+(19:30-21:00 Meeting de )'
+9 TL
+(OVMRC )'
+/R9 7.2 Tf
+184.337 27 Td
+[(19)-12995.2(20)-12995.1(21)]TJ
+/R8 7.2 Tf
+120.377 -7.2 Td
+(Anniversaire de la reine )Tj
+(\(UK\) )'
+10.8 TL
+(18:00-05:00+1 21e )'
+9 TL
+(Concours Ontario QSO )'
+(Party 1e partie )'
 ET
 Q
-3706.61 7497.9 m
-3706.61 387.898 l
+3701.01 7497.9 m
+3701.01 387.898 l
 S
 0 g
 q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
-0 1 -1 0 367.961 44.1898 Tm
-(Week 15)Tj
+0 1 -1 0 367.401 44.1898 Tm
+(Semaine 15)Tj
 ET
 Q
-2766.54 513.898 m
-2746.66 513.898 2730.54 497.777 2730.54 477.898 c
-2730.54 458.02 2746.66 441.898 2766.54 441.898 c
-2786.42 441.898 2802.54 458.02 2802.54 477.898 c
-2802.54 497.777 2786.42 513.898 2766.54 513.898 c
+2758.14 513.898 m
+2738.27 513.898 2722.14 497.777 2722.14 477.898 c
+2722.14 458.02 2738.27 441.898 2758.14 441.898 c
+2778.02 441.898 2794.14 458.02 2794.14 477.898 c
+2794.14 497.777 2778.02 513.898 2758.14 513.898 c
 f
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
-0 1 -1 0 280.254 126.955 Tm
-[(15)-12995.2(16)-12995.2(17)-12995.2(18)-12995.2(19)-12995.2(20)-12995.1(21)]TJ
+0 1 -1 0 279.414 126.955 Tm
+(15)Tj
 /R8 7.2 Tf
-526.663 -7.2 Td
-(Queen's Birthday \(UK\) )Tj
+-82.7652 -7.2 Td
+(18:00-23:59 Rookie )Tj
+9 TL
+(Roundup SSB ARRL )'
+/R9 7.2 Tf
+184.337 16.2 Td
+(16)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(19:00-21:00 Meeting de )Tj
+(WCARC )'
+/R9 7.2 Tf
+184.337 16.2 Td
+[(17)-12995.2(18)]TJ
+/R8 7.2 Tf
+18.8059 -7.2 Td
+(Journée de la radio amateur )Tj
+10.8 TL
+(19:30-21:00 Meeting de )'
+9 TL
+(OVMRC )'
+/R9 7.2 Tf
+184.337 27 Td
+[(19)-12995.2(20)-12995.1(21)]TJ
+/R8 7.2 Tf
+120.377 -7.2 Td
+(Anniversaire de la reine )Tj
+(\(UK\) )'
+10.8 TL
+(18:00-05:00+1 21e )'
+9 TL
+(Concours Ontario QSO )'
+(Party 1e partie )'
 ET
 Q
-3706.61 7497.9 m
-3706.61 387.898 l
+3701.01 7497.9 m
+3701.01 387.898 l
 S
 1 g
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
-0 1 -1 0 383.261 126.955 Tm
+0 1 -1 0 382.701 126.955 Tm
 (22)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Earth Day )Tj
+(Jour de la Terre )Tj
+10.8 TL
+(12:00-18:00 21e Concours )'
+9 TL
+(Ontario QSO Party 2e partie )'
 /R9 7.2 Tf
-184.337 7.2 Td
+184.337 27 Td
 (23)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(St. George's Day \(NL\) )Tj
+(Fête de la Saint-Georges )Tj
+(\(NL\) )'
 10.8 TL
-(St. George's Day \(UK\) )'
+(Fête de la Saint-Georges )'
+9 TL
+(\(UK\) )'
 /R9 7.2 Tf
-184.337 18 Td
+184.337 36 Td
 [(24)-12995.2(25)]TJ
 /R8 7.2 Tf
 18.8059 -7.2 Td
-(Anzac Day \(AU, NZ\) )Tj
+(Jour d'Anzac \(AU, NZ\) )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
 [(26)-12995.2(27)-12995.1(28)]TJ
 ET
 Q
-4736.68 7497.9 m
-4736.68 387.898 l
+4733.88 7497.9 m
+4733.88 387.898 l
 S
 0 g
 q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
-0 1 -1 0 470.968 44.1898 Tm
-(Week 16)Tj
+0 1 -1 0 470.688 44.1898 Tm
+(Semaine 16)Tj
 ET
 Q
-3796.61 513.898 m
-3776.73 513.898 3760.61 497.777 3760.61 477.898 c
-3760.61 458.02 3776.73 441.898 3796.61 441.898 c
-3816.49 441.898 3832.61 458.02 3832.61 477.898 c
-3832.61 497.777 3816.49 513.898 3796.61 513.898 c
+3791.01 513.898 m
+3771.13 513.898 3755.01 497.777 3755.01 477.898 c
+3755.01 458.02 3771.13 441.898 3791.01 441.898 c
+3810.89 441.898 3827.01 458.02 3827.01 477.898 c
+3827.01 497.777 3810.89 513.898 3791.01 513.898 c
 h
 S
-3760.61 477.898 m
-3760.61 458.02 3776.73 441.898 3796.61 441.898 c
-3816.49 441.898 3832.61 458.02 3832.61 477.898 c
+3755.01 477.898 m
+3755.01 458.02 3771.13 441.898 3791.01 441.898 c
+3810.89 441.898 3827.01 458.02 3827.01 477.898 c
 f
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
-0 1 -1 0 383.261 126.955 Tm
+0 1 -1 0 382.701 126.955 Tm
 (22)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Earth Day )Tj
+(Jour de la Terre )Tj
+10.8 TL
+(12:00-18:00 21e Concours )'
+9 TL
+(Ontario QSO Party 2e partie )'
 /R9 7.2 Tf
-184.337 7.2 Td
+184.337 27 Td
 (23)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(St. George's Day \(NL\) )Tj
+(Fête de la Saint-Georges )Tj
+(\(NL\) )'
 10.8 TL
-(St. George's Day \(UK\) )'
+(Fête de la Saint-Georges )'
+9 TL
+(\(UK\) )'
 /R9 7.2 Tf
-184.337 18 Td
+184.337 36 Td
 [(24)-12995.2(25)]TJ
 /R8 7.2 Tf
 18.8059 -7.2 Td
-(Anzac Day \(AU, NZ\) )Tj
+(Jour d'Anzac \(AU, NZ\) )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
 [(26)-12995.2(27)-12995.1(28)]TJ
 ET
 Q
-4736.68 7497.9 m
-4736.68 387.898 l
+4733.88 7497.9 m
+4733.88 387.898 l
 S
 1 g
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
-0 1 -1 0 486.268 126.955 Tm
+0 1 -1 0 485.988 126.955 Tm
 [(29)-12995.2(30)]TJ
 ET
 Q
@@ -4307,57 +5101,57 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 573.975 44.1898 Tm
-(Week 17)Tj
+(Semaine 17)Tj
 ET
 Q
-4826.68 513.898 m
-4806.8 513.898 4790.68 497.777 4790.68 477.898 c
-4790.68 458.02 4806.8 441.898 4826.68 441.898 c
-4846.56 441.898 4862.68 458.02 4862.68 477.898 c
-4862.68 497.777 4846.56 513.898 4826.68 513.898 c
+4823.88 513.898 m
+4804 513.898 4787.88 497.777 4787.88 477.898 c
+4787.88 458.02 4804 441.898 4823.88 441.898 c
+4843.76 441.898 4859.88 458.02 4859.88 477.898 c
+4859.88 497.777 4843.76 513.898 4823.88 513.898 c
 h
 S
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
-0 1 -1 0 486.268 126.955 Tm
+0 1 -1 0 485.988 126.955 Tm
 [(29)-12995.2(30)]TJ
 ET
 Q
 5766.75 7497.9 m
 5766.75 387.898 l
 S
-472.406 387.898 m
+458.406 387.898 m
 5766.75 387.898 l
 S
-472.406 1403.61 m
+458.406 1403.61 m
 5766.75 1403.61 l
 S
-472.406 2419.33 m
+458.406 2419.33 m
 5766.75 2419.33 l
 S
-472.406 3435.04 m
+458.406 3435.04 m
 5766.75 3435.04 l
 S
-472.406 4450.76 m
+458.406 4450.76 m
 5766.75 4450.76 l
 S
-472.406 5466.47 m
+458.406 5466.47 m
 5766.75 5466.47 l
 S
-472.406 6482.18 m
+458.406 6482.18 m
 5766.75 6482.18 l
 S
-472.406 7497.9 m
+458.406 7497.9 m
 5766.75 7497.9 l
 S
 q
 10 0 0 10 0 0 cm BT
 /R8 6.87138 Tf
-0 1 -1 0 485.939 587.907 Tm
-(March)Tj
--35.8602 -8.67148 Td
-[(S)-1220.93(M)-1054.92(T)-1276.92(W)-943.927(T)-1276.92(F)-1276.92(S)]TJ
+0 1 -1 0 485.659 589.818 Tm
+(mars)Tj
+-37.7703 -8.67148 Td
+[(d)-1331.92(l)-1665.93(m)-1054.92(m)-1054.92(j)-1665.93(v)-1387.93(s)]TJ
 51.8906 -8.67148 Td
 [(1)-1331.92(2)-1331.92(3)]TJ
 -51.8906 -8.67109 Td
@@ -4366,10 +5160,10 @@ q
 T*[(11)-775.927(12)-775.927(13)-775.927(14)-775.927(15)-775.927(16)-775.927(17)]TJ
 T*[(18)-775.927(19)-775.927(20)-775.927(21)-775.927(22)-775.927(23)-775.927(24)]TJ
 T*[(25)-775.927(26)-775.927(27)-775.927(28)-775.927(29)-775.927(30)-775.927(31)]TJ
-140.486 52.0285 Td
-(May)Tj
--38.9145 -8.67148 Td
-[(S)-1220.93(M)-1054.92(T)-1276.92(W)-943.927(T)-1276.92(F)-1276.92(S)]TJ
+141.441 52.0285 Td
+(mai)Tj
+-39.8695 -8.67148 Td
+[(d)-1331.92(l)-1665.93(m)-1054.92(m)-1054.92(j)-1665.93(v)-1387.93(s)]TJ
 25.9453 -8.67148 Td
 [(1)-1331.92(2)-1331.92(3)-1331.92(4)-1331.92(5)]TJ
 -25.9453 -8.67109 Td
@@ -4396,7 +5190,7 @@ endobj
 endobj 
 67 0 obj 
 <<
-/Length 5878
+/Length 7426
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -4405,355 +5199,8 @@ q 0.1 0 0 0.1 0 0 cm
 q
 10 0 0 10 0 0 cm BT
 /R8 7.2 Tf
-0 1 -1 0 40.275 378.483 Tm
-(May 2018)Tj
-ET
-Q
-9 w
-0 G
-472.406 7497.9 m
-472.406 387.898 l
-S
-q
-10 0 0 10 0 0 cm BT
-/R8 7.2 Tf
-0 1 -1 0 58.0406 77.3684 Tm
-[(Sunday)-10633.1(Monday)-10411.2(Tuesday)-9549.66(Wednesday)-9383.14(Thursday)-10634.2(Friday)-10717.1(Saturday)]TJ
-ET
-Q
-616.406 7497.9 m
-616.406 387.898 l
-S
-q
-10 0 0 10 0 0 cm BT
-/R9 7.2 Tf
-0 1 -1 0 74.2406 334.101 Tm
-[(1)-13551.2(2)-13551.1(3)-13551.1(4)]TJ
-/R8 7.2 Tf
-217.946 -7.2 Td
-(International Anti-Bullying )Tj
-9 TL
-(Day )'
-/R9 7.2 Tf
-188.339 16.2 Td
-(5)Tj
-/R8 7.2 Tf
--86.7684 -7.2 Td
-(Cinco de Mayo \(US\) )Tj
-ET
-Q
-1646.48 7497.9 m
-1646.48 387.898 l
-S
-1 g
-q
-10 0 0 10 0 0 cm BT
-/R9 7.2 Tf
-0 1 -1 0 177.248 130.958 Tm
-[(6)-13551.2(7)-13551.2(8)-13551.2(9)-12995.2(10)]TJ
-/R8 7.2 Tf
-319.518 -7.2 Td
-(Ascension )Tj
-/R9 7.2 Tf
-184.337 7.2 Td
-[(11)-12995.1(12)]TJ
-ET
-Q
-2676.54 7497.9 m
-2676.54 387.898 l
-S
-0 g
-q
-10 0 0 10 0 0 cm BT
-/R8 6 Tf
-0 1 -1 0 264.954 44.1898 Tm
-(Week 18)Tj
-ET
-Q
-1736.48 1529.61 m
-1716.6 1529.61 1700.48 1513.49 1700.48 1493.61 c
-1700.48 1473.73 1716.6 1457.61 1736.48 1457.61 c
-1756.36 1457.61 1772.48 1473.73 1772.48 1493.61 c
-1772.48 1513.49 1756.36 1529.61 1736.48 1529.61 c
-h
-S
-1772.48 1493.61 m
-1772.48 1513.49 1756.36 1529.61 1736.48 1529.61 c
-1716.6 1529.61 1700.48 1513.49 1700.48 1493.61 c
-f
-q
-10 0 0 10 0 0 cm BT
-/R9 7.2 Tf
-0 1 -1 0 177.248 130.958 Tm
-[(6)-13551.2(7)-13551.2(8)-13551.2(9)-12995.2(10)]TJ
-/R8 7.2 Tf
-319.518 -7.2 Td
-(Ascension )Tj
-/R9 7.2 Tf
-184.337 7.2 Td
-[(11)-12995.1(12)]TJ
-ET
-Q
-2676.54 7497.9 m
-2676.54 387.898 l
-S
-1 g
-q
-10 0 0 10 0 0 cm BT
-/R9 7.2 Tf
-0 1 -1 0 280.254 126.955 Tm
-(13)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
-(Mother's Day )Tj
-/R9 7.2 Tf
-184.337 7.2 Td
-[(14)-12995.2(15)-12995.2(16)-12995.2(17)-12995.2(18)-12995.1(19)]TJ
-/R8 7.2 Tf
-425.092 -7.2 Td
-(Armed Forces Day \(US\) )Tj
-ET
-Q
-3706.61 7497.9 m
-3706.61 387.898 l
-S
-0 g
-q
-10 0 0 10 0 0 cm BT
-/R8 6 Tf
-0 1 -1 0 367.961 44.1898 Tm
-(Week 19)Tj
-ET
-Q
-2766.54 2545.33 m
-2746.66 2545.33 2730.54 2529.21 2730.54 2509.33 c
-2730.54 2489.45 2746.66 2473.33 2766.54 2473.33 c
-2786.42 2473.33 2802.54 2489.45 2802.54 2509.33 c
-2802.54 2529.21 2786.42 2545.33 2766.54 2545.33 c
-f
-q
-10 0 0 10 0 0 cm BT
-/R9 7.2 Tf
-0 1 -1 0 280.254 126.955 Tm
-(13)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
-(Mother's Day )Tj
-/R9 7.2 Tf
-184.337 7.2 Td
-[(14)-12995.2(15)-12995.2(16)-12995.2(17)-12995.2(18)-12995.1(19)]TJ
-/R8 7.2 Tf
-425.092 -7.2 Td
-(Armed Forces Day \(US\) )Tj
-ET
-Q
-3706.61 7497.9 m
-3706.61 387.898 l
-S
-1 g
-q
-10 0 0 10 0 0 cm BT
-/R9 7.2 Tf
-0 1 -1 0 383.261 126.955 Tm
-(20)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
-(Pentecost )Tj
-10.8 TL
-(Shauvot Begins )'
-/R9 7.2 Tf
-184.337 18 Td
-(21)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
-(Victoria Day )Tj
-(National Patriots' Day )'
-9 TL
-(\(CA-QC\) )'
-10.8 TL
-(Shauvot Ends )'
-/R9 7.2 Tf
-184.337 37.8 Td
-[(22)-12995.2(23)-12995.2(24)-12995.2(25)-12995.1(26)]TJ
-ET
-Q
-4736.68 7497.9 m
-4736.68 387.898 l
-S
-0 g
-q
-10 0 0 10 0 0 cm BT
-/R8 6 Tf
-0 1 -1 0 470.968 44.1898 Tm
-(Week 20)Tj
-ET
-Q
-3796.61 1529.61 m
-3776.73 1529.61 3760.61 1513.49 3760.61 1493.61 c
-3760.61 1473.73 3776.73 1457.61 3796.61 1457.61 c
-3816.49 1457.61 3832.61 1473.73 3832.61 1493.61 c
-3832.61 1513.49 3816.49 1529.61 3796.61 1529.61 c
-h
-S
-3760.61 1493.61 m
-3760.61 1473.73 3776.73 1457.61 3796.61 1457.61 c
-3816.49 1457.61 3832.61 1473.73 3832.61 1493.61 c
-f
-q
-10 0 0 10 0 0 cm BT
-/R9 7.2 Tf
-0 1 -1 0 383.261 126.955 Tm
-(20)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
-(Pentecost )Tj
-10.8 TL
-(Shauvot Begins )'
-/R9 7.2 Tf
-184.337 18 Td
-(21)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
-(Victoria Day )Tj
-(National Patriots' Day )'
-9 TL
-(\(CA-QC\) )'
-10.8 TL
-(Shauvot Ends )'
-/R9 7.2 Tf
-184.337 37.8 Td
-[(22)-12995.2(23)-12995.2(24)-12995.2(25)-12995.1(26)]TJ
-ET
-Q
-4736.68 7497.9 m
-4736.68 387.898 l
-S
-1 g
-q
-10 0 0 10 0 0 cm BT
-/R9 7.2 Tf
-0 1 -1 0 486.268 126.955 Tm
-[(27)-12995.2(28)]TJ
-/R8 7.2 Tf
-18.8062 -7.2 Td
-(Memorial Day \(US\) )Tj
-/R9 7.2 Tf
-184.337 7.2 Td
-[(29)-12995.2(30)-12995.2(31)]TJ
-ET
-Q
-5766.75 7497.9 m
-5766.75 387.898 l
-S
-0 g
-q
-10 0 0 10 0 0 cm BT
-/R8 6 Tf
-0 1 -1 0 573.975 44.1898 Tm
-(Week 21)Tj
-ET
-Q
-4826.68 2545.33 m
-4806.8 2545.33 4790.68 2529.21 4790.68 2509.33 c
-4790.68 2489.45 4806.8 2473.33 4826.68 2473.33 c
-4846.56 2473.33 4862.68 2489.45 4862.68 2509.33 c
-4862.68 2529.21 4846.56 2545.33 4826.68 2545.33 c
-h
-S
-q
-10 0 0 10 0 0 cm BT
-/R9 7.2 Tf
-0 1 -1 0 486.268 126.955 Tm
-[(27)-12995.2(28)]TJ
-/R8 7.2 Tf
-18.8062 -7.2 Td
-(Memorial Day \(US\) )Tj
-/R9 7.2 Tf
-184.337 7.2 Td
-[(29)-12995.2(30)-12995.2(31)]TJ
-ET
-Q
-5766.75 7497.9 m
-5766.75 387.898 l
-S
-472.406 387.898 m
-5766.75 387.898 l
-S
-472.406 1403.61 m
-5766.75 1403.61 l
-S
-472.406 2419.33 m
-5766.75 2419.33 l
-S
-472.406 3435.04 m
-5766.75 3435.04 l
-S
-472.406 4450.76 m
-5766.75 4450.76 l
-S
-472.406 5466.47 m
-5766.75 5466.47 l
-S
-472.406 6482.18 m
-5766.75 6482.18 l
-S
-472.406 7497.9 m
-5766.75 7497.9 l
-S
-q
-10 0 0 10 0 0 cm BT
-/R8 6.87138 Tf
-0 1 -1 0 73.9121 82.723 Tm
-(April)Tj
--38.5332 -8.67109 Td
-[(S)-1220.93(M)-1054.93(T)-1276.93(W)-943.926(T)-1276.93(F)-1276.93(S)]TJ
-8.67148 TL
-T*[(1)-1331.93(2)-1331.93(3)-1331.93(4)-1331.93(5)-1331.93(6)-1331.93(7)]TJ
-T*[(8)-1331.93(9)-1331.93(10)-775.926(11)-775.926(12)-775.925(13)-775.925(14)]TJ
-T*[(15)-775.926(16)-775.926(17)-775.926(18)-775.926(19)-775.925(20)-775.925(21)]TJ
-T*[(22)-775.926(23)-775.926(24)-775.926(25)-775.926(26)-775.925(27)-775.925(28)]TJ
-T*[(29)-775.926(30)]TJ
-647.385 -359.999 Td
-(June)Tj
--37.9562 -8.67148 Td
-[(S)-1220.93(M)-1054.92(T)-1276.92(W)-943.927(T)-1276.92(F)-1276.92(S)]TJ
-64.8633 -8.67148 Td
-[(1)-1331.92(2)]TJ
--64.8633 -8.67109 Td
-[(3)-1331.92(4)-1331.92(5)-1331.92(6)-1331.92(7)-1331.92(8)-1331.92(9)]TJ
-T*[(10)-775.927(11)-775.927(12)-775.927(13)-775.927(14)-775.927(15)-775.927(16)]TJ
-T*[(17)-775.927(18)-775.927(19)-775.927(20)-775.927(21)-775.927(22)-775.927(23)]TJ
-T*[(24)-775.927(25)-775.927(26)-775.927(27)-775.927(28)-775.927(29)-775.927(30)]TJ
-ET
-Q
-Q
-
-endstream 
-endobj 
-68 0 obj 
-<<
-/R9 77 0 R
-/R8 78 0 R
->>
-endobj 
-69 0 obj 
-<<
-/R7 79 0 R
->>
-endobj 
-70 0 obj 
-<<
-/Length 6710
->>
-stream
-q 0.1 0 0 0.1 0 0 cm
-/R7 gs
-0 g
-q
-10 0 0 10 0 0 cm BT
-/R8 7.2 Tf
-0 1 -1 0 40.275 377.478 Tm
-(June 2018)Tj
+0 1 -1 0 40.275 379.484 Tm
+(mai 2018)Tj
 ET
 Q
 9 w
@@ -4764,8 +5211,8 @@ S
 q
 10 0 0 10 0 0 cm BT
 /R8 7.2 Tf
-0 1 -1 0 56.6406 77.3684 Tm
-[(Sunday)-10633.1(Monday)-10411.2(Tuesday)-9549.66(Wednesday)-9383.14(Thursday)-10634.2(Friday)-10717.1(Saturday)]TJ
+0 1 -1 0 56.6406 73.9703 Tm
+[(dimanche)-10883.6(lundi)-11801.1(mardi)-10912.7(mercredi)-11106.6(jeudi)-11133.7(vendredi)-10578.1(samedi)]TJ
 ET
 Q
 602.406 7497.9 m
@@ -4774,8 +5221,28 @@ S
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
-0 1 -1 0 72.8406 638.815 Tm
-[(1)-13551.1(2)]TJ
+0 1 -1 0 72.8406 334.101 Tm
+[(1)-13551.2(2)]TJ
+/R8 7.2 Tf
+14.8031 -7.2 Td
+(19:30-21:00 Meeting de )Tj
+9 TL
+(OARC exécutif )'
+/R9 7.2 Tf
+188.34 16.2 Td
+[(3)-13551.1(4)]TJ
+/R8 7.2 Tf
+14.8031 -7.2 Td
+(Journée internationale )Tj
+(anti-intimidation )'
+/R9 7.2 Tf
+188.339 16.2 Td
+(5)Tj
+/R8 7.2 Tf
+-86.7684 -7.2 Td
+(Fête du 5 mai \(US\) )Tj
+10.8 TL
+(*LHFR* )'
 ET
 Q
 1635.27 7497.9 m
@@ -4786,21 +5253,40 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 176.127 130.958 Tm
-(3)Tj
+(6)Tj
 /R8 7.2 Tf
 -86.7684 -7.2 Td
-(Canadian Armed Forces )Tj
+(*LHFR* )Tj
+10.8 TL
+(07:30-13:30 Le Défi CN )'
 9 TL
-(Day )'
+(pour le CHEO )'
 /R9 7.2 Tf
-188.34 16.2 Td
-[(4)-13551.2(5)-13551.2(6)-13551.1(7)-13551.1(8)]TJ
+188.34 27 Td
+[(7)-13551.2(8)-13551.2(9)]TJ
 /R8 7.2 Tf
-319.518 -7.2 Td
-(World Oceans Day )Tj
+116.375 -7.2 Td
+(19:30-22:00 Meeting de )Tj
+(OARC )'
 /R9 7.2 Tf
-188.339 7.2 Td
-(9)Tj
+184.337 16.2 Td
+(10)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Ascension )Tj
+/R9 7.2 Tf
+184.337 7.2 Td
+(11)Tj
+/R8 7.2 Tf
+-82.7648 -7.2 Td
+(Début du Festival Canadien )Tj
+(des Tulipes )'
+/R9 7.2 Tf
+184.336 16.2 Td
+(12)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Comiccon d'Ottawa )Tj
 ET
 Q
 2668.14 7497.9 m
@@ -4811,39 +5297,58 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 264.114 44.1898 Tm
-(Week 22)Tj
+(Semaine 18)Tj
 ET
 Q
-1725.27 3561.04 m
-1705.39 3561.04 1689.27 3544.92 1689.27 3525.04 c
-1689.27 3505.16 1705.39 3489.04 1725.27 3489.04 c
-1745.15 3489.04 1761.27 3505.16 1761.27 3525.04 c
-1761.27 3544.92 1745.15 3561.04 1725.27 3561.04 c
+1725.27 1529.61 m
+1705.39 1529.61 1689.27 1513.49 1689.27 1493.61 c
+1689.27 1473.73 1705.39 1457.61 1725.27 1457.61 c
+1745.15 1457.61 1761.27 1473.73 1761.27 1493.61 c
+1761.27 1513.49 1745.15 1529.61 1725.27 1529.61 c
 h
 S
-1761.27 3525.04 m
-1761.27 3544.92 1745.15 3561.04 1725.27 3561.04 c
-1705.39 3561.04 1689.27 3544.92 1689.27 3525.04 c
+1761.27 1493.61 m
+1761.27 1513.49 1745.15 1529.61 1725.27 1529.61 c
+1705.39 1529.61 1689.27 1513.49 1689.27 1493.61 c
 f
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 176.127 130.958 Tm
-(3)Tj
+(6)Tj
 /R8 7.2 Tf
 -86.7684 -7.2 Td
-(Canadian Armed Forces )Tj
+(*LHFR* )Tj
+10.8 TL
+(07:30-13:30 Le Défi CN )'
 9 TL
-(Day )'
+(pour le CHEO )'
 /R9 7.2 Tf
-188.34 16.2 Td
-[(4)-13551.2(5)-13551.2(6)-13551.1(7)-13551.1(8)]TJ
+188.34 27 Td
+[(7)-13551.2(8)-13551.2(9)]TJ
 /R8 7.2 Tf
-319.518 -7.2 Td
-(World Oceans Day )Tj
+116.375 -7.2 Td
+(19:30-22:00 Meeting de )Tj
+(OARC )'
 /R9 7.2 Tf
-188.339 7.2 Td
-(9)Tj
+184.337 16.2 Td
+(10)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Ascension )Tj
+/R9 7.2 Tf
+184.337 7.2 Td
+(11)Tj
+/R8 7.2 Tf
+-82.7648 -7.2 Td
+(Début du Festival Canadien )Tj
+(des Tulipes )'
+/R9 7.2 Tf
+184.336 16.2 Td
+(12)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Comiccon d'Ottawa )Tj
 ET
 Q
 2668.14 7497.9 m
@@ -4854,21 +5359,34 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 279.414 126.955 Tm
-[(10)-12995.2(11)]TJ
+(13)Tj
 /R8 7.2 Tf
-18.8062 -7.2 Td
-(William Davis Miners' )Tj
-9 TL
-(Memorial Day \(CA-NS\) )'
+-82.7652 -7.2 Td
+(Fête des mères )Tj
+10.8 TL
+(Comiccon d'Ottawa )'
 /R9 7.2 Tf
-184.337 16.2 Td
-[(12)-12995.2(13)-12995.2(14)]TJ
+184.337 18 Td
+[(14)-12995.2(15)-12995.2(16)]TJ
 /R8 7.2 Tf
 120.378 -7.2 Td
-(Flag Day \(US\) )Tj
+(19:30-21:00 Meeting de )Tj
+9 TL
+(OVMRC )'
 /R9 7.2 Tf
-184.337 7.2 Td
-[(15)-12995.1(16)]TJ
+184.337 16.2 Td
+[(17)-12995.2(18)]TJ
+/R8 7.2 Tf
+18.8062 -7.2 Td
+(Hamvention® de Dayton )Tj
+(commence )'
+/R9 7.2 Tf
+184.336 16.2 Td
+(19)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Journée des forces armées )Tj
+(\(US\) )'
 ET
 Q
 3701.01 7497.9 m
@@ -4879,34 +5397,47 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 367.401 44.1898 Tm
-(Week 23)Tj
+(Semaine 19)Tj
 ET
 Q
-2758.14 3561.04 m
-2738.27 3561.04 2722.14 3544.92 2722.14 3525.04 c
-2722.14 3505.16 2738.27 3489.04 2758.14 3489.04 c
-2778.02 3489.04 2794.14 3505.16 2794.14 3525.04 c
-2794.14 3544.92 2778.02 3561.04 2758.14 3561.04 c
+2758.14 2545.33 m
+2738.27 2545.33 2722.14 2529.21 2722.14 2509.33 c
+2722.14 2489.45 2738.27 2473.33 2758.14 2473.33 c
+2778.02 2473.33 2794.14 2489.45 2794.14 2509.33 c
+2794.14 2529.21 2778.02 2545.33 2758.14 2545.33 c
 f
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 279.414 126.955 Tm
-[(10)-12995.2(11)]TJ
+(13)Tj
 /R8 7.2 Tf
-18.8062 -7.2 Td
-(William Davis Miners' )Tj
-9 TL
-(Memorial Day \(CA-NS\) )'
+-82.7652 -7.2 Td
+(Fête des mères )Tj
+10.8 TL
+(Comiccon d'Ottawa )'
 /R9 7.2 Tf
-184.337 16.2 Td
-[(12)-12995.2(13)-12995.2(14)]TJ
+184.337 18 Td
+[(14)-12995.2(15)-12995.2(16)]TJ
 /R8 7.2 Tf
 120.378 -7.2 Td
-(Flag Day \(US\) )Tj
+(19:30-21:00 Meeting de )Tj
+9 TL
+(OVMRC )'
 /R9 7.2 Tf
-184.337 7.2 Td
-[(15)-12995.1(16)]TJ
+184.337 16.2 Td
+[(17)-12995.2(18)]TJ
+/R8 7.2 Tf
+18.8062 -7.2 Td
+(Hamvention® de Dayton )Tj
+(commence )'
+/R9 7.2 Tf
+184.336 16.2 Td
+(19)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Journée des forces armées )Tj
+(\(US\) )'
 ET
 Q
 3701.01 7497.9 m
@@ -4917,21 +5448,33 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 382.701 126.955 Tm
-(17)Tj
+(20)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Father's Day )Tj
-/R9 7.2 Tf
-184.337 7.2 Td
-[(18)-12995.2(19)-12995.2(20)-12995.2(21)]TJ
-/R8 7.2 Tf
-221.949 -7.2 Td
-(First Day of Summer )Tj
+(Pentecôte )Tj
 10.8 TL
-(National Aboriginal Day )'
+(Début de Shauvot )'
 /R9 7.2 Tf
 184.337 18 Td
-[(22)-12995.1(23)]TJ
+(21)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Fête de la Reine )Tj
+(Journée nationale des )'
+9 TL
+(patriotes \(CA-QC\) )'
+10.8 TL
+(Fin de Shauvot )'
+(Fin du Festival Canadien )'
+9 TL
+(des Tulipes )'
+/R9 7.2 Tf
+184.337 57.6 Td
+[(22)-12995.2(23)-12995.2(24)-12995.2(25)-12995.1(26)]TJ
+/R8 7.2 Tf
+323.52 -7.2 Td
+(00:00-23:59+1 )Tj
+(*CQ-WW-WPX-CW* )'
 ET
 Q
 4733.88 7497.9 m
@@ -4942,39 +5485,51 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 470.688 44.1898 Tm
-(Week 24)Tj
+(Semaine 20)Tj
 ET
 Q
-3791.01 3561.04 m
-3771.13 3561.04 3755.01 3544.92 3755.01 3525.04 c
-3755.01 3505.16 3771.13 3489.04 3791.01 3489.04 c
-3810.89 3489.04 3827.01 3505.16 3827.01 3525.04 c
-3827.01 3544.92 3810.89 3561.04 3791.01 3561.04 c
+3791.01 1529.61 m
+3771.13 1529.61 3755.01 1513.49 3755.01 1493.61 c
+3755.01 1473.73 3771.13 1457.61 3791.01 1457.61 c
+3810.89 1457.61 3827.01 1473.73 3827.01 1493.61 c
+3827.01 1513.49 3810.89 1529.61 3791.01 1529.61 c
 h
 S
-3755.01 3525.04 m
-3755.01 3505.16 3771.13 3489.04 3791.01 3489.04 c
-3810.89 3489.04 3827.01 3505.16 3827.01 3525.04 c
+3755.01 1493.61 m
+3755.01 1473.73 3771.13 1457.61 3791.01 1457.61 c
+3810.89 1457.61 3827.01 1473.73 3827.01 1493.61 c
 f
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 382.701 126.955 Tm
-(17)Tj
+(20)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Father's Day )Tj
-/R9 7.2 Tf
-184.337 7.2 Td
-[(18)-12995.2(19)-12995.2(20)-12995.2(21)]TJ
-/R8 7.2 Tf
-221.949 -7.2 Td
-(First Day of Summer )Tj
+(Pentecôte )Tj
 10.8 TL
-(National Aboriginal Day )'
+(Début de Shauvot )'
 /R9 7.2 Tf
 184.337 18 Td
-[(22)-12995.1(23)]TJ
+(21)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Fête de la Reine )Tj
+(Journée nationale des )'
+9 TL
+(patriotes \(CA-QC\) )'
+10.8 TL
+(Fin de Shauvot )'
+(Fin du Festival Canadien )'
+9 TL
+(des Tulipes )'
+/R9 7.2 Tf
+184.337 57.6 Td
+[(22)-12995.2(23)-12995.2(24)-12995.2(25)-12995.1(26)]TJ
+/R8 7.2 Tf
+323.52 -7.2 Td
+(00:00-23:59+1 )Tj
+(*CQ-WW-WPX-CW* )'
 ET
 Q
 4733.88 7497.9 m
@@ -4985,41 +5540,13 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 485.988 126.955 Tm
-(24)Tj
+[(27)-12995.2(28)]TJ
 /R8 7.2 Tf
--82.7652 -7.2 Td
-(Quebec's National Holiday )Tj
-10.8 TL
-(Saint-Jean-Baptiste Day )'
-(Nativity of St. John the )'
-9 TL
-(Baptist )'
-/R9 7.2 Tf
-184.337 37.8 Td
-(25)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
-(Discovery Day \(CA-NL\) )Tj
+18.8062 -7.2 Td
+(Memorial Day \(US\) )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
-[(26)-12995.2(27)]TJ
-/R8 7.2 Tf
-18.8059 -7.2 Td
-(Canadian Multiculturalism )Tj
-(Day )'
-/R9 7.2 Tf
-184.337 16.2 Td
-(28)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
-(Tau Day \(6.28\) )Tj
-10.8 TL
-(INTERNATIONAL CAPS )'
-9 TL
-(LOCK DAY )'
-/R9 7.2 Tf
-184.337 27 Td
-[(29)-12995.1(30)]TJ
+[(29)-12995.2(30)-12995.2(31)]TJ
 ET
 Q
 5766.75 7497.9 m
@@ -5030,55 +5557,27 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 573.975 44.1898 Tm
-(Week 25)Tj
+(Semaine 21)Tj
 ET
 Q
-4823.88 4576.76 m
-4804 4576.76 4787.88 4560.64 4787.88 4540.76 c
-4787.88 4520.88 4804 4504.76 4823.88 4504.76 c
-4843.76 4504.76 4859.88 4520.88 4859.88 4540.76 c
-4859.88 4560.64 4843.76 4576.76 4823.88 4576.76 c
+4823.88 2545.33 m
+4804 2545.33 4787.88 2529.21 4787.88 2509.33 c
+4787.88 2489.45 4804 2473.33 4823.88 2473.33 c
+4843.76 2473.33 4859.88 2489.45 4859.88 2509.33 c
+4859.88 2529.21 4843.76 2545.33 4823.88 2545.33 c
 h
 S
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 485.988 126.955 Tm
-(24)Tj
+[(27)-12995.2(28)]TJ
 /R8 7.2 Tf
--82.7652 -7.2 Td
-(Quebec's National Holiday )Tj
-10.8 TL
-(Saint-Jean-Baptiste Day )'
-(Nativity of St. John the )'
-9 TL
-(Baptist )'
-/R9 7.2 Tf
-184.337 37.8 Td
-(25)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
-(Discovery Day \(CA-NL\) )Tj
+18.8062 -7.2 Td
+(Memorial Day \(US\) )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
-[(26)-12995.2(27)]TJ
-/R8 7.2 Tf
-18.8059 -7.2 Td
-(Canadian Multiculturalism )Tj
-(Day )'
-/R9 7.2 Tf
-184.337 16.2 Td
-(28)Tj
-/R8 7.2 Tf
--82.7652 -7.2 Td
-(Tau Day \(6.28\) )Tj
-10.8 TL
-(INTERNATIONAL CAPS )'
-9 TL
-(LOCK DAY )'
-/R9 7.2 Tf
-184.337 27 Td
-[(29)-12995.1(30)]TJ
+[(29)-12995.2(30)-12995.2(31)]TJ
 ET
 Q
 5766.75 7497.9 m
@@ -5111,47 +5610,47 @@ S
 q
 10 0 0 10 0 0 cm BT
 /R8 6.87138 Tf
-0 1 -1 0 72.5121 83.1043 Tm
-(May)Tj
--38.9145 -8.67109 Td
-[(S)-1220.93(M)-1054.93(T)-1276.93(W)-943.926(T)-1276.93(F)-1276.93(S)]TJ
-25.9453 -8.67148 Td
-[(1)-1331.93(2)-1331.93(3)-1331.93(4)-1331.93(5)]TJ
--25.9453 -8.67148 Td
-[(6)-1331.93(7)-1331.93(8)-1331.93(9)-1331.93(10)-775.925(11)-775.925(12)]TJ
+0 1 -1 0 72.5121 83.2969 Tm
+(avril)Tj
+-39.107 -8.67109 Td
+[(d)-1331.93(l)-1665.93(m)-1054.93(m)-1054.93(j)-1665.93(v)-1387.93(s)]TJ
 8.67148 TL
-T*[(13)-775.926(14)-775.926(15)-775.926(16)-775.926(17)-775.925(18)-775.925(19)]TJ
-T*[(20)-775.926(21)-775.926(22)-775.926(23)-775.926(24)-775.925(25)-775.925(26)]TJ
-T*[(27)-775.926(28)-775.926(29)-775.926(30)-775.926(31)]TJ
-140.868 52.0281 Td
-(July)Tj
--39.2961 -8.67109 Td
-[(S)-1220.93(M)-1054.93(T)-1276.93(W)-943.926(T)-1276.93(F)-1276.93(S)]TJ
 T*[(1)-1331.93(2)-1331.93(3)-1331.93(4)-1331.93(5)-1331.93(6)-1331.93(7)]TJ
-T*[(8)-1331.93(9)-1331.93(10)-775.925(11)-775.925(12)-775.927(13)-775.927(14)]TJ
-T*[(15)-775.925(16)-775.925(17)-775.925(18)-775.925(19)-775.927(20)-775.927(21)]TJ
-T*[(22)-775.925(23)-775.925(24)-775.925(25)-775.925(26)-775.927(27)-775.927(28)]TJ
-T*[(29)-775.925(30)-775.925(31)]TJ
+T*[(8)-1331.93(9)-1331.93(10)-775.926(11)-775.926(12)-775.925(13)-775.925(14)]TJ
+T*[(15)-775.926(16)-775.926(17)-775.926(18)-775.926(19)-775.925(20)-775.925(21)]TJ
+T*[(22)-775.926(23)-775.926(24)-775.926(25)-775.926(26)-775.925(27)-775.925(28)]TJ
+T*[(29)-775.926(30)]TJ
+649.487 -361.119 Td
+(juin)Tj
+-40.0586 -8.67148 Td
+[(d)-1331.92(l)-1665.93(m)-1054.92(m)-1054.92(j)-1665.93(v)-1387.93(s)]TJ
+64.8633 -8.67148 Td
+[(1)-1331.92(2)]TJ
+-64.8633 -8.67109 Td
+[(3)-1331.92(4)-1331.92(5)-1331.92(6)-1331.92(7)-1331.92(8)-1331.92(9)]TJ
+T*[(10)-775.927(11)-775.927(12)-775.927(13)-775.927(14)-775.927(15)-775.927(16)]TJ
+T*[(17)-775.927(18)-775.927(19)-775.927(20)-775.927(21)-775.927(22)-775.927(23)]TJ
+T*[(24)-775.927(25)-775.927(26)-775.927(27)-775.927(28)-775.927(29)-775.927(30)]TJ
 ET
 Q
 Q
 
 endstream 
 endobj 
-71 0 obj 
+68 0 obj 
 <<
 /R9 77 0 R
 /R8 78 0 R
 >>
 endobj 
-72 0 obj 
+69 0 obj 
 <<
 /R7 79 0 R
 >>
 endobj 
-73 0 obj 
+70 0 obj 
 <<
-/Length 6370
+/Length 8497
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -5160,8 +5659,8 @@ q 0.1 0 0 0.1 0 0 cm
 q
 10 0 0 10 0 0 cm BT
 /R8 7.2 Tf
-0 1 -1 0 40.275 378.882 Tm
-(July 2018)Tj
+0 1 -1 0 40.275 379.682 Tm
+(juin 2018)Tj
 ET
 Q
 9 w
@@ -5172,88 +5671,21 @@ S
 q
 10 0 0 10 0 0 cm BT
 /R8 7.2 Tf
-0 1 -1 0 58.0406 77.3684 Tm
-[(Sunday)-10633.1(Monday)-10411.2(Tuesday)-9549.66(Wednesday)-9383.14(Thursday)-10634.2(Friday)-10717.1(Saturday)]TJ
+0 1 -1 0 58.0406 73.9703 Tm
+[(dimanche)-10883.6(lundi)-11801.1(mardi)-10912.7(mercredi)-11106.6(jeudi)-11133.7(vendredi)-10578.1(samedi)]TJ
 ET
 Q
 616.406 7497.9 m
 616.406 387.898 l
 S
-1 g
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
-0 1 -1 0 74.2406 130.958 Tm
-(1)Tj
-/R8 7.2 Tf
--86.7684 -7.2 Td
-(Canada Day )Tj
-10.8 TL
-(Memorial Day \(CA-NL\) )'
-/R9 7.2 Tf
-188.34 18 Td
-(2)Tj
-/R8 7.2 Tf
--86.7684 -7.2 Td
-(Canada Day \(Observed\) )Tj
-/R9 7.2 Tf
-188.34 7.2 Td
-[(3)-13551.2(4)]TJ
+0 1 -1 0 74.2406 638.815 Tm
+[(1)-13551.1(2)]TJ
 /R8 7.2 Tf
 14.8031 -7.2 Td
-(Independence Day \(US\) )Tj
-/R9 7.2 Tf
-188.34 7.2 Td
-[(5)-13551.1(6)-13551.1(7)]TJ
-ET
-Q
-1646.48 7497.9 m
-1646.48 387.898 l
-S
-0 g
-q
-10 0 0 10 0 0 cm BT
-/R8 6 Tf
-0 1 -1 0 161.948 44.1898 Tm
-(Week 26)Tj
-ET
-Q
-706.406 5592.47 m
-686.527 5592.47 670.406 5576.35 670.406 5556.47 c
-670.406 5536.59 686.527 5520.47 706.406 5520.47 c
-726.285 5520.47 742.406 5536.59 742.406 5556.47 c
-742.406 5576.35 726.285 5592.47 706.406 5592.47 c
-h
-S
-742.406 5556.47 m
-742.406 5576.35 726.285 5592.47 706.406 5592.47 c
-686.527 5592.47 670.406 5576.35 670.406 5556.47 c
-f
-q
-10 0 0 10 0 0 cm BT
-/R9 7.2 Tf
-0 1 -1 0 74.2406 130.958 Tm
-(1)Tj
-/R8 7.2 Tf
--86.7684 -7.2 Td
-(Canada Day )Tj
-10.8 TL
-(Memorial Day \(CA-NL\) )'
-/R9 7.2 Tf
-188.34 18 Td
-(2)Tj
-/R8 7.2 Tf
--86.7684 -7.2 Td
-(Canada Day \(Observed\) )Tj
-/R9 7.2 Tf
-188.34 7.2 Td
-[(3)-13551.2(4)]TJ
-/R8 7.2 Tf
-14.8031 -7.2 Td
-(Independence Day \(US\) )Tj
-/R9 7.2 Tf
-188.34 7.2 Td
-[(5)-13551.1(6)-13551.1(7)]TJ
+(Portes ouvertes Ottawa )Tj
 ET
 Q
 1646.48 7497.9 m
@@ -5264,21 +5696,39 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 177.248 130.958 Tm
-[(8)-13551.2(9)]TJ
+(3)Tj
+/R8 7.2 Tf
+-86.7684 -7.2 Td
+(Journée des Forces )Tj
+9 TL
+(canadiennes )'
+10.8 TL
+(Portes ouvertes Ottawa )'
+/R9 7.2 Tf
+188.34 27 Td
+[(4)-13551.2(5)-13551.2(6)]TJ
+/R8 7.2 Tf
+116.375 -7.2 Td
+(19:30-21:00 Meeting de )Tj
+9 TL
+(OARC exécutif )'
+/R9 7.2 Tf
+188.34 16.2 Td
+[(7)-13551.1(8)]TJ
 /R8 7.2 Tf
 14.8031 -7.2 Td
-(Nunavut Day )Tj
-10.8 TL
-(Orangemen's Day \(NL\) )'
+(Journée mondiale des )Tj
+(océans )'
 /R9 7.2 Tf
-184.337 18 Td
-[(10)-12995.2(11)-12995.2(12)-12995.2(13)]TJ
+188.339 16.2 Td
+(9)Tj
 /R8 7.2 Tf
-221.949 -7.2 Td
-(Friday the 13th )Tj
-/R9 7.2 Tf
-184.336 7.2 Td
-(14)Tj
+-86.7684 -7.2 Td
+(*RLCT* )Tj
+10.8 TL
+(18:00-02:59+2 QSO Party )'
+9 TL
+(VHF de juin ARRL )'
 ET
 Q
 2676.54 7497.9 m
@@ -5289,34 +5739,57 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 264.954 44.1898 Tm
-(Week 27)Tj
+(Semaine 22)Tj
 ET
 Q
-1736.48 4576.76 m
-1716.6 4576.76 1700.48 4560.64 1700.48 4540.76 c
-1700.48 4520.88 1716.6 4504.76 1736.48 4504.76 c
-1756.36 4504.76 1772.48 4520.88 1772.48 4540.76 c
-1772.48 4560.64 1756.36 4576.76 1736.48 4576.76 c
+1736.48 3561.04 m
+1716.6 3561.04 1700.48 3544.92 1700.48 3525.04 c
+1700.48 3505.16 1716.6 3489.04 1736.48 3489.04 c
+1756.36 3489.04 1772.48 3505.16 1772.48 3525.04 c
+1772.48 3544.92 1756.36 3561.04 1736.48 3561.04 c
+h
+S
+1772.48 3525.04 m
+1772.48 3544.92 1756.36 3561.04 1736.48 3561.04 c
+1716.6 3561.04 1700.48 3544.92 1700.48 3525.04 c
 f
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 177.248 130.958 Tm
-[(8)-13551.2(9)]TJ
+(3)Tj
+/R8 7.2 Tf
+-86.7684 -7.2 Td
+(Journée des Forces )Tj
+9 TL
+(canadiennes )'
+10.8 TL
+(Portes ouvertes Ottawa )'
+/R9 7.2 Tf
+188.34 27 Td
+[(4)-13551.2(5)-13551.2(6)]TJ
+/R8 7.2 Tf
+116.375 -7.2 Td
+(19:30-21:00 Meeting de )Tj
+9 TL
+(OARC exécutif )'
+/R9 7.2 Tf
+188.34 16.2 Td
+[(7)-13551.1(8)]TJ
 /R8 7.2 Tf
 14.8031 -7.2 Td
-(Nunavut Day )Tj
-10.8 TL
-(Orangemen's Day \(NL\) )'
+(Journée mondiale des )Tj
+(océans )'
 /R9 7.2 Tf
-184.337 18 Td
-[(10)-12995.2(11)-12995.2(12)-12995.2(13)]TJ
+188.339 16.2 Td
+(9)Tj
 /R8 7.2 Tf
-221.949 -7.2 Td
-(Friday the 13th )Tj
-/R9 7.2 Tf
-184.336 7.2 Td
-(14)Tj
+-86.7684 -7.2 Td
+(*RLCT* )Tj
+10.8 TL
+(18:00-02:59+2 QSO Party )'
+9 TL
+(VHF de juin ARRL )'
 ET
 Q
 2676.54 7497.9 m
@@ -5327,15 +5800,38 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 280.254 126.955 Tm
-(15)Tj
+(10)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Construction Holiday Begins )Tj
+(*RLCT* )Tj
+/R9 7.2 Tf
+184.337 7.2 Td
+(11)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Journée commémorative )Tj
 9 TL
-(\(CA-QC\) )'
+(des mineurs \(CA-NS\) )'
 /R9 7.2 Tf
 184.337 16.2 Td
-[(16)-12995.2(17)-12995.2(18)-12995.2(19)-12995.2(20)-12995.1(21)]TJ
+[(12)-12995.2(13)]TJ
+/R8 7.2 Tf
+18.8059 -7.2 Td
+(19:30-22:00 Meeting de )Tj
+(OARC )'
+/R9 7.2 Tf
+184.337 16.2 Td
+(14)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Jour du drapeau \(US\) )Tj
+/R9 7.2 Tf
+184.337 7.2 Td
+[(15)-12995.1(16)]TJ
+/R8 7.2 Tf
+18.8059 -7.2 Td
+(18:00-23:59 Journée des )Tj
+(enfants ARRL )'
 ET
 Q
 3706.61 7497.9 m
@@ -5346,33 +5842,51 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 367.961 44.1898 Tm
-(Week 28)Tj
+(Semaine 23)Tj
 ET
 Q
-2766.54 4576.76 m
-2746.66 4576.76 2730.54 4560.64 2730.54 4540.76 c
-2730.54 4520.88 2746.66 4504.76 2766.54 4504.76 c
-2786.42 4504.76 2802.54 4520.88 2802.54 4540.76 c
-2802.54 4560.64 2786.42 4576.76 2766.54 4576.76 c
-h
-S
-2730.54 4540.76 m
-2730.54 4520.88 2746.66 4504.76 2766.54 4504.76 c
-2786.42 4504.76 2802.54 4520.88 2802.54 4540.76 c
+2766.54 3561.04 m
+2746.66 3561.04 2730.54 3544.92 2730.54 3525.04 c
+2730.54 3505.16 2746.66 3489.04 2766.54 3489.04 c
+2786.42 3489.04 2802.54 3505.16 2802.54 3525.04 c
+2802.54 3544.92 2786.42 3561.04 2766.54 3561.04 c
 f
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 280.254 126.955 Tm
-(15)Tj
+(10)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Construction Holiday Begins )Tj
+(*RLCT* )Tj
+/R9 7.2 Tf
+184.337 7.2 Td
+(11)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Journée commémorative )Tj
 9 TL
-(\(CA-QC\) )'
+(des mineurs \(CA-NS\) )'
 /R9 7.2 Tf
 184.337 16.2 Td
-[(16)-12995.2(17)-12995.2(18)-12995.2(19)-12995.2(20)-12995.1(21)]TJ
+[(12)-12995.2(13)]TJ
+/R8 7.2 Tf
+18.8059 -7.2 Td
+(19:30-22:00 Meeting de )Tj
+(OARC )'
+/R9 7.2 Tf
+184.337 16.2 Td
+(14)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Jour du drapeau \(US\) )Tj
+/R9 7.2 Tf
+184.337 7.2 Td
+[(15)-12995.1(16)]TJ
+/R8 7.2 Tf
+18.8059 -7.2 Td
+(18:00-23:59 Journée des )Tj
+(enfants ARRL )'
 ET
 Q
 3706.61 7497.9 m
@@ -5383,13 +5897,41 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 383.261 126.955 Tm
-(22)Tj
+(17)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Pi Approximation Day \(22/7\) )Tj
+(Fête des pères )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
-[(23)-12995.2(24)-12995.2(25)-12995.2(26)-12995.2(27)-12995.1(28)]TJ
+(18)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(19:00-21:00 Meeting de )Tj
+9 TL
+(WCARC )'
+/R9 7.2 Tf
+184.337 16.2 Td
+[(19)-12995.2(20)]TJ
+/R8 7.2 Tf
+18.8059 -7.2 Td
+(19:30-21:00 Meeting de )Tj
+(OVMRC )'
+/R9 7.2 Tf
+184.337 16.2 Td
+(21)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Premier jour d'été )Tj
+10.8 TL
+(Journée nationale des )'
+9 TL
+(Autochtones )'
+/R9 7.2 Tf
+184.337 27 Td
+[(22)-12995.1(23)]TJ
+/R8 7.2 Tf
+18.8059 -7.2 Td
+(18:00-20:59+1 Field Day )Tj
 ET
 Q
 4736.68 7497.9 m
@@ -5400,27 +5942,59 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 470.968 44.1898 Tm
-(Week 29)Tj
+(Semaine 24)Tj
 ET
 Q
-3796.61 5592.47 m
-3776.73 5592.47 3760.61 5576.35 3760.61 5556.47 c
-3760.61 5536.59 3776.73 5520.47 3796.61 5520.47 c
-3816.49 5520.47 3832.61 5536.59 3832.61 5556.47 c
-3832.61 5576.35 3816.49 5592.47 3796.61 5592.47 c
+3796.61 3561.04 m
+3776.73 3561.04 3760.61 3544.92 3760.61 3525.04 c
+3760.61 3505.16 3776.73 3489.04 3796.61 3489.04 c
+3816.49 3489.04 3832.61 3505.16 3832.61 3525.04 c
+3832.61 3544.92 3816.49 3561.04 3796.61 3561.04 c
 h
 S
+3760.61 3525.04 m
+3760.61 3505.16 3776.73 3489.04 3796.61 3489.04 c
+3816.49 3489.04 3832.61 3505.16 3832.61 3525.04 c
+f
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 383.261 126.955 Tm
-(22)Tj
+(17)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Pi Approximation Day \(22/7\) )Tj
+(Fête des pères )Tj
 /R9 7.2 Tf
 184.337 7.2 Td
-[(23)-12995.2(24)-12995.2(25)-12995.2(26)-12995.2(27)-12995.1(28)]TJ
+(18)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(19:00-21:00 Meeting de )Tj
+9 TL
+(WCARC )'
+/R9 7.2 Tf
+184.337 16.2 Td
+[(19)-12995.2(20)]TJ
+/R8 7.2 Tf
+18.8059 -7.2 Td
+(19:30-21:00 Meeting de )Tj
+(OVMRC )'
+/R9 7.2 Tf
+184.337 16.2 Td
+(21)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Premier jour d'été )Tj
+10.8 TL
+(Journée nationale des )'
+9 TL
+(Autochtones )'
+/R9 7.2 Tf
+184.337 27 Td
+[(22)-12995.1(23)]TJ
+/R8 7.2 Tf
+18.8059 -7.2 Td
+(18:00-20:59+1 Field Day )Tj
 ET
 Q
 4736.68 7497.9 m
@@ -5431,12 +6005,52 @@ q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
 0 1 -1 0 486.268 126.955 Tm
-[(29)-12995.2(30)-12995.2(31)]TJ
+(24)Tj
 /R8 7.2 Tf
-120.378 -7.2 Td
-(Construction Holiday Ends )Tj
+-82.7652 -7.2 Td
+(Fête nationale des )Tj
 9 TL
-(\(CA-QC\) )'
+(Québecois )'
+10.8 TL
+(Fête de la )'
+9 TL
+(Saint-Jean-Baptiste )'
+10.8 TL
+(Nativité de saint )'
+9 TL
+(Jean-Baptiste )'
+10.8 TL
+(Défi Vélo )'
+/R9 7.2 Tf
+184.337 66.6 Td
+(25)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Journée découverte )Tj
+9 TL
+(\(CA-NL\) )'
+/R9 7.2 Tf
+184.337 16.2 Td
+[(26)-12995.2(27)]TJ
+/R8 7.2 Tf
+18.8059 -7.2 Td
+(Journée canadienne du )Tj
+(multiculturalisme )'
+/R9 7.2 Tf
+184.337 16.2 Td
+(28)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Jour de tau \(6.28\) )Tj
+10.8 TL
+(JOURNÃ‰E )'
+9 TL
+(INTERNATIONALE DU )'
+(VERROUILLAGE DES )'
+(MAJUSCULES )'
+/R9 7.2 Tf
+184.337 45 Td
+[(29)-12995.1(30)]TJ
 ET
 Q
 5766.75 7497.9 m
@@ -5447,15 +6061,66 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 573.975 44.1898 Tm
-(Week 30)Tj
+(Semaine 25)Tj
+ET
+Q
+4826.68 4576.76 m
+4806.8 4576.76 4790.68 4560.64 4790.68 4540.76 c
+4790.68 4520.88 4806.8 4504.76 4826.68 4504.76 c
+4846.56 4504.76 4862.68 4520.88 4862.68 4540.76 c
+4862.68 4560.64 4846.56 4576.76 4826.68 4576.76 c
+h
+S
+q
+10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
-82.7652 87.707 Td
-[(29)-12995.2(30)-12995.2(31)]TJ
+0 1 -1 0 486.268 126.955 Tm
+(24)Tj
 /R8 7.2 Tf
-120.378 -7.2 Td
-(Construction Holiday Ends )Tj
+-82.7652 -7.2 Td
+(Fête nationale des )Tj
 9 TL
-(\(CA-QC\) )'
+(Québecois )'
+10.8 TL
+(Fête de la )'
+9 TL
+(Saint-Jean-Baptiste )'
+10.8 TL
+(Nativité de saint )'
+9 TL
+(Jean-Baptiste )'
+10.8 TL
+(Défi Vélo )'
+/R9 7.2 Tf
+184.337 66.6 Td
+(25)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Journée découverte )Tj
+9 TL
+(\(CA-NL\) )'
+/R9 7.2 Tf
+184.337 16.2 Td
+[(26)-12995.2(27)]TJ
+/R8 7.2 Tf
+18.8059 -7.2 Td
+(Journée canadienne du )Tj
+(multiculturalisme )'
+/R9 7.2 Tf
+184.337 16.2 Td
+(28)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Jour de tau \(6.28\) )Tj
+10.8 TL
+(JOURNÃ‰E )'
+9 TL
+(INTERNATIONALE DU )'
+(VERROUILLAGE DES )'
+(MAJUSCULES )'
+/R9 7.2 Tf
+184.337 45 Td
+[(29)-12995.1(30)]TJ
 ET
 Q
 5766.75 7497.9 m
@@ -5488,10 +6153,445 @@ S
 q
 10 0 0 10 0 0 cm BT
 /R8 6.87138 Tf
-0 1 -1 0 485.939 590.003 Tm
-(June)Tj
--37.9559 -8.67148 Td
-[(S)-1220.93(M)-1054.92(T)-1276.92(W)-943.927(T)-1276.92(F)-1276.92(S)]TJ
+0 1 -1 0 73.9121 84.0594 Tm
+(mai)Tj
+-39.8695 -8.67109 Td
+[(d)-1331.93(l)-1665.93(m)-1054.93(m)-1054.93(j)-1665.93(v)-1387.93(s)]TJ
+25.9453 -8.67148 Td
+[(1)-1331.93(2)-1331.93(3)-1331.93(4)-1331.93(5)]TJ
+-25.9453 -8.67148 Td
+[(6)-1331.93(7)-1331.93(8)-1331.93(9)-1331.93(10)-775.925(11)-775.925(12)]TJ
+8.67148 TL
+T*[(13)-775.926(14)-775.926(15)-775.926(16)-775.926(17)-775.925(18)-775.925(19)]TJ
+T*[(20)-775.926(21)-775.926(22)-775.926(23)-775.926(24)-775.925(25)-775.925(26)]TJ
+T*[(27)-775.926(28)-775.926(29)-775.926(30)-775.926(31)]TJ
+139.15 52.0281 Td
+(juillet)Tj
+-37.5781 -8.67109 Td
+[(d)-1331.93(l)-1665.93(m)-1054.93(m)-1054.93(j)-1665.93(v)-1387.93(s)]TJ
+T*[(1)-1331.93(2)-1331.93(3)-1331.93(4)-1331.93(5)-1331.93(6)-1331.93(7)]TJ
+T*[(8)-1331.93(9)-1331.93(10)-775.925(11)-775.925(12)-775.927(13)-775.927(14)]TJ
+T*[(15)-775.925(16)-775.925(17)-775.925(18)-775.925(19)-775.927(20)-775.927(21)]TJ
+T*[(22)-775.925(23)-775.925(24)-775.925(25)-775.925(26)-775.927(27)-775.927(28)]TJ
+T*[(29)-775.925(30)-775.925(31)]TJ
+ET
+Q
+Q
+
+endstream 
+endobj 
+71 0 obj 
+<<
+/R9 77 0 R
+/R8 78 0 R
+>>
+endobj 
+72 0 obj 
+<<
+/R7 79 0 R
+>>
+endobj 
+73 0 obj 
+<<
+/Length 7229
+>>
+stream
+q 0.1 0 0 0.1 0 0 cm
+/R7 gs
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R8 7.2 Tf
+0 1 -1 0 40.275 377.083 Tm
+(juillet 2018)Tj
+ET
+Q
+9 w
+0 G
+472.406 7497.9 m
+472.406 387.898 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R8 7.2 Tf
+0 1 -1 0 58.0406 73.9703 Tm
+[(dimanche)-10883.6(lundi)-11801.1(mardi)-10912.7(mercredi)-11106.6(jeudi)-11133.7(vendredi)-10578.1(samedi)]TJ
+ET
+Q
+616.406 7497.9 m
+616.406 387.898 l
+S
+1 g
+q
+10 0 0 10 0 0 cm BT
+/R9 7.2 Tf
+0 1 -1 0 74.2406 130.958 Tm
+(1)Tj
+/R8 7.2 Tf
+-86.7684 -7.2 Td
+(Fête du Canada )Tj
+10.8 TL
+(Memorial Day \(CA-NL\) )'
+(00:00-23:59 Concours Fête )'
+9 TL
+(du Canada RAC )'
+/R9 7.2 Tf
+188.34 37.8 Td
+(2)Tj
+/R8 7.2 Tf
+-86.7684 -7.2 Td
+(Fête du Canada \(observé\) )Tj
+/R9 7.2 Tf
+188.34 7.2 Td
+[(3)-13551.2(4)]TJ
+/R8 7.2 Tf
+14.8031 -7.2 Td
+(Jour de l'indépendance )Tj
+(\(US\) )'
+/R9 7.2 Tf
+188.34 16.2 Td
+[(5)-13551.1(6)-13551.1(7)]TJ
+ET
+Q
+1646.48 7497.9 m
+1646.48 387.898 l
+S
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R8 6 Tf
+0 1 -1 0 161.948 44.1898 Tm
+(Semaine 26)Tj
+ET
+Q
+706.406 5592.47 m
+686.527 5592.47 670.406 5576.35 670.406 5556.47 c
+670.406 5536.59 686.527 5520.47 706.406 5520.47 c
+726.285 5520.47 742.406 5536.59 742.406 5556.47 c
+742.406 5576.35 726.285 5592.47 706.406 5592.47 c
+h
+S
+742.406 5556.47 m
+742.406 5576.35 726.285 5592.47 706.406 5592.47 c
+686.527 5592.47 670.406 5576.35 670.406 5556.47 c
+f
+q
+10 0 0 10 0 0 cm BT
+/R9 7.2 Tf
+0 1 -1 0 74.2406 130.958 Tm
+(1)Tj
+/R8 7.2 Tf
+-86.7684 -7.2 Td
+(Fête du Canada )Tj
+10.8 TL
+(Memorial Day \(CA-NL\) )'
+(00:00-23:59 Concours Fête )'
+9 TL
+(du Canada RAC )'
+/R9 7.2 Tf
+188.34 37.8 Td
+(2)Tj
+/R8 7.2 Tf
+-86.7684 -7.2 Td
+(Fête du Canada \(observé\) )Tj
+/R9 7.2 Tf
+188.34 7.2 Td
+[(3)-13551.2(4)]TJ
+/R8 7.2 Tf
+14.8031 -7.2 Td
+(Jour de l'indépendance )Tj
+(\(US\) )'
+/R9 7.2 Tf
+188.34 16.2 Td
+[(5)-13551.1(6)-13551.1(7)]TJ
+ET
+Q
+1646.48 7497.9 m
+1646.48 387.898 l
+S
+1 g
+q
+10 0 0 10 0 0 cm BT
+/R9 7.2 Tf
+0 1 -1 0 177.248 130.958 Tm
+[(8)-13551.2(9)]TJ
+/R8 7.2 Tf
+14.8031 -7.2 Td
+(Fête du Nunavut )Tj
+10.8 TL
+(Fête des Orangistes \(NL\) )'
+/R9 7.2 Tf
+184.337 18 Td
+[(10)-12995.2(11)-12995.2(12)-12995.2(13)]TJ
+/R8 7.2 Tf
+221.949 -7.2 Td
+(Le vendredi treize )Tj
+(*GCFR* )'
+/R9 7.2 Tf
+184.336 18 Td
+(14)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(*GCFR* )Tj
+(12:00-11:59+1 )'
+9 TL
+(Championnats HF mondiale )'
+(IARU )'
+ET
+Q
+2676.54 7497.9 m
+2676.54 387.898 l
+S
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R8 6 Tf
+0 1 -1 0 264.954 44.1898 Tm
+(Semaine 27)Tj
+ET
+Q
+1736.48 4576.76 m
+1716.6 4576.76 1700.48 4560.64 1700.48 4540.76 c
+1700.48 4520.88 1716.6 4504.76 1736.48 4504.76 c
+1756.36 4504.76 1772.48 4520.88 1772.48 4540.76 c
+1772.48 4560.64 1756.36 4576.76 1736.48 4576.76 c
+f
+q
+10 0 0 10 0 0 cm BT
+/R9 7.2 Tf
+0 1 -1 0 177.248 130.958 Tm
+[(8)-13551.2(9)]TJ
+/R8 7.2 Tf
+14.8031 -7.2 Td
+(Fête du Nunavut )Tj
+10.8 TL
+(Fête des Orangistes \(NL\) )'
+/R9 7.2 Tf
+184.337 18 Td
+[(10)-12995.2(11)-12995.2(12)-12995.2(13)]TJ
+/R8 7.2 Tf
+221.949 -7.2 Td
+(Le vendredi treize )Tj
+(*GCFR* )'
+/R9 7.2 Tf
+184.336 18 Td
+(14)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(*GCFR* )Tj
+(12:00-11:59+1 )'
+9 TL
+(Championnats HF mondiale )'
+(IARU )'
+ET
+Q
+2676.54 7497.9 m
+2676.54 387.898 l
+S
+1 g
+q
+10 0 0 10 0 0 cm BT
+/R9 7.2 Tf
+0 1 -1 0 280.254 126.955 Tm
+(15)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Début des vacances de la )Tj
+9 TL
+(construction \(CA-QC\) )'
+/R9 7.2 Tf
+184.337 16.2 Td
+(16)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(19:00-21:00 Meeting de )Tj
+(WCARC )'
+/R9 7.2 Tf
+184.337 16.2 Td
+[(17)-12995.2(18)-12995.2(19)-12995.2(20)-12995.1(21)]TJ
+/R8 7.2 Tf
+323.52 -7.2 Td
+(18:00-21:00+1 )Tj
+(*CQ-WW-VHF* )'
+10.8 TL
+(18:00-06:00+1 )'
+9 TL
+(*NAQP-RTTY* )'
+ET
+Q
+3706.61 7497.9 m
+3706.61 387.898 l
+S
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R8 6 Tf
+0 1 -1 0 367.961 44.1898 Tm
+(Semaine 28)Tj
+ET
+Q
+2766.54 4576.76 m
+2746.66 4576.76 2730.54 4560.64 2730.54 4540.76 c
+2730.54 4520.88 2746.66 4504.76 2766.54 4504.76 c
+2786.42 4504.76 2802.54 4520.88 2802.54 4540.76 c
+2802.54 4560.64 2786.42 4576.76 2766.54 4576.76 c
+h
+S
+2730.54 4540.76 m
+2730.54 4520.88 2746.66 4504.76 2766.54 4504.76 c
+2786.42 4504.76 2802.54 4520.88 2802.54 4540.76 c
+f
+q
+10 0 0 10 0 0 cm BT
+/R9 7.2 Tf
+0 1 -1 0 280.254 126.955 Tm
+(15)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Début des vacances de la )Tj
+9 TL
+(construction \(CA-QC\) )'
+/R9 7.2 Tf
+184.337 16.2 Td
+(16)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(19:00-21:00 Meeting de )Tj
+(WCARC )'
+/R9 7.2 Tf
+184.337 16.2 Td
+[(17)-12995.2(18)-12995.2(19)-12995.2(20)-12995.1(21)]TJ
+/R8 7.2 Tf
+323.52 -7.2 Td
+(18:00-21:00+1 )Tj
+(*CQ-WW-VHF* )'
+10.8 TL
+(18:00-06:00+1 )'
+9 TL
+(*NAQP-RTTY* )'
+ET
+Q
+3706.61 7497.9 m
+3706.61 387.898 l
+S
+1 g
+q
+10 0 0 10 0 0 cm BT
+/R9 7.2 Tf
+0 1 -1 0 383.261 126.955 Tm
+(22)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Jour d'approximation pi )Tj
+9 TL
+(\(22/7\) )'
+/R9 7.2 Tf
+184.337 16.2 Td
+[(23)-12995.2(24)-12995.2(25)-12995.2(26)-12995.2(27)-12995.1(28)]TJ
+ET
+Q
+4736.68 7497.9 m
+4736.68 387.898 l
+S
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R8 6 Tf
+0 1 -1 0 470.968 44.1898 Tm
+(Semaine 29)Tj
+ET
+Q
+3796.61 5592.47 m
+3776.73 5592.47 3760.61 5576.35 3760.61 5556.47 c
+3760.61 5536.59 3776.73 5520.47 3796.61 5520.47 c
+3816.49 5520.47 3832.61 5536.59 3832.61 5556.47 c
+3832.61 5576.35 3816.49 5592.47 3796.61 5592.47 c
+h
+S
+q
+10 0 0 10 0 0 cm BT
+/R9 7.2 Tf
+0 1 -1 0 383.261 126.955 Tm
+(22)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Jour d'approximation pi )Tj
+9 TL
+(\(22/7\) )'
+/R9 7.2 Tf
+184.337 16.2 Td
+[(23)-12995.2(24)-12995.2(25)-12995.2(26)-12995.2(27)-12995.1(28)]TJ
+ET
+Q
+4736.68 7497.9 m
+4736.68 387.898 l
+S
+1 g
+q
+10 0 0 10 0 0 cm BT
+/R9 7.2 Tf
+0 1 -1 0 486.268 126.955 Tm
+[(29)-12995.2(30)-12995.2(31)]TJ
+/R8 7.2 Tf
+120.378 -7.2 Td
+(Fin des vacances de la )Tj
+9 TL
+(construction \(CA-QC\) )'
+ET
+Q
+5766.75 7497.9 m
+5766.75 387.898 l
+S
+0 g
+q
+10 0 0 10 0 0 cm BT
+/R8 6 Tf
+0 1 -1 0 573.975 44.1898 Tm
+(Semaine 30)Tj
+/R9 7.2 Tf
+82.7652 87.707 Td
+[(29)-12995.2(30)-12995.2(31)]TJ
+/R8 7.2 Tf
+120.378 -7.2 Td
+(Fin des vacances de la )Tj
+9 TL
+(construction \(CA-QC\) )'
+ET
+Q
+5766.75 7497.9 m
+5766.75 387.898 l
+S
+472.406 387.898 m
+5766.75 387.898 l
+S
+472.406 1403.61 m
+5766.75 1403.61 l
+S
+472.406 2419.33 m
+5766.75 2419.33 l
+S
+472.406 3435.04 m
+5766.75 3435.04 l
+S
+472.406 4450.76 m
+5766.75 4450.76 l
+S
+472.406 5466.47 m
+5766.75 5466.47 l
+S
+472.406 6482.18 m
+5766.75 6482.18 l
+S
+472.406 7497.9 m
+5766.75 7497.9 l
+S
+q
+10 0 0 10 0 0 cm BT
+/R8 6.87138 Tf
+0 1 -1 0 485.939 592.106 Tm
+(juin)Tj
+-40.0586 -8.67148 Td
+[(d)-1331.92(l)-1665.93(m)-1054.92(m)-1054.92(j)-1665.93(v)-1387.93(s)]TJ
 64.8633 -8.67148 Td
 [(1)-1331.92(2)]TJ
 -64.8633 -8.67109 Td
@@ -5500,10 +6600,10 @@ q
 T*[(10)-775.927(11)-775.927(12)-775.927(13)-775.927(14)-775.927(15)-775.927(16)]TJ
 T*[(17)-775.927(18)-775.927(19)-775.927(20)-775.927(21)-775.927(22)-775.927(23)]TJ
 T*[(24)-775.927(25)-775.927(26)-775.927(27)-775.927(28)-775.927(29)-775.927(30)]TJ
-136.28 52.0285 Td
-(August)Tj
--34.7094 -8.67148 Td
-[(S)-1220.93(M)-1054.92(T)-1276.92(W)-943.927(T)-1276.92(F)-1276.92(S)]TJ
+140.29 52.0285 Td
+(août)Tj
+-38.7188 -8.67148 Td
+[(d)-1331.92(l)-1665.93(m)-1054.92(m)-1054.92(j)-1665.93(v)-1387.93(s)]TJ
 38.918 -8.67148 Td
 [(1)-1331.92(2)-1331.92(3)-1331.92(4)]TJ
 -38.918 -8.67109 Td
@@ -5530,7 +6630,7 @@ endobj
 endobj 
 76 0 obj 
 <<
-/Length 5494
+/Length 6479
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -5539,207 +6639,277 @@ q 0.1 0 0 0.1 0 0 cm
 q
 10 0 0 10 0 0 cm BT
 /R8 7.2 Tf
-0 1 -1 0 40.275 374.076 Tm
-(August 2018)Tj
+0 1 -1 0 40.275 378.277 Tm
+(août 2018)Tj
 ET
 Q
 9 w
 0 G
-472.406 7497.9 m
-472.406 387.898 l
+458.406 7497.9 m
+458.406 387.898 l
 S
 q
 10 0 0 10 0 0 cm BT
 /R8 7.2 Tf
-0 1 -1 0 58.0406 77.3684 Tm
-[(Sunday)-10633.1(Monday)-10411.2(Tuesday)-9549.66(Wednesday)-9383.14(Thursday)-10634.2(Friday)-10717.1(Saturday)]TJ
+0 1 -1 0 56.6406 73.9703 Tm
+[(dimanche)-10883.6(lundi)-11801.1(mardi)-10912.7(mercredi)-11106.6(jeudi)-11133.7(vendredi)-10578.1(samedi)]TJ
 ET
 Q
-616.406 7497.9 m
-616.406 387.898 l
+602.406 7497.9 m
+602.406 387.898 l
 S
 1 g
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
-0 1 -1 0 74.2406 435.673 Tm
+0 1 -1 0 72.8406 435.673 Tm
 [(1)-13551.1(2)-13551.1(3)-13551.1(4)]TJ
+/R8 7.2 Tf
+217.946 -7.2 Td
+(Vélotour SP )Tj
+10.8 TL
+(18:00-06:00+1 )'
+9 TL
+(*NAQP-CW* )'
+10.8 TL
+(18:00-17:59+1 Concours )'
+9 TL
+(UHF d'aôut ARRL )'
 ET
 Q
-1646.48 7497.9 m
-1646.48 387.898 l
+1635.27 7497.9 m
+1635.27 387.898 l
 S
-706.406 6608.18 m
-686.527 6608.18 670.406 6592.06 670.406 6572.18 c
-670.406 6552.3 686.527 6536.18 706.406 6536.18 c
-726.285 6536.18 742.406 6552.3 742.406 6572.18 c
-742.406 6592.06 726.285 6608.18 706.406 6608.18 c
+692.406 6608.18 m
+672.527 6608.18 656.406 6592.06 656.406 6572.18 c
+656.406 6552.3 672.527 6536.18 692.406 6536.18 c
+712.285 6536.18 728.406 6552.3 728.406 6572.18 c
+728.406 6592.06 712.285 6608.18 692.406 6608.18 c
 h
 S
 0 g
-742.406 6572.18 m
-742.406 6592.06 726.285 6608.18 706.406 6608.18 c
-686.527 6608.18 670.406 6592.06 670.406 6572.18 c
+728.406 6572.18 m
+728.406 6592.06 712.285 6608.18 692.406 6608.18 c
+672.527 6608.18 656.406 6592.06 656.406 6572.18 c
 f
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
-0 1 -1 0 74.2406 435.673 Tm
+0 1 -1 0 72.8406 435.673 Tm
 [(1)-13551.1(2)-13551.1(3)-13551.1(4)]TJ
+/R8 7.2 Tf
+217.946 -7.2 Td
+(Vélotour SP )Tj
+10.8 TL
+(18:00-06:00+1 )'
+9 TL
+(*NAQP-CW* )'
+10.8 TL
+(18:00-17:59+1 Concours )'
+9 TL
+(UHF d'aôut ARRL )'
 ET
 Q
-1646.48 7497.9 m
-1646.48 387.898 l
+1635.27 7497.9 m
+1635.27 387.898 l
 S
 1 g
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
-0 1 -1 0 177.248 130.958 Tm
+0 1 -1 0 176.127 130.958 Tm
 [(5)-13551.2(6)]TJ
 /R8 7.2 Tf
 14.8031 -7.2 Td
-(August Long Weekend )Tj
+(Longue fin de semaine )Tj
 9 TL
-(\(except CA-NL, CA-QC, )'
-(CA-YT\) )'
+(d'aôut \(sauf CA-NL, )'
+(CA-QC, CA-YT\) )'
 /R9 7.2 Tf
 188.34 25.2 Td
 [(7)-13551.2(8)-13551.1(9)]TJ
 /R8 7.2 Tf
 116.375 -7.2 Td
-(International Day of the )Tj
-(World's Indigenous Peoples )'
+(Journée internationale des )Tj
+(populations autochtones du )'
+(monde )'
 /R9 7.2 Tf
-184.337 16.2 Td
+184.337 25.2 Td
 [(10)-12995.1(11)]TJ
 ET
 Q
-2676.54 7497.9 m
-2676.54 387.898 l
+2668.14 7497.9 m
+2668.14 387.898 l
 S
 0 g
 q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
-0 1 -1 0 264.954 44.1898 Tm
-(Week 31)Tj
+0 1 -1 0 264.114 44.1898 Tm
+(Semaine 31)Tj
 ET
 Q
-1736.48 6608.18 m
-1716.6 6608.18 1700.48 6592.06 1700.48 6572.18 c
-1700.48 6552.3 1716.6 6536.18 1736.48 6536.18 c
-1756.36 6536.18 1772.48 6552.3 1772.48 6572.18 c
-1772.48 6592.06 1756.36 6608.18 1736.48 6608.18 c
+1725.27 6608.18 m
+1705.39 6608.18 1689.27 6592.06 1689.27 6572.18 c
+1689.27 6552.3 1705.39 6536.18 1725.27 6536.18 c
+1745.15 6536.18 1761.27 6552.3 1761.27 6572.18 c
+1761.27 6592.06 1745.15 6608.18 1725.27 6608.18 c
 f
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
-0 1 -1 0 177.248 130.958 Tm
+0 1 -1 0 176.127 130.958 Tm
 [(5)-13551.2(6)]TJ
 /R8 7.2 Tf
 14.8031 -7.2 Td
-(August Long Weekend )Tj
+(Longue fin de semaine )Tj
 9 TL
-(\(except CA-NL, CA-QC, )'
-(CA-YT\) )'
+(d'aôut \(sauf CA-NL, )'
+(CA-QC, CA-YT\) )'
 /R9 7.2 Tf
 188.34 25.2 Td
 [(7)-13551.2(8)-13551.1(9)]TJ
 /R8 7.2 Tf
 116.375 -7.2 Td
-(International Day of the )Tj
-(World's Indigenous Peoples )'
+(Journée internationale des )Tj
+(populations autochtones du )'
+(monde )'
 /R9 7.2 Tf
-184.337 16.2 Td
+184.337 25.2 Td
 [(10)-12995.1(11)]TJ
 ET
 Q
-2676.54 7497.9 m
-2676.54 387.898 l
+2668.14 7497.9 m
+2668.14 387.898 l
 S
 1 g
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
-0 1 -1 0 280.254 126.955 Tm
+0 1 -1 0 279.414 126.955 Tm
 [(12)-12995.2(13)-12995.2(14)-12995.2(15)-12995.2(16)-12995.2(17)-12995.1(18)]TJ
+/R8 7.2 Tf
+526.663 -7.2 Td
+(06:00-23:59+1 \(pas en )Tj
+9 TL
+(UTC\) Concours 10 GHz et )'
+(plus haut ARRL 1e partie )'
+10.8 TL
+(18:00-06:00+1 )'
+9 TL
+(*NAQP-SSB* )'
 ET
 Q
-3706.61 7497.9 m
-3706.61 387.898 l
+3701.01 7497.9 m
+3701.01 387.898 l
 S
 0 g
 q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
-0 1 -1 0 367.961 44.1898 Tm
-(Week 32)Tj
+0 1 -1 0 367.401 44.1898 Tm
+(Semaine 32)Tj
 ET
 Q
-2766.54 6608.18 m
-2746.66 6608.18 2730.54 6592.06 2730.54 6572.18 c
-2730.54 6552.3 2746.66 6536.18 2766.54 6536.18 c
-2786.42 6536.18 2802.54 6552.3 2802.54 6572.18 c
-2802.54 6592.06 2786.42 6608.18 2766.54 6608.18 c
+2758.14 6608.18 m
+2738.27 6608.18 2722.14 6592.06 2722.14 6572.18 c
+2722.14 6552.3 2738.27 6536.18 2758.14 6536.18 c
+2778.02 6536.18 2794.14 6552.3 2794.14 6572.18 c
+2794.14 6592.06 2778.02 6608.18 2758.14 6608.18 c
 h
 S
-2730.54 6572.18 m
-2730.54 6552.3 2746.66 6536.18 2766.54 6536.18 c
-2786.42 6536.18 2802.54 6552.3 2802.54 6572.18 c
+2722.14 6572.18 m
+2722.14 6552.3 2738.27 6536.18 2758.14 6536.18 c
+2778.02 6536.18 2794.14 6552.3 2794.14 6572.18 c
 f
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
-0 1 -1 0 280.254 126.955 Tm
+0 1 -1 0 279.414 126.955 Tm
 [(12)-12995.2(13)-12995.2(14)-12995.2(15)-12995.2(16)-12995.2(17)-12995.1(18)]TJ
+/R8 7.2 Tf
+526.663 -7.2 Td
+(06:00-23:59+1 \(pas en )Tj
+9 TL
+(UTC\) Concours 10 GHz et )'
+(plus haut ARRL 1e partie )'
+10.8 TL
+(18:00-06:00+1 )'
+9 TL
+(*NAQP-SSB* )'
 ET
 Q
-3706.61 7497.9 m
-3706.61 387.898 l
+3701.01 7497.9 m
+3701.01 387.898 l
 S
 1 g
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
-0 1 -1 0 383.261 126.955 Tm
-[(19)-12995.2(20)]TJ
+0 1 -1 0 382.701 126.955 Tm
+(19)Tj
 /R8 7.2 Tf
-18.8062 -7.2 Td
-(Discovery Day \(CA-YT\) )Tj
+-82.7652 -7.2 Td
+(18:00-23:59 Rookie )Tj
+9 TL
+(Roundup RTTY ARRL )'
 /R9 7.2 Tf
-184.337 7.2 Td
+184.337 16.2 Td
+(20)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Journée découverte )Tj
+(\(CA-YT\) )'
+10.8 TL
+(19:00-21:00 Meeting de )'
+9 TL
+(WCARC )'
+/R9 7.2 Tf
+184.337 36 Td
 [(21)-12995.2(22)-12995.2(23)-12995.2(24)-12995.1(25)]TJ
 ET
 Q
-4736.68 7497.9 m
-4736.68 387.898 l
+4733.88 7497.9 m
+4733.88 387.898 l
 S
 0 g
 q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
-0 1 -1 0 470.968 44.1898 Tm
-(Week 33)Tj
+0 1 -1 0 470.688 44.1898 Tm
+(Semaine 33)Tj
 /R9 7.2 Tf
-82.7652 87.7066 Td
-[(19)-12995.2(20)]TJ
+82.7652 87.9871 Td
+(19)Tj
 /R8 7.2 Tf
-18.8062 -7.2 Td
-(Discovery Day \(CA-YT\) )Tj
+-82.7652 -7.2 Td
+(18:00-23:59 Rookie )Tj
+9 TL
+(Roundup RTTY ARRL )'
 /R9 7.2 Tf
-184.337 7.2 Td
+184.337 16.2 Td
+(20)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Journée découverte )Tj
+(\(CA-YT\) )'
+10.8 TL
+(19:00-21:00 Meeting de )'
+9 TL
+(WCARC )'
+/R9 7.2 Tf
+184.337 36 Td
 [(21)-12995.2(22)-12995.2(23)-12995.2(24)-12995.1(25)]TJ
 ET
 Q
-4736.68 7497.9 m
-4736.68 387.898 l
+4733.88 7497.9 m
+4733.88 387.898 l
 S
 1 g
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
-0 1 -1 0 486.268 126.955 Tm
+0 1 -1 0 485.988 126.955 Tm
 [(26)-12995.2(27)-12995.2(28)-12995.2(29)-12995.2(30)-12995.2(31)]TJ
 ET
 Q
@@ -5751,67 +6921,67 @@ q
 10 0 0 10 0 0 cm BT
 /R8 6 Tf
 0 1 -1 0 573.975 44.1898 Tm
-(Week 34)Tj
+(Semaine 34)Tj
 ET
 Q
-4826.68 513.898 m
-4806.8 513.898 4790.68 497.777 4790.68 477.898 c
-4790.68 458.02 4806.8 441.898 4826.68 441.898 c
-4846.56 441.898 4862.68 458.02 4862.68 477.898 c
-4862.68 497.777 4846.56 513.898 4826.68 513.898 c
+4823.88 513.898 m
+4804 513.898 4787.88 497.777 4787.88 477.898 c
+4787.88 458.02 4804 441.898 4823.88 441.898 c
+4843.76 441.898 4859.88 458.02 4859.88 477.898 c
+4859.88 497.777 4843.76 513.898 4823.88 513.898 c
 h
 S
 q
 10 0 0 10 0 0 cm BT
 /R9 7.2 Tf
-0 1 -1 0 486.268 126.955 Tm
+0 1 -1 0 485.988 126.955 Tm
 [(26)-12995.2(27)-12995.2(28)-12995.2(29)-12995.2(30)-12995.2(31)]TJ
 ET
 Q
 5766.75 7497.9 m
 5766.75 387.898 l
 S
-472.406 387.898 m
+458.406 387.898 m
 5766.75 387.898 l
 S
-472.406 1403.61 m
+458.406 1403.61 m
 5766.75 1403.61 l
 S
-472.406 2419.33 m
+458.406 2419.33 m
 5766.75 2419.33 l
 S
-472.406 3435.04 m
+458.406 3435.04 m
 5766.75 3435.04 l
 S
-472.406 4450.76 m
+458.406 4450.76 m
 5766.75 4450.76 l
 S
-472.406 5466.47 m
+458.406 5466.47 m
 5766.75 5466.47 l
 S
-472.406 6482.18 m
+458.406 6482.18 m
 5766.75 6482.18 l
 S
-472.406 7497.9 m
+458.406 7497.9 m
 5766.75 7497.9 l
 S
 q
 10 0 0 10 0 0 cm BT
 /R8 6.87138 Tf
-0 1 -1 0 73.9121 83.4859 Tm
-(July)Tj
--39.2961 -8.67109 Td
-[(S)-1220.93(M)-1054.93(T)-1276.93(W)-943.926(T)-1276.93(F)-1276.93(S)]TJ
+0 1 -1 0 72.5121 81.768 Tm
+(juillet)Tj
+-37.5781 -8.67109 Td
+[(d)-1331.93(l)-1665.93(m)-1054.93(m)-1054.93(j)-1665.93(v)-1387.93(s)]TJ
 8.67148 TL
 T*[(1)-1331.93(2)-1331.93(3)-1331.93(4)-1331.93(5)-1331.93(6)-1331.93(7)]TJ
 T*[(8)-1331.93(9)-1331.93(10)-775.926(11)-775.926(12)-775.925(13)-775.925(14)]TJ
 T*[(15)-775.926(16)-775.926(17)-775.926(18)-775.926(19)-775.925(20)-775.925(21)]TJ
 T*[(22)-775.926(23)-775.926(24)-775.926(25)-775.926(26)-775.925(27)-775.925(28)]TJ
 T*[(29)-775.926(30)-775.926(31)]TJ
-638.03 -359.999 Td
-(September)Tj
--28.6012 -8.67148 Td
-[(S)-1220.93(M)-1054.92(T)-1276.92(W)-943.927(T)-1276.92(F)-1276.92(S)]TJ
+638.604 -361.119 Td
+(septembre)Tj
+-29.175 -8.67148 Td
+[(d)-1331.92(l)-1665.93(m)-1054.92(m)-1054.92(j)-1665.93(v)-1387.93(s)]TJ
 77.8359 -8.67148 Td
 (1)Tj
 -77.8359 -8.67109 Td
@@ -5828,8 +6998,8 @@ endstream
 endobj 
 81 0 obj 
 <<
-/ModDate (D:20170818170451-04'00')
-/CreationDate (D:20170818170451-04'00')
+/ModDate (D:20170818170500-04'00')
+/CreationDate (D:20170818170500-04'00')
 /Creator (GPL Ghostscript 920 \(ps2write\))
 /Producer (GPL Ghostscript 9.20)
 >>
@@ -5837,94 +7007,94 @@ endobj xref
 0 82
 0000000000 65535 f 
 0000000015 00000 n 
-0000000287 00000 n 
-0000000590 00000 n 
-0000000893 00000 n 
-0000000969 00000 n 
-0000001045 00000 n 
-0000018337 00000 n 
-0000034206 00000 n 
-0000034261 00000 n 
-0000034316 00000 n 
-0000034381 00000 n 
-0000034446 00000 n 
-0000034728 00000 n 
-0000035010 00000 n 
-0000035146 00000 n 
-0000035282 00000 n 
-0000035417 00000 n 
-0000035552 00000 n 
-0000035687 00000 n 
-0000035822 00000 n 
-0000035957 00000 n 
-0000036092 00000 n 
-0000036227 00000 n 
-0000036362 00000 n 
-0000036497 00000 n 
-0000036632 00000 n 
-0000036702 00000 n 
-0000038144 00000 n 
-0000038283 00000 n 
-0000038535 00000 n 
+0000000289 00000 n 
+0000000592 00000 n 
+0000000895 00000 n 
+0000000971 00000 n 
+0000001047 00000 n 
+0000018339 00000 n 
+0000034208 00000 n 
+0000034263 00000 n 
+0000034318 00000 n 
+0000034383 00000 n 
+0000034448 00000 n 
+0000034730 00000 n 
+0000035012 00000 n 
+0000035148 00000 n 
+0000035284 00000 n 
+0000035419 00000 n 
+0000035554 00000 n 
+0000035689 00000 n 
+0000035824 00000 n 
+0000035959 00000 n 
+0000036094 00000 n 
+0000036229 00000 n 
+0000036364 00000 n 
+0000036499 00000 n 
+0000036634 00000 n 
+0000036704 00000 n 
+0000038146 00000 n 
+0000038285 00000 n 
+0000038536 00000 n 
 0000038787 00000 n 
-0000039039 00000 n 
-0000039291 00000 n 
-0000039543 00000 n 
-0000039795 00000 n 
-0000040047 00000 n 
-0000040299 00000 n 
-0000040551 00000 n 
-0000040804 00000 n 
-0000041058 00000 n 
-0000041312 00000 n 
-0000041358 00000 n 
-0000041393 00000 n 
-0000047865 00000 n 
-0000047911 00000 n 
-0000047946 00000 n 
-0000054330 00000 n 
-0000054376 00000 n 
-0000054411 00000 n 
-0000060866 00000 n 
-0000060912 00000 n 
-0000060947 00000 n 
-0000067261 00000 n 
-0000067307 00000 n 
-0000067342 00000 n 
-0000073016 00000 n 
-0000073062 00000 n 
-0000073097 00000 n 
-0000079137 00000 n 
-0000079183 00000 n 
-0000079218 00000 n 
-0000086213 00000 n 
-0000086259 00000 n 
-0000086294 00000 n 
-0000092929 00000 n 
-0000092975 00000 n 
-0000093010 00000 n 
-0000098944 00000 n 
-0000098990 00000 n 
-0000099025 00000 n 
-0000105791 00000 n 
-0000105837 00000 n 
-0000105872 00000 n 
-0000112298 00000 n 
-0000112344 00000 n 
-0000112379 00000 n 
-0000047780 00000 n 
-0000047625 00000 n 
-0000047577 00000 n 
-0000047715 00000 n 
-0000117929 00000 n 
+0000039038 00000 n 
+0000039289 00000 n 
+0000039540 00000 n 
+0000039791 00000 n 
+0000040042 00000 n 
+0000040293 00000 n 
+0000040544 00000 n 
+0000040796 00000 n 
+0000041049 00000 n 
+0000041302 00000 n 
+0000041348 00000 n 
+0000041383 00000 n 
+0000049509 00000 n 
+0000049555 00000 n 
+0000049590 00000 n 
+0000057226 00000 n 
+0000057272 00000 n 
+0000057307 00000 n 
+0000065154 00000 n 
+0000065200 00000 n 
+0000065235 00000 n 
+0000072748 00000 n 
+0000072794 00000 n 
+0000072829 00000 n 
+0000080002 00000 n 
+0000080048 00000 n 
+0000080083 00000 n 
+0000087830 00000 n 
+0000087876 00000 n 
+0000087911 00000 n 
+0000095986 00000 n 
+0000096032 00000 n 
+0000096067 00000 n 
+0000104167 00000 n 
+0000104213 00000 n 
+0000104248 00000 n 
+0000111730 00000 n 
+0000111776 00000 n 
+0000111811 00000 n 
+0000120364 00000 n 
+0000120410 00000 n 
+0000120445 00000 n 
+0000127730 00000 n 
+0000127776 00000 n 
+0000127811 00000 n 
+0000049424 00000 n 
+0000049146 00000 n 
+0000049098 00000 n 
+0000049236 00000 n 
+0000134346 00000 n 
 trailer
 
 <<
 /Info 81 0 R
-/ID [<2b6d146e76bb0abe2b53939f6670628a> <2b6d146e76bb0abe2b53939f6670628a>]
+/ID [<23421334a8a74866a1ca1d515f4060d9> <23421334a8a74866a1ca1d515f4060d9>]
 /Root 26 0 R
 /Size 82
 >>
 startxref
-118104
+134521
 %%EOF
