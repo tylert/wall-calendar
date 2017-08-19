@@ -1099,12 +1099,12 @@ stream
 <?adobe-xap-filters esc="CRLF"?>
 <x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='XMP toolkit 2.9.1-13, framework 1.6'>
 <rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:iX='http://ns.adobe.com/iX/1.0/'>
-<rdf:Description rdf:about='uuid:7d8cf9c4-bd1c-11f2-0000-6c446abc320b' xmlns:pdf='http://ns.adobe.com/pdf/1.3/' pdf:Producer='GPL Ghostscript 9.20'/>
-<rdf:Description rdf:about='uuid:7d8cf9c4-bd1c-11f2-0000-6c446abc320b' xmlns:xmp='http://ns.adobe.com/xap/1.0/'><xmp:ModifyDate>2017-08-19T13:00:45-04:00</xmp:ModifyDate>
-<xmp:CreateDate>2017-08-19T13:00:45-04:00</xmp:CreateDate>
+<rdf:Description rdf:about='uuid:a623ecc5-bd3a-11f2-0000-c4c2e439935b' xmlns:pdf='http://ns.adobe.com/pdf/1.3/' pdf:Producer='GPL Ghostscript 9.20'/>
+<rdf:Description rdf:about='uuid:a623ecc5-bd3a-11f2-0000-c4c2e439935b' xmlns:xmp='http://ns.adobe.com/xap/1.0/'><xmp:ModifyDate>2017-08-19T16:36:38-04:00</xmp:ModifyDate>
+<xmp:CreateDate>2017-08-19T16:36:38-04:00</xmp:CreateDate>
 <xmp:CreatorTool>GPL Ghostscript 920 (ps2write)</xmp:CreatorTool></rdf:Description>
-<rdf:Description rdf:about='uuid:7d8cf9c4-bd1c-11f2-0000-6c446abc320b' xmlns:xapMM='http://ns.adobe.com/xap/1.0/mm/' xapMM:DocumentID='uuid:7d8cf9c4-bd1c-11f2-0000-6c446abc320b'/>
-<rdf:Description rdf:about='uuid:7d8cf9c4-bd1c-11f2-0000-6c446abc320b' xmlns:dc='http://purl.org/dc/elements/1.1/' dc:format='application/pdf'><dc:title><rdf:Alt><rdf:li xml:lang='x-default'>Untitled</rdf:li></rdf:Alt></dc:title></rdf:Description>
+<rdf:Description rdf:about='uuid:a623ecc5-bd3a-11f2-0000-c4c2e439935b' xmlns:xapMM='http://ns.adobe.com/xap/1.0/mm/' xapMM:DocumentID='uuid:a623ecc5-bd3a-11f2-0000-c4c2e439935b'/>
+<rdf:Description rdf:about='uuid:a623ecc5-bd3a-11f2-0000-c4c2e439935b' xmlns:dc='http://purl.org/dc/elements/1.1/' dc:format='application/pdf'><dc:title><rdf:Alt><rdf:li xml:lang='x-default'>Untitled</rdf:li></rdf:Alt></dc:title></rdf:Description>
 </rdf:RDF>
 </x:xmpmeta>
                                                                         
@@ -3721,7 +3721,7 @@ endobj
 endobj 
 58 0 obj 
 <<
-/Length 7691
+/Length 7809
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -4104,6 +4104,9 @@ q
 /R9 7.2 Tf
 184.337 16.2 Td
 (28)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Journée des chemises rose )Tj
 ET
 Q
 5766.75 7497.9 m
@@ -4126,6 +4129,9 @@ q
 /R9 7.2 Tf
 184.337 16.2 Td
 (28)Tj
+/R8 7.2 Tf
+-82.7652 -7.2 Td
+(Journée des chemises rose )Tj
 ET
 Q
 5766.75 7497.9 m
@@ -4695,7 +4701,7 @@ endobj
 endobj 
 64 0 obj 
 <<
-/Length 8044
+/Length 8178
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -5031,8 +5037,12 @@ q
 /R8 7.2 Tf
 18.8059 -7.2 Td
 (Jour d'Anzac \(AU, NZ\) )Tj
+10.8 TL
+(Journée des professionnels )'
+9 TL
+(de l'administration )'
 /R9 7.2 Tf
-184.337 7.2 Td
+184.337 27 Td
 [(26)-12995.2(27)-12995.1(28)]TJ
 ET
 Q
@@ -5087,8 +5097,12 @@ q
 /R8 7.2 Tf
 18.8059 -7.2 Td
 (Jour d'Anzac \(AU, NZ\) )Tj
+10.8 TL
+(Journée des professionnels )'
+9 TL
+(de l'administration )'
 /R9 7.2 Tf
-184.337 7.2 Td
+184.337 27 Td
 [(26)-12995.2(27)-12995.1(28)]TJ
 ET
 Q
@@ -5660,7 +5674,7 @@ endobj
 endobj 
 70 0 obj 
 <<
-/Length 8497
+/Length 8487
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -6049,13 +6063,12 @@ q
 (28)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Jour de tau \(6.28\) )Tj
-10.8 TL
-(JOURNÉE )'
-9 TL
+(JOURNÉE )Tj
 (INTERNATIONALE DU )'
 (VERROUILLAGE DES )'
 (MAJUSCULES )'
+10.8 TL
+(Jour de tau \(6.28\) )'
 /R9 7.2 Tf
 184.337 45 Td
 [(29)-12995.1(30)]TJ
@@ -6119,13 +6132,12 @@ q
 (28)Tj
 /R8 7.2 Tf
 -82.7652 -7.2 Td
-(Jour de tau \(6.28\) )Tj
-10.8 TL
-(JOURNÉE )'
-9 TL
+(JOURNÉE )Tj
 (INTERNATIONALE DU )'
 (VERROUILLAGE DES )'
 (MAJUSCULES )'
+10.8 TL
+(Jour de tau \(6.28\) )'
 /R9 7.2 Tf
 184.337 45 Td
 [(29)-12995.1(30)]TJ
@@ -7018,8 +7030,8 @@ endstream
 endobj 
 81 0 obj 
 <<
-/ModDate (D:20170819130045-04'00')
-/CreationDate (D:20170819130045-04'00')
+/ModDate (D:20170819163638-04'00')
+/CreationDate (D:20170819163638-04'00')
 /Creator (GPL Ghostscript 920 \(ps2write\))
 /Producer (GPL Ghostscript 9.20)
 >>
@@ -7084,37 +7096,37 @@ endobj xref
 0000080104 00000 n 
 0000080150 00000 n 
 0000080185 00000 n 
-0000087932 00000 n 
-0000087978 00000 n 
-0000088013 00000 n 
-0000096110 00000 n 
-0000096156 00000 n 
-0000096191 00000 n 
-0000104291 00000 n 
-0000104337 00000 n 
-0000104372 00000 n 
-0000111854 00000 n 
-0000111900 00000 n 
-0000111935 00000 n 
-0000120488 00000 n 
-0000120534 00000 n 
-0000120569 00000 n 
-0000127988 00000 n 
-0000128034 00000 n 
-0000128069 00000 n 
+0000088050 00000 n 
+0000088096 00000 n 
+0000088131 00000 n 
+0000096228 00000 n 
+0000096274 00000 n 
+0000096309 00000 n 
+0000104543 00000 n 
+0000104589 00000 n 
+0000104624 00000 n 
+0000112106 00000 n 
+0000112152 00000 n 
+0000112187 00000 n 
+0000120730 00000 n 
+0000120776 00000 n 
+0000120811 00000 n 
+0000128230 00000 n 
+0000128276 00000 n 
+0000128311 00000 n 
 0000049454 00000 n 
 0000049176 00000 n 
 0000049128 00000 n 
 0000049266 00000 n 
-0000134604 00000 n 
+0000134846 00000 n 
 trailer
 
 <<
 /Info 81 0 R
-/ID [<ee587658df19a2ff9a8bc658b2d3812e> <ee587658df19a2ff9a8bc658b2d3812e>]
+/ID [<c275b49c2fbc3f063f15c00652003666> <c275b49c2fbc3f063f15c00652003666>]
 /Root 26 0 R
 /Size 82
 >>
 startxref
-134779
+135021
 %%EOF
