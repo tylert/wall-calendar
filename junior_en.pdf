@@ -32,7 +32,7 @@ endobj
 endobj 
 12 0 obj 
 <<
-/Length 13133
+/Length 13145
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -231,8 +231,8 @@ q
 (22)Tj
 /R8 4.65882 Tf
 -53.5539 -4.65898 Td
-(First Day of Fall )Tj
-(Rosh Hashanah Ends )'
+(Rosh Hashanah Ends )Tj
+(20:02 First Day of Fall )'
 /R9 4.65882 Tf
 119.276 11.6473 Td
 (23)Tj
@@ -270,8 +270,8 @@ q
 (22)Tj
 /R8 4.65882 Tf
 -53.5539 -4.65898 Td
-(First Day of Fall )Tj
-(Rosh Hashanah Ends )'
+(Rosh Hashanah Ends )Tj
+(20:02 First Day of Fall )'
 /R9 4.65882 Tf
 119.276 11.6473 Td
 (23)Tj
@@ -793,7 +793,7 @@ endobj
 endobj 
 19 0 obj 
 <<
-/Length 13370
+/Length 13382
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -1309,7 +1309,7 @@ q
 (21)Tj
 /R8 4.65882 Tf
 -53.5539 -4.65898 Td
-(First Day of Winter )Tj
+(16:28 First Day of Winter )Tj
 /R9 4.65882 Tf
 119.277 4.65898 Td
 [(22)-12995.1(23)]TJ
@@ -1345,7 +1345,7 @@ q
 (21)Tj
 /R8 4.65882 Tf
 -53.5539 -4.65898 Td
-(First Day of Winter )Tj
+(16:28 First Day of Winter )Tj
 /R9 4.65882 Tf
 119.277 4.65898 Td
 [(22)-12995.1(23)]TJ
@@ -1551,7 +1551,7 @@ endobj
 endobj 
 22 0 obj 
 <<
-/Length 12105
+/Length 12281
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -1594,9 +1594,15 @@ q
 (Kwanzaa Ends )'
 /R9 4.65882 Tf
 121.867 11.6469 Td
-[(2)-13551.2(3)-13551.1(4)-13551.1(5)-13551.1(6)]TJ
+[(2)-13551.2(3)]TJ
 /R8 4.65882 Tf
-206.746 -4.65859 Td
+9.57852 -4.65859 Td
+(05:35 Perihelion )Tj
+/R9 4.65882 Tf
+121.867 4.65859 Td
+[(4)-13551.1(5)-13551.1(6)]TJ
+/R8 4.65882 Tf
+75.3008 -4.65859 Td
 (Epiphany )Tj
 ET
 Q
@@ -1623,9 +1629,15 @@ q
 (Kwanzaa Ends )'
 /R9 4.65882 Tf
 121.867 11.6469 Td
-[(2)-13551.2(3)-13551.1(4)-13551.1(5)-13551.1(6)]TJ
+[(2)-13551.2(3)]TJ
 /R8 4.65882 Tf
-206.746 -4.65859 Td
+9.57852 -4.65859 Td
+(05:35 Perihelion )Tj
+/R9 4.65882 Tf
+121.867 4.65859 Td
+[(4)-13551.1(5)-13551.1(6)]TJ
+/R8 4.65882 Tf
+75.3008 -4.65859 Td
 (Epiphany )Tj
 ET
 Q
@@ -2226,7 +2238,7 @@ endobj
 endobj 
 25 0 obj 
 <<
-/Length 14376
+/Length 14388
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -2436,7 +2448,7 @@ q
 (20)Tj
 /R8 4.65882 Tf
 -53.5535 -4.65898 Td
-(First Day of Spring )Tj
+(16:15 First Day of Spring )Tj
 /R9 4.65882 Tf
 119.277 4.65898 Td
 (21)Tj
@@ -2485,7 +2497,7 @@ q
 (20)Tj
 /R8 4.65882 Tf
 -53.5535 -4.65898 Td
-(First Day of Spring )Tj
+(16:15 First Day of Spring )Tj
 /R9 4.65882 Tf
 119.277 4.65898 Td
 (21)Tj
@@ -3050,7 +3062,7 @@ endobj
 endobj 
 28 0 obj 
 <<
-/Length 13303
+/Length 13315
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -3563,9 +3575,9 @@ q
 [(18)-12995.2(19)-12995.2(20)-12995.2(21)]TJ
 /R8 4.65882 Tf
 143.614 -4.65898 Td
-(First Day of Summer )Tj
+(National Aboriginal Day )Tj
 6.98789 TL
-(National Aboriginal Day )'
+(10:07 First Day of Summer )'
 /R9 4.65882 Tf
 119.277 11.6469 Td
 [(22)-12995.1(23)]TJ
@@ -3606,9 +3618,9 @@ q
 [(18)-12995.2(19)-12995.2(20)-12995.2(21)]TJ
 /R8 4.65882 Tf
 143.614 -4.65898 Td
-(First Day of Summer )Tj
+(National Aboriginal Day )Tj
 6.98789 TL
-(National Aboriginal Day )'
+(10:07 First Day of Summer )'
 /R9 4.65882 Tf
 119.277 11.6469 Td
 [(22)-12995.1(23)]TJ
@@ -3805,7 +3817,7 @@ endobj
 endobj 
 31 0 obj 
 <<
-/Length 12407
+/Length 12575
 >>
 stream
 q 0.1 0 0 0.1 0 0 cm
@@ -3860,7 +3872,13 @@ q
 (Independence Day \(US\) )Tj
 /R9 4.65882 Tf
 121.867 4.65859 Td
-[(5)-13551.1(6)-13551.1(7)]TJ
+[(5)-13551.1(6)]TJ
+/R8 4.65882 Tf
+9.57852 -4.65859 Td
+(16:47 Aphelion )Tj
+/R9 4.65882 Tf
+121.866 4.65859 Td
+(7)Tj
 ET
 Q
 5349.23 6854.63 m
@@ -3909,7 +3927,13 @@ q
 (Independence Day \(US\) )Tj
 /R9 4.65882 Tf
 121.867 4.65859 Td
-[(5)-13551.1(6)-13551.1(7)]TJ
+[(5)-13551.1(6)]TJ
+/R8 4.65882 Tf
+9.57852 -4.65859 Td
+(16:47 Aphelion )Tj
+/R9 4.65882 Tf
+121.866 4.65859 Td
+(7)Tj
 ET
 Q
 5349.23 6854.63 m
@@ -4492,12 +4516,12 @@ stream
 <?adobe-xap-filters esc="CRLF"?>
 <x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='XMP toolkit 2.9.1-13, framework 1.6'>
 <rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:iX='http://ns.adobe.com/iX/1.0/'>
-<rdf:Description rdf:about='uuid:6e06a2f6-bc75-11f2-0000-2432998cfbf9' xmlns:pdf='http://ns.adobe.com/pdf/1.3/' pdf:Producer='GPL Ghostscript 9.20'/>
-<rdf:Description rdf:about='uuid:6e06a2f6-bc75-11f2-0000-2432998cfbf9' xmlns:xmp='http://ns.adobe.com/xap/1.0/'><xmp:ModifyDate>2017-08-18T17:04:53-04:00</xmp:ModifyDate>
-<xmp:CreateDate>2017-08-18T17:04:53-04:00</xmp:CreateDate>
+<rdf:Description rdf:about='uuid:c17c00a3-bd14-11f2-0000-b1a768844f3b' xmlns:pdf='http://ns.adobe.com/pdf/1.3/' pdf:Producer='GPL Ghostscript 9.20'/>
+<rdf:Description rdf:about='uuid:c17c00a3-bd14-11f2-0000-b1a768844f3b' xmlns:xmp='http://ns.adobe.com/xap/1.0/'><xmp:ModifyDate>2017-08-19T12:05:23-04:00</xmp:ModifyDate>
+<xmp:CreateDate>2017-08-19T12:05:23-04:00</xmp:CreateDate>
 <xmp:CreatorTool>GPL Ghostscript 920 (ps2write)</xmp:CreatorTool></rdf:Description>
-<rdf:Description rdf:about='uuid:6e06a2f6-bc75-11f2-0000-2432998cfbf9' xmlns:xapMM='http://ns.adobe.com/xap/1.0/mm/' xapMM:DocumentID='uuid:6e06a2f6-bc75-11f2-0000-2432998cfbf9'/>
-<rdf:Description rdf:about='uuid:6e06a2f6-bc75-11f2-0000-2432998cfbf9' xmlns:dc='http://purl.org/dc/elements/1.1/' dc:format='application/pdf'><dc:title><rdf:Alt><rdf:li xml:lang='x-default'>Untitled</rdf:li></rdf:Alt></dc:title></rdf:Description>
+<rdf:Description rdf:about='uuid:c17c00a3-bd14-11f2-0000-b1a768844f3b' xmlns:xapMM='http://ns.adobe.com/xap/1.0/mm/' xapMM:DocumentID='uuid:c17c00a3-bd14-11f2-0000-b1a768844f3b'/>
+<rdf:Description rdf:about='uuid:c17c00a3-bd14-11f2-0000-b1a768844f3b' xmlns:dc='http://purl.org/dc/elements/1.1/' dc:format='application/pdf'><dc:title><rdf:Alt><rdf:li xml:lang='x-default'>Untitled</rdf:li></rdf:Alt></dc:title></rdf:Description>
 </rdf:RDF>
 </x:xmpmeta>
                                                                         
@@ -4507,8 +4531,8 @@ endstream
 endobj 
 32 0 obj 
 <<
-/ModDate (D:20170818170453-04'00')
-/CreationDate (D:20170818170453-04'00')
+/ModDate (D:20170819120523-04'00')
+/CreationDate (D:20170819120523-04'00')
 /Creator (GPL Ghostscript 920 \(ps2write\))
 /Producer (GPL Ghostscript 9.20)
 >>
@@ -4516,45 +4540,45 @@ endobj xref
 0 33
 0000000000 65535 f 
 0000000015 00000 n 
-0000081109 00000 n 
+0000081501 00000 n 
 0000000082 00000 n 
 0000000171 00000 n 
-0000013853 00000 n 
-0000027549 00000 n 
-0000039980 00000 n 
-0000054682 00000 n 
-0000068311 00000 n 
-0000013807 00000 n 
-0000013772 00000 n 
+0000013865 00000 n 
+0000027573 00000 n 
+0000040180 00000 n 
+0000054894 00000 n 
+0000068535 00000 n 
+0000013819 00000 n 
+0000013784 00000 n 
 0000000359 00000 n 
-0000013549 00000 n 
-0000013597 00000 n 
-0000081044 00000 n 
-0000013687 00000 n 
-0000027503 00000 n 
-0000027468 00000 n 
-0000014041 00000 n 
-0000039934 00000 n 
-0000039899 00000 n 
-0000027737 00000 n 
-0000054636 00000 n 
-0000054601 00000 n 
-0000040168 00000 n 
-0000068265 00000 n 
-0000068230 00000 n 
-0000054870 00000 n 
-0000080998 00000 n 
-0000080963 00000 n 
-0000068499 00000 n 
-0000082550 00000 n 
+0000013561 00000 n 
+0000013609 00000 n 
+0000081436 00000 n 
+0000013699 00000 n 
+0000027527 00000 n 
+0000027492 00000 n 
+0000014053 00000 n 
+0000040134 00000 n 
+0000040099 00000 n 
+0000027761 00000 n 
+0000054848 00000 n 
+0000054813 00000 n 
+0000040368 00000 n 
+0000068489 00000 n 
+0000068454 00000 n 
+0000055082 00000 n 
+0000081390 00000 n 
+0000081355 00000 n 
+0000068723 00000 n 
+0000082942 00000 n 
 trailer
 
 <<
 /Info 32 0 R
-/ID [<fdf99f681e1a9b2014857fb3dad5d7b0> <fdf99f681e1a9b2014857fb3dad5d7b0>]
+/ID [<257358e300e297a866ad3b757fa274fb> <257358e300e297a866ad3b757fa274fb>]
 /Root 1 0 R
 /Size 33
 >>
 startxref
-82725
+83117
 %%EOF
